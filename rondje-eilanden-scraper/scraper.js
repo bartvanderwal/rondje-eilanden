@@ -47,7 +47,9 @@ function parseFile(htmlBuffer, resultFilename, encoding) {
 
   // Tussen variabele voor tabel rijen
   let participants = $('table tr');
-  console.log(`Parsen ${participants.length} tabel rijen`);
+  if (verbose) {
+    console.log(`Parsen ${participants.length} tabel rijen`);
+  }
 
   let results = [];
 
@@ -57,8 +59,9 @@ function parseFile(htmlBuffer, resultFilename, encoding) {
       console.log(`Cols length: ${cols.length}`);
     }
 
+    let result;
     if (cols.length === 7) {
-      const result = {
+      result = {
         position: $(cols[0]).text().trim(),
         startNumber: $(cols[1]).text().trim(),
         name: $(cols[2]).text().trim(),
@@ -66,23 +69,23 @@ function parseFile(htmlBuffer, resultFilename, encoding) {
         category: $(cols[4]).text().trim(),
         categoryPosition: $(cols[5]).text().trim(),
         totalTime: $(cols[6]).text().trim(),
-      };
-      if (cols.length === 9) {
-        const result = {
-          position: $(cols[0]).text().trim(),
-          startNumber: $(cols[1]).text().trim(),
-          name: $(cols[2]).text().trim(),
-          city: $(cols[3]).text().trim(),
-          category: $(cols[4]).text().trim(),
-          categoryPosition: $(cols[5]).text().trim(),
-          category: $(cols[6]).text().trim(),
-          totalTime: $(cols[7]).text().trim(),
-        };
-      if (reallyVerbose) {
-        console.log(`Row ${rowNum}: ${JSON.stringify(result)}`);
       }
-      results.push(result);
+    } else if (cols.length === 9) {
+      result = {
+        position: $(cols[0]).text().trim(),
+        startNumber: $(cols[1]).text().trim(),
+        name: $(cols[2]).text().trim(),
+        city: $(cols[3]).text().trim(),
+        category: $(cols[6]).text().trim(),
+        categoryPosition: $(cols[5]).text().trim(),
+        totalTime: $(cols[8]).text().trim(),
+      };
     }
+
+    if (reallyVerbose) {
+      console.log(`Row ${rowNum}: ${JSON.stringify(result)}`);
+    }
+    results.push(result);
   });
 
   // Schrijf de resultaten naar een JSON-bestand

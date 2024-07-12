@@ -1,4079 +1,4087 @@
 [
+  null,
+  null,
+  null,
+  null,
+  null,
   {
     "position": "1",
     "startNumber": "566",
     "name": "Raoni Schrijvers",
     "city": "BERGEIJK",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "1",
-    "totalTime": "M20"
+    "totalTime": "00:40:03"
   },
   {
     "position": "2",
     "startNumber": "214",
     "name": "Robbe De Dobbelaere",
     "city": "ADEGEM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "2",
-    "totalTime": "M20"
+    "totalTime": "00:41:19"
   },
   {
     "position": "3",
     "startNumber": "219",
     "name": "Rina Zijgers",
     "city": "APELDOORN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "1",
-    "totalTime": "V40"
+    "totalTime": "00:44:14"
   },
   {
     "position": "4",
     "startNumber": "218",
     "name": "Ruben de Ruiter",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "3",
-    "totalTime": "M20"
+    "totalTime": "00:44:28"
   },
   {
     "position": "5",
     "startNumber": "217",
     "name": "Michael Dewilde",
     "city": "EEKLO",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "4",
-    "totalTime": "M40"
+    "totalTime": "00:47:44"
   },
   {
     "position": "6",
     "startNumber": "293",
     "name": "Melissa de Bruin-Roks",
     "city": "KRIMPEN AAN DE LEK",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "2",
-    "totalTime": "V20"
+    "totalTime": "00:48:00"
   },
   {
     "position": "7",
     "startNumber": "303",
     "name": "Pierre-Victor Morales",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "5",
-    "totalTime": "M20"
+    "totalTime": "00:48:01"
   },
   {
     "position": "8",
     "startNumber": "210",
     "name": "Cas Krol",
     "city": "LEIDEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "6",
-    "totalTime": "M20"
+    "totalTime": "00:48:32"
   },
   {
     "position": "9",
     "startNumber": "209",
     "name": "Marcel Bezemer",
     "city": "DORDRECHT",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "7",
-    "totalTime": "M50"
+    "totalTime": "00:48:59"
   },
   {
     "position": "10",
     "startNumber": "225",
     "name": "Bas Habets",
     "city": "DEN HELDER",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "8",
-    "totalTime": "M20"
+    "totalTime": "00:49:18"
   },
   {
     "position": "11",
     "startNumber": "423",
     "name": "Fleur Vialle",
     "city": "ENSCHEDE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "3",
-    "totalTime": "V20"
+    "totalTime": "00:49:23"
   },
   {
     "position": "12",
     "startNumber": "318",
     "name": "Ingmar Kooman",
     "city": "LEIDERDORP",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "9",
-    "totalTime": "M40"
+    "totalTime": "00:49:32"
   },
   {
     "position": "13",
     "startNumber": "204",
     "name": "Janneke van der Meulen",
     "city": "VINKEVEEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "4",
-    "totalTime": "V20"
+    "totalTime": "00:49:40"
   },
   {
     "position": "14",
     "startNumber": "285",
     "name": "Merlijn Visser",
     "city": "HILVERSUM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "10",
-    "totalTime": "M20"
+    "totalTime": "00:49:53"
   },
   {
     "position": "15",
     "startNumber": "315",
     "name": "Romario Spruit",
     "city": "BILTHOVEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "11",
-    "totalTime": "M20"
+    "totalTime": "00:50:00"
   },
   {
     "position": "16",
     "startNumber": "239",
     "name": "Lars Bossink",
     "city": "LATTROP",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "12",
-    "totalTime": "M20"
+    "totalTime": "00:50:02"
   },
   {
     "position": "17",
     "startNumber": "565",
     "name": "Lieke Smits",
     "city": "BERGEIJK",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "5",
-    "totalTime": "V20"
+    "totalTime": "00:50:02"
   },
   {
     "position": "18",
     "startNumber": "226",
     "name": "Maarten van Dijk",
     "city": "DEN HELDER",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "13",
-    "totalTime": "M40"
+    "totalTime": "00:50:15"
   },
   {
     "position": "19",
     "startNumber": "224",
     "name": "Anton van Dijk",
     "city": "DEN HELDER",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "14",
-    "totalTime": "M40"
+    "totalTime": "00:50:15"
   },
   {
     "position": "20",
     "startNumber": "270",
     "name": "Jelte van den Boogaard",
     "city": "WAALRE",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "15",
-    "totalTime": "M20"
+    "totalTime": "00:50:21"
   },
   {
     "position": "21",
     "startNumber": "205",
     "name": "Jasmin Siersema",
     "city": "HENGELO",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "6",
-    "totalTime": "V20"
+    "totalTime": "00:50:24"
   },
   {
     "position": "22",
     "startNumber": "278",
     "name": "Joanne Maartens",
     "city": "EINDHOVEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "7",
-    "totalTime": "V20"
+    "totalTime": "00:50:40"
   },
   {
     "position": "23",
     "startNumber": "467",
     "name": "Lewis Zwart",
     "city": "ALMERE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "8",
-    "totalTime": "V20"
+    "totalTime": "00:50:57"
   },
   {
     "position": "24",
     "startNumber": "627",
     "name": "Yvonne Beumer",
     "city": "DE MEERN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "9",
-    "totalTime": "V40"
+    "totalTime": "00:51:00"
   },
   {
     "position": "25",
     "startNumber": "605",
     "name": "Sipke Moes",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "16",
-    "totalTime": "M20"
+    "totalTime": "00:51:43"
   },
   {
     "position": "26",
     "startNumber": "244",
     "name": "Frits Bouwman",
     "city": "ZAANDAM",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "17",
-    "totalTime": "M60"
+    "totalTime": "00:51:44"
   },
   {
     "position": "27",
     "startNumber": "216",
     "name": "Daan Bossink",
     "city": "ENSCHEDE",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "18",
-    "totalTime": "M20"
+    "totalTime": "00:51:51"
   },
   {
     "position": "28",
     "startNumber": "286",
     "name": "Merlijn Hooijsma",
     "city": "MUIDERBERG",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "19",
-    "totalTime": "M20"
+    "totalTime": "00:51:57"
   },
   {
     "position": "29",
     "startNumber": "236",
     "name": "Maarten Snel",
     "city": "KORTENHOEF",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "20",
-    "totalTime": "M40"
+    "totalTime": "00:52:15"
   },
   {
     "position": "30",
     "startNumber": "431",
     "name": "Jorden van Luxemburg",
     "city": "DRIEBERGEN-RIJSSENBURG",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "21",
-    "totalTime": "M20"
+    "totalTime": "00:52:21"
   },
   {
     "position": "31",
     "startNumber": "648",
     "name": "Gerard Van der Weerd",
     "city": "VEENENDAAL",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "22",
-    "totalTime": "M20"
+    "totalTime": "00:52:28"
   },
   {
     "position": "32",
     "startNumber": "215",
     "name": "Jan De Dobbelaere",
     "city": "ADEGEM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "23",
-    "totalTime": "M50"
+    "totalTime": "00:52:37"
   },
   {
     "position": "33",
     "startNumber": "302",
     "name": "Tommy Buckingham",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "24",
-    "totalTime": "M20"
+    "totalTime": "00:52:39"
   },
   {
     "position": "34",
     "startNumber": "231",
     "name": "Julia van der Burgt",
     "city": "DEN BOSCH",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "10",
-    "totalTime": "V20"
+    "totalTime": "00:52:51"
   },
   {
     "position": "35",
     "startNumber": "272",
     "name": "Wigard Kloosterman",
     "city": "BUNNIK",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "25",
-    "totalTime": "M40"
+    "totalTime": "00:52:52"
   },
   {
     "position": "36",
     "startNumber": "245",
     "name": "Lisa Bosgraaf - Visser",
     "city": "UITHOORN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "11",
-    "totalTime": "V20"
+    "totalTime": "00:53:11"
   },
   {
     "position": "37",
     "startNumber": "316",
     "name": "Ron Koomen",
     "city": "HENGELO",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "26",
-    "totalTime": "M20"
+    "totalTime": "00:53:11"
   },
   {
     "position": "38",
     "startNumber": "254",
     "name": "Leon de Vries",
     "city": "HENGELO",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "27",
-    "totalTime": "M20"
+    "totalTime": "00:53:16"
   },
   {
     "position": "39",
     "startNumber": "282",
     "name": "Lucas van Engelen",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "28",
-    "totalTime": "M40"
+    "totalTime": "00:53:32"
   },
   {
     "position": "40",
     "startNumber": "291",
     "name": "Martijn Borst",
     "city": "LIJNDEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "29",
-    "totalTime": "M20"
+    "totalTime": "00:53:35"
   },
   {
     "position": "41",
     "startNumber": "304",
     "name": "Ralf Zaal",
     "city": "VINKEVEEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "30",
-    "totalTime": "M40"
+    "totalTime": "00:53:37"
   },
   {
     "position": "42",
     "startNumber": "284",
     "name": "Marlies Wilkens",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "12",
-    "totalTime": "V20"
+    "totalTime": "00:53:38"
   },
   {
     "position": "43",
     "startNumber": "544",
     "name": "Natasja Langendam",
     "city": "HENDRIK-IDO-AMBACHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "13",
-    "totalTime": "V20"
+    "totalTime": "00:53:56"
   },
   {
     "position": "44",
     "startNumber": "253",
     "name": "Gersom Post Hospers",
     "city": "HENGELO",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "31",
-    "totalTime": "M20"
+    "totalTime": "00:53:57"
   },
   {
     "position": "45",
     "startNumber": "208",
     "name": "Thirza Stiphout",
     "city": "LEUSDEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "14",
-    "totalTime": "V20"
+    "totalTime": "00:53:59"
   },
   {
     "position": "46",
     "startNumber": "240",
     "name": "Thomas Wals",
     "city": "PURMEREND",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "32",
-    "totalTime": "M20"
+    "totalTime": "00:54:04"
   },
   {
     "position": "47",
     "startNumber": "488",
     "name": "Mark Schouten",
     "city": "UITHOORN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "33",
-    "totalTime": "M50"
+    "totalTime": "00:54:07"
   },
   {
     "position": "48",
     "startNumber": "243",
     "name": "Gerda Bouwman",
     "city": "ZAANDAM",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "15",
-    "totalTime": "V60"
+    "totalTime": "00:54:16"
   },
   {
     "position": "49",
     "startNumber": "222",
     "name": "Amber Hogendorp",
     "city": "DEN HELDER",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "16",
-    "totalTime": "V20"
+    "totalTime": "00:54:20"
   },
   {
     "position": "50",
     "startNumber": "437",
     "name": "Erik Visser",
     "city": "WOERDEN",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "34",
-    "totalTime": "M60"
+    "totalTime": "00:54:24"
   },
   {
     "position": "51",
     "startNumber": "259",
     "name": "Hans-Peter Ligthart",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "35",
-    "totalTime": "M50"
+    "totalTime": "00:54:27"
   },
   {
     "position": "52",
     "startNumber": "283",
     "name": "Lysanne Wilkens",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "17",
-    "totalTime": "V20"
+    "totalTime": "00:54:28"
   },
   {
     "position": "53",
     "startNumber": "279",
     "name": "Willem Jan Peters",
     "city": "BAARN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "36",
-    "totalTime": "M40"
+    "totalTime": "00:54:36"
   },
   {
     "position": "54",
     "startNumber": "261",
     "name": "Emma Heitbrink",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "18",
-    "totalTime": "V20"
+    "totalTime": "00:54:49"
   },
   {
     "position": "55",
     "startNumber": "260",
     "name": "Inge Phernambucq",
     "city": "BUNNIK",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "19",
-    "totalTime": "V20"
+    "totalTime": "00:54:50"
   },
   {
     "position": "56",
     "startNumber": "235",
     "name": "Chantal Bloemen-Lokhorst",
     "city": "RODEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "20",
-    "totalTime": "V20"
+    "totalTime": "00:54:54"
   },
   {
     "position": "57",
     "startNumber": "547",
     "name": "Jasper Post",
     "city": "KORTENHOEF",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "37",
-    "totalTime": "M20"
+    "totalTime": "00:54:54"
   },
   {
     "position": "58",
     "startNumber": "306",
     "name": "Renske Eilers",
     "city": "AMERSFOORT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "21",
-    "totalTime": "V20"
+    "totalTime": "00:55:00"
   },
   {
     "position": "59",
     "startNumber": "305",
     "name": "Ralph Heemskerk",
     "city": "ROTTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "38",
-    "totalTime": "M20"
+    "totalTime": "00:55:01"
   },
   {
     "position": "60",
     "startNumber": "301",
     "name": "Sjoerd Schippers",
     "city": "WOERDEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "39",
-    "totalTime": "M40"
+    "totalTime": "00:55:03"
   },
   {
     "position": "61",
     "startNumber": "211",
     "name": "Wouter Dijkhuis",
     "city": "VINKEVEEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "40",
-    "totalTime": "M40"
+    "totalTime": "00:55:14"
   },
   {
     "position": "62",
     "startNumber": "606",
     "name": "Michiel Stapelkamp",
     "city": "ZEIST",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "41",
-    "totalTime": "M40"
+    "totalTime": "00:55:25"
   },
   {
     "position": "63",
     "startNumber": "531",
     "name": "Ian van Haaren",
     "city": "DEN HAAG",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "42",
-    "totalTime": "M40"
+    "totalTime": "00:55:37"
   },
   {
     "position": "64",
     "startNumber": "151",
     "name": "Irene Bindenga",
     "city": "HILVERSUM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "22",
-    "totalTime": "V40"
+    "totalTime": "00:55:47"
   },
   {
     "position": "65",
     "startNumber": "647",
     "name": "Sanne Heymann",
     "city": "VEENENDAAL",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "23",
-    "totalTime": "V20"
+    "totalTime": "00:56:09"
   },
   {
     "position": "66",
     "startNumber": "447",
     "name": "Peter Dekker",
     "city": "ZOUTELANDE",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "43",
-    "totalTime": "M50"
+    "totalTime": "00:56:18"
   },
   {
     "position": "67",
     "startNumber": "551",
     "name": "Simone lankhuijzen",
     "city": "DE LIER",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "24",
-    "totalTime": "V50"
+    "totalTime": "00:56:22"
   },
   {
     "position": "68",
     "startNumber": "234",
     "name": "Liselot Goris",
     "city": "HENGELO OV",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "25",
-    "totalTime": "V20"
+    "totalTime": "00:56:24"
   },
   {
     "position": "69",
     "startNumber": "207",
     "name": "Sven Duits",
     "city": "AMERSFOORT",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "44",
-    "totalTime": "M40"
+    "totalTime": "00:56:35"
   },
   {
     "position": "70",
     "startNumber": "511",
     "name": "Jan Marco van der Poel",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "45",
-    "totalTime": "M20"
+    "totalTime": "00:56:36"
   },
   {
     "position": "71",
     "startNumber": "202",
     "name": "Miranda Frizzelle",
     "city": "UNITED KINGDOM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "26",
-    "totalTime": "V20"
+    "totalTime": "00:56:39"
   },
   {
     "position": "72",
     "startNumber": "506",
     "name": "Elana van Rooden - Meijer",
     "city": "LEIDEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "27",
-    "totalTime": "V20"
+    "totalTime": "00:56:46"
   },
   {
     "position": "73",
     "startNumber": "201",
     "name": "Elliott Finn Phillips",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "46",
-    "totalTime": "M20"
+    "totalTime": "00:56:49"
   },
   {
     "position": "74",
     "startNumber": "486",
     "name": "Wendie van Wingerden-Doijen",
     "city": "ROERMOND",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "28",
-    "totalTime": "V40"
+    "totalTime": "00:56:52"
   },
   {
     "position": "75",
     "startNumber": "519",
     "name": "Nienke Wind",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "29",
-    "totalTime": "V20"
+    "totalTime": "00:56:53"
   },
   {
     "position": "76",
     "startNumber": "233",
     "name": "Arno Smit",
     "city": "ANDIJK",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "47",
-    "totalTime": "M50"
+    "totalTime": "00:56:57"
   },
   {
     "position": "77",
     "startNumber": "445",
     "name": "Alexander Dekker",
     "city": "OOSTKAPELLE",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "48",
-    "totalTime": "M40"
+    "totalTime": "00:56:58"
   },
   {
     "position": "78",
     "startNumber": "456",
     "name": "Arjen Zijlstra",
     "city": "NIJMEGEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "49",
-    "totalTime": "M20"
+    "totalTime": "00:57:00"
   },
   {
     "position": "79",
     "startNumber": "238",
     "name": "Geert Vlogman",
     "city": "VORDEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "50",
-    "totalTime": "M40"
+    "totalTime": "00:57:00"
   },
   {
     "position": "80",
     "startNumber": "275",
     "name": "John van Marrewijk",
     "city": "DE LIER",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "51",
-    "totalTime": "M50"
+    "totalTime": "00:57:01"
   },
   {
     "position": "81",
     "startNumber": "310",
     "name": "Suzanne Kuin",
     "city": "WERVERSHOOF",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "30",
-    "totalTime": "V20"
+    "totalTime": "00:57:02"
   },
   {
     "position": "82",
     "startNumber": "427",
     "name": "Stephanie Demoullin",
     "city": "VAN ALKEMADELAAN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "31",
-    "totalTime": "V20"
+    "totalTime": "00:57:11"
   },
   {
     "position": "83",
     "startNumber": "449",
     "name": "Lizet Wolters",
     "city": "WOERDEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "32",
-    "totalTime": "V20"
+    "totalTime": "00:57:19"
   },
   {
     "position": "84",
     "startNumber": "472",
     "name": "Kees Wiersema",
     "city": "MONNICKENDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "52",
-    "totalTime": "M40"
+    "totalTime": "00:57:28"
   },
   {
     "position": "85",
     "startNumber": "163",
     "name": "Marleen Haakma",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "33",
-    "totalTime": "V50"
+    "totalTime": "00:57:35"
   },
   {
     "position": "86",
     "startNumber": "637",
     "name": "Nynke Voerman",
     "city": "SOEST",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "34",
-    "totalTime": "V20"
+    "totalTime": "00:57:37"
   },
   {
     "position": "87",
     "startNumber": "577",
     "name": "Marcel van den Bovenkamp",
     "city": "WEESP",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "53",
-    "totalTime": "M50"
+    "totalTime": "00:57:44"
   },
   {
     "position": "88",
     "startNumber": "311",
     "name": "Dorien Kuin",
     "city": "HOOGKARSPEL",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "35",
-    "totalTime": "V40"
+    "totalTime": "00:57:44"
   },
   {
     "position": "89",
     "startNumber": "21",
     "name": "Ferry Kreeuseler",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "54",
-    "totalTime": "M40"
+    "totalTime": "00:57:47"
   },
   {
     "position": "90",
     "startNumber": "312",
     "name": "Robbert van Meulem",
     "city": "OOSTWOUD",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "55",
-    "totalTime": "M50"
+    "totalTime": "00:57:59"
   },
   {
     "position": "91",
     "startNumber": "387",
     "name": "Mick Luinge",
     "city": "UITHOORN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "56",
-    "totalTime": "M20"
+    "totalTime": "00:58:06"
   },
   {
     "position": "92",
     "startNumber": "636",
     "name": "Willeke Koers",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "36",
-    "totalTime": "V40"
+    "totalTime": "00:58:10"
   },
   {
     "position": "93",
     "startNumber": "495",
     "name": "Corné van Gestel",
     "city": "DIESSEN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "57",
-    "totalTime": "M50"
+    "totalTime": "00:58:10"
   },
   {
     "position": "94",
     "startNumber": "549",
     "name": "Thom Snoek",
     "city": "UITHOORN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "58",
-    "totalTime": "M20"
+    "totalTime": "00:58:11"
   },
   {
     "position": "95",
     "startNumber": "255",
     "name": "Guido Jetten",
     "city": "DELFGAUW",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "59",
-    "totalTime": "M20"
+    "totalTime": "00:58:15"
   },
   {
     "position": "96",
     "startNumber": "241",
     "name": "Tim Buffing",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "60",
-    "totalTime": "M40"
+    "totalTime": "00:58:16"
   },
   {
     "position": "97",
     "startNumber": "583",
     "name": "Gaston Loos",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "61",
-    "totalTime": "M50"
+    "totalTime": "00:58:20"
   },
   {
     "position": "98",
     "startNumber": "587",
     "name": "Marcel Heijnen",
     "city": "MIJDRECHT",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "62",
-    "totalTime": "M40"
+    "totalTime": "00:58:24"
   },
   {
     "position": "99",
     "startNumber": "448",
     "name": "Roely Leijnse-Prenger",
     "city": "KAMPERLAND (ZEELAND)",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "37",
-    "totalTime": "V40"
+    "totalTime": "00:58:34"
   },
   {
     "position": "100",
     "startNumber": "271",
     "name": "Jikke Balkema",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "38",
-    "totalTime": "V40"
+    "totalTime": "00:58:38"
   },
   {
     "position": "101",
     "startNumber": "576",
     "name": "Toby Smith",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "63",
-    "totalTime": "M20"
+    "totalTime": "00:58:47"
   },
   {
     "position": "102",
     "startNumber": "490",
     "name": "Chantor Pascal van Beek",
     "city": "ARNHEM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "64",
-    "totalTime": "M20"
+    "totalTime": "00:58:47"
   },
   {
     "position": "103",
     "startNumber": "499",
     "name": "Roland Van Baarn",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "65",
-    "totalTime": "M20"
+    "totalTime": "00:58:50"
   },
   {
     "position": "104",
     "startNumber": "79",
     "name": "Robert Gardien",
     "city": "DIDAM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "66",
-    "totalTime": "M50"
+    "totalTime": "00:58:51"
   },
   {
     "position": "105",
     "startNumber": "424",
     "name": "Patrick Voorbij",
     "city": "AMSTELVEEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "67",
-    "totalTime": "M40"
+    "totalTime": "00:58:59"
   },
   {
     "position": "106",
     "startNumber": "485",
     "name": "Jerry Otten",
     "city": "MEERLO",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "68",
-    "totalTime": "M40"
+    "totalTime": "00:59:00"
   },
   {
     "position": "107",
     "startNumber": "292",
     "name": "Matthijs Zweemer",
     "city": "ROTTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "69",
-    "totalTime": "M20"
+    "totalTime": "00:59:06"
   },
   {
     "position": "108",
     "startNumber": "470",
     "name": "Ben Kuiken",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "70",
-    "totalTime": "M50"
+    "totalTime": "00:59:07"
   },
   {
     "position": "109",
     "startNumber": "400",
     "name": "Mark van der Geer",
     "city": "BAAMBRUGGE",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "71",
-    "totalTime": "M40"
+    "totalTime": "00:59:11"
   },
   {
     "position": "110",
     "startNumber": "262",
     "name": "Harry Oosterveen",
     "city": "DEN HAAG",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "72",
-    "totalTime": "M50"
+    "totalTime": "00:59:11"
   },
   {
     "position": "111",
     "startNumber": "589",
     "name": "Mariëtte Mol",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "39",
-    "totalTime": "V20"
+    "totalTime": "00:59:22"
   },
   {
     "position": "112",
     "startNumber": "337",
     "name": "Bas van Roemburg",
     "city": "NIGTEVECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "73",
-    "totalTime": "M20"
+    "totalTime": "00:59:25"
   },
   {
     "position": "113",
     "startNumber": "525",
     "name": "Hannie Soeters",
     "city": "DORDRECHT",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "40",
-    "totalTime": "V50"
+    "totalTime": "00:59:32"
   },
   {
     "position": "114",
     "startNumber": "538",
     "name": "San Wijs",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "74",
-    "totalTime": "M40"
+    "totalTime": "00:59:33"
   },
   {
     "position": "115",
     "startNumber": "252",
     "name": "Geertje Oskam",
     "city": "HEERHUGOWAARD",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "41",
-    "totalTime": "V20"
+    "totalTime": "00:59:36"
   },
   {
     "position": "116",
     "startNumber": "401",
     "name": "Tatiana Lodder",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "42",
-    "totalTime": "V20"
+    "totalTime": "00:59:38"
   },
   {
     "position": "117",
     "startNumber": "466",
     "name": "Mees de Vries",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "75",
-    "totalTime": "M20"
+    "totalTime": "00:59:40"
   },
   {
     "position": "118",
     "startNumber": "257",
     "name": "JW Dekker",
     "city": "MIDDELBURG",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "76",
-    "totalTime": "M40"
+    "totalTime": "00:59:43"
   },
   {
     "position": "119",
     "startNumber": "585",
     "name": "Marieke Smidt",
     "city": "OOSTERBEEK",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "43",
-    "totalTime": "V40"
+    "totalTime": "00:59:47"
   },
   {
     "position": "120",
     "startNumber": "604",
     "name": "Martijn Kleinbussink",
     "city": "OUDERKERK AAN DE AMSTEL",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "77",
-    "totalTime": "M20"
+    "totalTime": "00:59:47"
   },
   {
     "position": "121",
     "startNumber": "47",
     "name": "Karel Petiet",
     "city": "NIEUWLAND",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "78",
-    "totalTime": "M40"
+    "totalTime": "00:59:53"
   },
   {
     "position": "122",
     "startNumber": "290",
     "name": "Mark Thies",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "79",
-    "totalTime": "M50"
+    "totalTime": "00:59:56"
   },
   {
     "position": "123",
     "startNumber": "510",
     "name": "Elvira den Hertog",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "44",
-    "totalTime": "V20"
+    "totalTime": "01:00:01"
   },
   {
     "position": "124",
     "startNumber": "321",
     "name": "Stijn Fien",
     "city": "WEESP",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "80",
-    "totalTime": "M50"
+    "totalTime": "01:00:03"
   },
   {
     "position": "125",
     "startNumber": "276",
     "name": "Joost Houtman",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "81",
-    "totalTime": "M60"
+    "totalTime": "01:00:03"
   },
   {
     "position": "126",
     "startNumber": "274",
     "name": "Joanna Szydlo",
     "city": "LISSE",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "45",
-    "totalTime": "V40"
+    "totalTime": "01:00:05"
   },
   {
     "position": "127",
     "startNumber": "242",
     "name": "Dennis Ketelaars",
     "city": "OOSTZAAN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "82",
-    "totalTime": "M40"
+    "totalTime": "01:00:14"
   },
   {
     "position": "128",
     "startNumber": "221",
     "name": "Bas Schuurman",
     "city": "ZWOLLE",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "83",
-    "totalTime": "M40"
+    "totalTime": "01:00:17"
   },
   {
     "position": "129",
     "startNumber": "220",
     "name": "Alexander Pot",
     "city": "NIJVERDAL",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "84",
-    "totalTime": "M40"
+    "totalTime": "01:00:18"
   },
   {
     "position": "130",
     "startNumber": "628",
     "name": "Simon Besseling",
     "city": "DORDRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "85",
-    "totalTime": "M20"
+    "totalTime": "01:00:19"
   },
   {
     "position": "131",
     "startNumber": "635",
     "name": "Vincent Frans",
     "city": "WORMERVEER",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "86",
-    "totalTime": "M20"
+    "totalTime": "01:00:19"
   },
   {
     "position": "132",
     "startNumber": "371",
     "name": "Floor Besteman",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "46",
-    "totalTime": "V20"
+    "totalTime": "01:00:22"
   },
   {
     "position": "133",
     "startNumber": "612",
     "name": "Nadia Van Senten",
     "city": "VINKEVEEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "47",
-    "totalTime": "V20"
+    "totalTime": "01:00:25"
   },
   {
     "position": "134",
     "startNumber": "264",
     "name": "Janneke van Spijker",
     "city": "LEIDERDORP",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "48",
-    "totalTime": "V40"
+    "totalTime": "01:00:27"
   },
   {
     "position": "135",
     "startNumber": "319",
     "name": "Marleen Eijkholt",
     "city": "LEIDEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "49",
-    "totalTime": "V40"
+    "totalTime": "01:00:28"
   },
   {
     "position": "136",
     "startNumber": "471",
     "name": "Bernard Slinkert",
     "city": "MONNICKENDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "87",
-    "totalTime": "M40"
+    "totalTime": "01:00:28"
   },
   {
     "position": "137",
     "startNumber": "432",
     "name": "Klaas van Hagen",
     "city": "NIEUWEGEIN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "88",
-    "totalTime": "M40"
+    "totalTime": "01:00:28"
   },
   {
     "position": "138",
     "startNumber": "563",
     "name": "Leontine Loeber",
     "city": "AMSTELVEEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "50",
-    "totalTime": "V40"
+    "totalTime": "01:00:40"
   },
   {
     "position": "139",
     "startNumber": "265",
     "name": "Joep van der Laan",
     "city": "WEESP",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "89",
-    "totalTime": "M20"
+    "totalTime": "01:00:50"
   },
   {
     "position": "140",
     "startNumber": "600",
     "name": "Marloes Saaman",
     "city": "ZOUTELANDE",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "51",
-    "totalTime": "V40"
+    "totalTime": "01:00:52"
   },
   {
     "position": "141",
     "startNumber": "425",
     "name": "Jasper Bos",
     "city": "BUSSUM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "90",
-    "totalTime": "M20"
+    "totalTime": "01:00:57"
   },
   {
     "position": "142",
     "startNumber": "281",
     "name": "Martijn Ras",
     "city": "ARNHEM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "91",
-    "totalTime": "M20"
+    "totalTime": "01:01:05"
   },
   {
     "position": "143",
     "startNumber": "621",
     "name": "Rico Roelofs",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "92",
-    "totalTime": "M50"
+    "totalTime": "01:01:07"
   },
   {
     "position": "144",
     "startNumber": "584",
     "name": "Ellen Stadt",
     "city": "ZAANDAM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "52",
-    "totalTime": "V50"
+    "totalTime": "01:01:07"
   },
   {
     "position": "145",
     "startNumber": "507",
     "name": "Ellen Zaal",
     "city": "DORDRECHT",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "53",
-    "totalTime": "V50"
+    "totalTime": "01:01:08"
   },
   {
     "position": "146",
     "startNumber": "247",
     "name": "Linda Nagel",
     "city": "LELYSTAD",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "54",
-    "totalTime": "V50"
+    "totalTime": "01:01:13"
   },
   {
     "position": "147",
     "startNumber": "516",
     "name": "Annebel Keijzer",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "55",
-    "totalTime": "V20"
+    "totalTime": "01:01:13"
   },
   {
     "position": "148",
     "startNumber": "307",
     "name": "Rhian Ravenscroft",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "56",
-    "totalTime": "V40"
+    "totalTime": "01:01:13"
   },
   {
     "position": "149",
     "startNumber": "28",
     "name": "Goof Brink van den",
     "city": "HARDERWIJK",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "93",
-    "totalTime": "M50"
+    "totalTime": "01:01:13"
   },
   {
     "position": "150",
     "startNumber": "545",
     "name": "Rick Driessen",
     "city": "WIJK AAN ZEE",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "94",
-    "totalTime": "M40"
+    "totalTime": "01:01:19"
   },
   {
     "position": "151",
     "startNumber": "608",
     "name": "Miron Ziekman",
     "city": "OETRANGE, LUXEMBURG",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "95",
-    "totalTime": "M50"
+    "totalTime": "01:01:22"
   },
   {
     "position": "152",
     "startNumber": "30",
     "name": "Hans Janmaat",
     "city": "MAASTRICHT",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "96",
-    "totalTime": "M60"
+    "totalTime": "01:01:22"
   },
   {
     "position": "153",
     "startNumber": "633",
     "name": "Thomas Fielden",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "97",
-    "totalTime": "M20"
+    "totalTime": "01:01:22"
   },
   {
     "position": "154",
     "startNumber": "164",
     "name": "Marloes Klein",
     "city": "VOORSCHOTEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "57",
-    "totalTime": "V40"
+    "totalTime": "01:01:26"
   },
   {
     "position": "155",
     "startNumber": "317",
     "name": "Sandra Kerstens",
     "city": "OEGSTGEEST",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "58",
-    "totalTime": "V50"
+    "totalTime": "01:01:35"
   },
   {
     "position": "156",
     "startNumber": "248",
     "name": "Annet van der Veen",
     "city": "KRIMPEN AAN DE LEK",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "59",
-    "totalTime": "V50"
+    "totalTime": "01:01:37"
   },
   {
     "position": "157",
     "startNumber": "498",
     "name": "Daphne Bindels",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "60",
-    "totalTime": "V20"
+    "totalTime": "01:01:38"
   },
   {
     "position": "158",
     "startNumber": "555",
     "name": "Jort Blanksma",
     "city": "ARNHEM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "98",
-    "totalTime": "M50"
+    "totalTime": "01:01:42"
   },
   {
     "position": "159",
     "startNumber": "523",
     "name": "Frits Weesing",
     "city": "AMSTELVEEN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "99",
-    "totalTime": "M50"
+    "totalTime": "01:01:47"
   },
   {
     "position": "160",
     "startNumber": "343",
     "name": "Milanne Buiten",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "61",
-    "totalTime": "V20"
+    "totalTime": "01:01:52"
   },
   {
     "position": "161",
     "startNumber": "288",
     "name": "Stefano Samuel",
     "city": "HILVERSUM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "100",
-    "totalTime": "M20"
+    "totalTime": "01:02:02"
   },
   {
     "position": "162",
     "startNumber": "438",
     "name": "Anneloes Sinnema",
     "city": "WOERDEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "62",
-    "totalTime": "V40"
+    "totalTime": "01:02:03"
   },
   {
     "position": "163",
     "startNumber": "300",
     "name": "Jaap Den Ouden",
     "city": "WOERDEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "101",
-    "totalTime": "M40"
+    "totalTime": "01:02:05"
   },
   {
     "position": "164",
     "startNumber": "575",
     "name": "Luisa Mandacaru",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "63",
-    "totalTime": "V20"
+    "totalTime": "01:02:12"
   },
   {
     "position": "165",
     "startNumber": "515",
     "name": "Esther Horrevorts",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "64",
-    "totalTime": "V20"
+    "totalTime": "01:02:15"
   },
   {
     "position": "166",
     "startNumber": "147",
     "name": "Hanna Betsema",
     "city": "HOORN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "65",
-    "totalTime": "V20"
+    "totalTime": "01:02:22"
   },
   {
     "position": "167",
     "startNumber": "540",
     "name": "Jan Plokker",
     "city": "VOORSCHOTEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "102",
-    "totalTime": "M40"
+    "totalTime": "01:02:24"
   },
   {
     "position": "168",
     "startNumber": "68",
     "name": "Paul Slot",
     "city": "DALFSEN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "103",
-    "totalTime": "M50"
+    "totalTime": "01:02:30"
   },
   {
     "position": "169",
     "startNumber": "54",
     "name": "Martin Klepper",
     "city": "ZAANDAM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "104",
-    "totalTime": "M50"
+    "totalTime": "01:02:32"
   },
   {
     "position": "170",
     "startNumber": "614",
     "name": "Nikki Dekker",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "66",
-    "totalTime": "V20"
+    "totalTime": "01:02:32"
   },
   {
     "position": "171",
     "startNumber": "80",
     "name": "Rogier Lecluse",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "105",
-    "totalTime": "M20"
+    "totalTime": "01:02:33"
   },
   {
     "position": "172",
     "startNumber": "591",
     "name": "Ton Sweep",
     "city": "GEERTRUIDENBERG",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "106",
-    "totalTime": "M60"
+    "totalTime": "01:02:34"
   },
   {
     "position": "173",
     "startNumber": "629",
     "name": "Eric Van de Meent",
     "city": "BAARN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "107",
-    "totalTime": "M20"
+    "totalTime": "01:02:39"
   },
   {
     "position": "174",
     "startNumber": "620",
     "name": "Renske Kraakman",
     "city": "BAARN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "67",
-    "totalTime": "V40"
+    "totalTime": "01:02:40"
   },
   {
     "position": "175",
     "startNumber": "213",
     "name": "Charlotte Ardeyns",
     "city": "WIEZE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "68",
-    "totalTime": "V20"
+    "totalTime": "01:02:43"
   },
   {
     "position": "176",
     "startNumber": "646",
     "name": "Jeroen van Liempd",
     "city": "BREDA",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "108",
-    "totalTime": "M60"
+    "totalTime": "01:02:46"
   },
   {
     "position": "177",
     "startNumber": "656",
     "name": "Albert Meijer",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "109",
-    "totalTime": "M20"
+    "totalTime": "01:02:48"
   },
   {
     "position": "178",
     "startNumber": "529",
     "name": "Pieter Hoekstra",
     "city": "ABCOUDE",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "110",
-    "totalTime": "M20"
+    "totalTime": "01:02:57"
   },
   {
     "position": "179",
     "startNumber": "450",
     "name": "Moniek van Kilsdonk",
     "city": "DE GOORN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "69",
-    "totalTime": "V40"
+    "totalTime": "01:02:59"
   },
   {
     "position": "180",
     "startNumber": "324",
     "name": "Quint Schoeman",
     "city": "ABCOUDE",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "111",
-    "totalTime": "M20"
+    "totalTime": "01:03:11"
   },
   {
     "position": "181",
     "startNumber": "655",
     "name": "Alexander Krepel",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "112",
-    "totalTime": "M20"
+    "totalTime": "01:03:12"
   },
   {
     "position": "182",
     "startNumber": "172",
     "name": "Petra Schimmel",
     "city": "LEUSDEN",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "70",
-    "totalTime": "V60"
+    "totalTime": "01:03:14"
   },
   {
     "position": "183",
     "startNumber": "478",
     "name": "Bram Stevers",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "113",
-    "totalTime": "M20"
+    "totalTime": "01:03:16"
   },
   {
     "position": "184",
     "startNumber": "489",
     "name": "Anne Van der Pluijm",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "71",
-    "totalTime": "V20"
+    "totalTime": "01:03:22"
   },
   {
     "position": "185",
     "startNumber": "590",
     "name": "Marij Sweep",
     "city": "GEERTRUIDENBERG",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "72",
-    "totalTime": "V60"
+    "totalTime": "01:03:31"
   },
   {
     "position": "186",
     "startNumber": "399",
     "name": "Nadia Colmer",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "73",
-    "totalTime": "V20"
+    "totalTime": "01:03:32"
   },
   {
     "position": "187",
     "startNumber": "232",
     "name": "Fiona van der Burgt",
     "city": "DE BILT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "74",
-    "totalTime": "V20"
+    "totalTime": "01:03:39"
   },
   {
     "position": "188",
     "startNumber": "468",
     "name": "Carla Groenland",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "75",
-    "totalTime": "V20"
+    "totalTime": "01:03:44"
   },
   {
     "position": "189",
     "startNumber": "554",
     "name": "Jolanda Splint",
     "city": "LAREN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "76",
-    "totalTime": "V40"
+    "totalTime": "01:03:47"
   },
   {
     "position": "190",
     "startNumber": "458",
     "name": "Ruben Meijer",
     "city": "NIEUW VENNEP",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "114",
-    "totalTime": "M20"
+    "totalTime": "01:03:47"
   },
   {
     "position": "191",
     "startNumber": "553",
     "name": "Jim van Vliet",
     "city": "DE HOEF",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "115",
-    "totalTime": "M20"
+    "totalTime": "01:03:48"
   },
   {
     "position": "192",
     "startNumber": "641",
     "name": "Nanon Heijnen",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "77",
-    "totalTime": "V20"
+    "totalTime": "01:03:57"
   },
   {
     "position": "193",
     "startNumber": "618",
     "name": "Celesta Veekens",
     "city": "ROSMALEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "78",
-    "totalTime": "V40"
+    "totalTime": "01:04:07"
   },
   {
     "position": "194",
     "startNumber": "162",
     "name": "Marit van Dijk",
     "city": "WOERDEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "79",
-    "totalTime": "V20"
+    "totalTime": "01:04:07"
   },
   {
     "position": "195",
     "startNumber": "513",
     "name": "Erik Daems",
     "city": "BEEKSTRAAT 11, 2800 MECHELEN, BELGIË",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "116",
-    "totalTime": "M40"
+    "totalTime": "01:04:14"
   },
   {
     "position": "196",
     "startNumber": "148",
     "name": "Heidi Gralla",
     "city": "ROTTERDAM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "80",
-    "totalTime": "V50"
+    "totalTime": "01:04:20"
   },
   {
     "position": "197",
     "startNumber": "524",
     "name": "Gijs Stevers",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "117",
-    "totalTime": "M20"
+    "totalTime": "01:04:21"
   },
   {
     "position": "198",
     "startNumber": "469",
     "name": "Sjabbo Schaveling",
     "city": "ALMERE",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "118",
-    "totalTime": "M20"
+    "totalTime": "01:04:24"
   },
   {
     "position": "199",
     "startNumber": "615",
     "name": "Peter Lauffer",
     "city": "WILNIS",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "119",
-    "totalTime": "M50"
+    "totalTime": "01:04:25"
   },
   {
     "position": "200",
     "startNumber": "552",
     "name": "Jerry de Groot",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "120",
-    "totalTime": "M40"
+    "totalTime": "01:04:26"
   },
   {
     "position": "201",
     "startNumber": "379",
     "name": "Luc Roeffen",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "121",
-    "totalTime": "M20"
+    "totalTime": "01:04:29"
   },
   {
     "position": "202",
     "startNumber": "464",
     "name": "Gerda Holla",
     "city": "OOSTWOUD",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "81",
-    "totalTime": "V50"
+    "totalTime": "01:04:30"
   },
   {
     "position": "203",
     "startNumber": "158",
     "name": "Katinka van Brakel",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "82",
-    "totalTime": "V50"
+    "totalTime": "01:04:33"
   },
   {
     "position": "204",
     "startNumber": "421",
     "name": "Jacqueline Oosterwegel",
     "city": "DIEREN",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "83",
-    "totalTime": "V60"
+    "totalTime": "01:04:35"
   },
   {
     "position": "205",
     "startNumber": "580",
     "name": "Hans Van Beijnem",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "122",
-    "totalTime": "M20"
+    "totalTime": "01:04:36"
   },
   {
     "position": "206",
     "startNumber": "625",
     "name": "Rutger Wolters",
     "city": "JULIANADORP",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "123",
-    "totalTime": "M40"
+    "totalTime": "01:04:37"
   },
   {
     "position": "207",
     "startNumber": "581",
     "name": "Annet Metz",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "84",
-    "totalTime": "V40"
+    "totalTime": "01:04:38"
   },
   {
     "position": "208",
     "startNumber": "567",
     "name": "Lilian Bakker",
     "city": "ENSCHEDE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "85",
-    "totalTime": "V20"
+    "totalTime": "01:04:41"
   },
   {
     "position": "209",
     "startNumber": "601",
     "name": "Marten de Koningh",
     "city": "HUIZEN",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "124",
-    "totalTime": "M60"
+    "totalTime": "01:04:42"
   },
   {
     "position": "210",
     "startNumber": "398",
     "name": "Gilion Goveia",
     "city": "KORTENHOEF",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "125",
-    "totalTime": "M20"
+    "totalTime": "01:04:44"
   },
   {
     "position": "211",
     "startNumber": "169",
     "name": "Nienke Hendriks-Tuininga",
     "city": "NIEUWEGEIN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "86",
-    "totalTime": "V40"
+    "totalTime": "01:04:46"
   },
   {
     "position": "212",
     "startNumber": "287",
     "name": "Thom Dagevos",
     "city": "ANKEVEEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "126",
-    "totalTime": "M20"
+    "totalTime": "01:04:48"
   },
   {
     "position": "213",
     "startNumber": "504",
     "name": "Ecoo de Vries",
     "city": "MAARSSEN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "127",
-    "totalTime": "M50"
+    "totalTime": "01:04:54"
   },
   {
     "position": "214",
     "startNumber": "526",
     "name": "Hans Boven",
     "city": "HOORN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "128",
-    "totalTime": "M50"
+    "totalTime": "01:04:58"
   },
   {
     "position": "215",
     "startNumber": "595",
     "name": "Morris Melis",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "129",
-    "totalTime": "M20"
+    "totalTime": "01:04:59"
   },
   {
     "position": "216",
     "startNumber": "228",
     "name": "Brechje Baumeister",
     "city": "HILVERSUM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "87",
-    "totalTime": "V20"
+    "totalTime": "01:05:00"
   },
   {
     "position": "217",
     "startNumber": "153",
     "name": "Isa Brandsen",
     "city": "HOORN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "88",
-    "totalTime": "V20"
+    "totalTime": "01:05:00"
   },
   {
     "position": "218",
     "startNumber": "557",
     "name": "Judith van der Heijden",
     "city": "KRIMPEN AAN DEN IJSSEL",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "89",
-    "totalTime": "V40"
+    "totalTime": "01:05:01"
   },
   {
     "position": "219",
     "startNumber": "586",
     "name": "Marieke de klerk",
     "city": "DE BILT",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "90",
-    "totalTime": "V40"
+    "totalTime": "01:05:05"
   },
   {
     "position": "220",
     "startNumber": "465",
     "name": "Petra Kooistra",
     "city": "VENHUIZEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "91",
-    "totalTime": "V40"
+    "totalTime": "01:05:06"
   },
   {
     "position": "221",
     "startNumber": "344",
     "name": "Eyal Rahamim",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "130",
-    "totalTime": "M20"
+    "totalTime": "01:05:12"
   },
   {
     "position": "222",
     "startNumber": "41",
     "name": "Jeroen Berkhout",
     "city": "BERGSCHENHOEK",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "131",
-    "totalTime": "M50"
+    "totalTime": "01:05:13"
   },
   {
     "position": "223",
     "startNumber": "6",
     "name": "Armand Etienne",
     "city": "PARIS",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "132",
-    "totalTime": "M20"
+    "totalTime": "01:05:18"
   },
   {
     "position": "224",
     "startNumber": "568",
     "name": "Soray Dulger",
     "city": "HENGELO OV",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "92",
-    "totalTime": "V20"
+    "totalTime": "01:05:24"
   },
   {
     "position": "225",
     "startNumber": "654",
     "name": "Richard Nusteling",
     "city": "RIDDERKERK",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "133",
-    "totalTime": "M50"
+    "totalTime": "01:05:25"
   },
   {
     "position": "226",
     "startNumber": "546",
     "name": "Marlous Nooi",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "93",
-    "totalTime": "V20"
+    "totalTime": "01:05:33"
   },
   {
     "position": "227",
     "startNumber": "67",
     "name": "Paul Bakker",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "134",
-    "totalTime": "M20"
+    "totalTime": "01:05:33"
   },
   {
     "position": "228",
     "startNumber": "439",
     "name": "Hilda Brak",
     "city": "ZEGVELD",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "94",
-    "totalTime": "V50"
+    "totalTime": "01:05:34"
   },
   {
     "position": "229",
     "startNumber": "622",
     "name": "Rik Vercauteren",
     "city": "MUIZEN",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "135",
-    "totalTime": "M60"
+    "totalTime": "01:05:35"
   },
   {
     "position": "230",
     "startNumber": "280",
     "name": "Lisette Helmig",
     "city": "EDE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "95",
-    "totalTime": "V20"
+    "totalTime": "01:05:37"
   },
   {
     "position": "231",
     "startNumber": "443",
     "name": "Sofie Loyens",
     "city": "MIDDELBURG",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "96",
-    "totalTime": "V40"
+    "totalTime": "01:05:43"
   },
   {
     "position": "232",
     "startNumber": "454",
     "name": "Anna Tersteeg",
     "city": "POLSBROEK",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "97",
-    "totalTime": "V20"
+    "totalTime": "01:05:43"
   },
   {
     "position": "233",
     "startNumber": "455",
     "name": "John Tersteeg",
     "city": "LOPIKERKAPEL",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "136",
-    "totalTime": "M60"
+    "totalTime": "01:05:44"
   },
   {
     "position": "234",
     "startNumber": "309",
     "name": "Dexter Wouters",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "137",
-    "totalTime": "M20"
+    "totalTime": "01:05:46"
   },
   {
     "position": "235",
     "startNumber": "451",
     "name": "Annette Vogelsang",
     "city": "MEDEMBLIK",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "98",
-    "totalTime": "V20"
+    "totalTime": "01:05:46"
   },
   {
     "position": "236",
     "startNumber": "350",
     "name": "Denise de Rond",
     "city": "DOESBURG",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "99",
-    "totalTime": "V50"
+    "totalTime": "01:05:48"
   },
   {
     "position": "237",
     "startNumber": "374",
     "name": "Robin Van der Vliet",
     "city": "WILNIS",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "100",
-    "totalTime": "V20"
+    "totalTime": "01:06:11"
   },
   {
     "position": "238",
     "startNumber": "462",
     "name": "Femke Vriend-Spaan",
     "city": "VENHUIZEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "101",
-    "totalTime": "V40"
+    "totalTime": "01:06:20"
   },
   {
     "position": "239",
     "startNumber": "335",
     "name": "Erna Tan",
     "city": "BREDA",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "102",
-    "totalTime": "V60"
+    "totalTime": "01:06:27"
   },
   {
     "position": "240",
     "startNumber": "118",
     "name": "Sander Van Haren",
     "city": "NIEUWEGEIN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "138",
-    "totalTime": "M20"
+    "totalTime": "01:06:28"
   },
   {
     "position": "241",
     "startNumber": "77",
     "name": "Rob Spuij",
     "city": "NIEUWEGEIN",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "139",
-    "totalTime": "M60"
+    "totalTime": "01:06:29"
   },
   {
     "position": "242",
     "startNumber": "483",
     "name": "Denise Nio",
     "city": "VINKEVEEN",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "103",
-    "totalTime": "V50"
+    "totalTime": "01:06:32"
   },
   {
     "position": "243",
     "startNumber": "251",
     "name": "Jeffrey Boekestijn",
     "city": "DELFT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "140",
-    "totalTime": "M20"
+    "totalTime": "01:06:43"
   },
   {
     "position": "244",
     "startNumber": "329",
     "name": "Frauke Drexhage",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "104",
-    "totalTime": "V20"
+    "totalTime": "01:06:53"
   },
   {
     "position": "245",
     "startNumber": "384",
     "name": "Leenderd Roeleveld",
     "city": "DEN HAAG",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "141",
-    "totalTime": "M50"
+    "totalTime": "01:06:54"
   },
   {
     "position": "246",
     "startNumber": "514",
     "name": "Istvan Cornelissen",
     "city": "DE KWAKEL",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "142",
-    "totalTime": "M40"
+    "totalTime": "01:06:58"
   },
   {
     "position": "247",
     "startNumber": "314",
     "name": "Remko Geursen",
     "city": "ABCOUDE",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "143",
-    "totalTime": "M50"
+    "totalTime": "01:07:00"
   },
   {
     "position": "248",
     "startNumber": "578",
     "name": "Hans De Best",
     "city": "MIJDRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "144",
-    "totalTime": "M20"
+    "totalTime": "01:07:03"
   },
   {
     "position": "249",
     "startNumber": "246",
     "name": "Elisabeth van Leeuwen",
     "city": "LELYSTAD",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "105",
-    "totalTime": "V50"
+    "totalTime": "01:07:06"
   },
   {
     "position": "250",
     "startNumber": "532",
     "name": "Sander Rave",
     "city": "DELFT",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "145",
-    "totalTime": "M50"
+    "totalTime": "01:07:07"
   },
   {
     "position": "251",
     "startNumber": "249",
     "name": "Joanna Schrap",
     "city": "DEN HAAG",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "106",
-    "totalTime": "V20"
+    "totalTime": "01:07:08"
   },
   {
     "position": "252",
     "startNumber": "653",
     "name": "Annemiek Nusteling",
     "city": "RIDDERKERK",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "107",
-    "totalTime": "V50"
+    "totalTime": "01:07:19"
   },
   {
     "position": "253",
     "startNumber": "639",
     "name": "Ria Voerman",
     "city": "SOEST",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "108",
-    "totalTime": "V40"
+    "totalTime": "01:07:23"
   },
   {
     "position": "254",
     "startNumber": "167",
     "name": "Merel Albers",
     "city": "BLARICUM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "109",
-    "totalTime": "V20"
+    "totalTime": "01:07:25"
   },
   {
     "position": "255",
     "startNumber": "527",
     "name": "Harm Brouwer",
     "city": "ALMERE",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "146",
-    "totalTime": "M50"
+    "totalTime": "01:07:27"
   },
   {
     "position": "256",
     "startNumber": "482",
     "name": "Carsteb Nico",
     "city": "VINKEVEEN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "147",
-    "totalTime": "M50"
+    "totalTime": "01:07:27"
   },
   {
     "position": "257",
     "startNumber": "548",
     "name": "Daan Hoogland",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "148",
-    "totalTime": "M20"
+    "totalTime": "01:07:30"
   },
   {
     "position": "258",
     "startNumber": "410",
     "name": "Paula Visser",
     "city": "KATWIJK",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "110",
-    "totalTime": "V60"
+    "totalTime": "01:07:33"
   },
   {
     "position": "259",
     "startNumber": "460",
     "name": "Arthur Imamkhan",
     "city": "ALMERE",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "149",
-    "totalTime": "M40"
+    "totalTime": "01:07:36"
   },
   {
     "position": "260",
     "startNumber": "528",
     "name": "Dalva Hubert",
     "city": "ALMERE",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "111",
-    "totalTime": "V50"
+    "totalTime": "01:07:37"
   },
   {
     "position": "261",
     "startNumber": "37",
     "name": "Jan Grevenstuk",
     "city": "PURMEREND",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "150",
-    "totalTime": "M50"
+    "totalTime": "01:07:39"
   },
   {
     "position": "262",
     "startNumber": "497",
     "name": "Miranda van Rijswijk",
     "city": "TILBURG",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "112",
-    "totalTime": "V50"
+    "totalTime": "01:07:42"
   },
   {
     "position": "263",
     "startNumber": "277",
     "name": "Marie-José Van Gasteren-Buurman",
     "city": "BREDA",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "113",
-    "totalTime": "V50"
+    "totalTime": "01:07:43"
   },
   {
     "position": "264",
     "startNumber": "461",
     "name": "Joan Saridin",
     "city": "DELFT",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "114",
-    "totalTime": "V40"
+    "totalTime": "01:07:46"
   },
   {
     "position": "265",
     "startNumber": "351",
     "name": "Harma Murman",
     "city": "DOESBURG",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "115",
-    "totalTime": "V60"
+    "totalTime": "01:07:52"
   },
   {
     "position": "266",
     "startNumber": "640",
     "name": "Nicoline Van der Kaai",
     "city": "HAARLEM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "116",
-    "totalTime": "V40"
+    "totalTime": "01:07:55"
   },
   {
     "position": "267",
     "startNumber": "114",
     "name": "Georges Nomicos",
     "city": "APELDOORN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "151",
-    "totalTime": "M20"
+    "totalTime": "01:08:08"
   },
   {
     "position": "268",
     "startNumber": "159",
     "name": "Malìn van Weerdenburg",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "117",
-    "totalTime": "V20"
+    "totalTime": "01:08:11"
   },
   {
     "position": "269",
     "startNumber": "582",
     "name": "Eskil Elfferich",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "118",
-    "totalTime": "V50"
+    "totalTime": "01:08:18"
   },
   {
     "position": "270",
     "startNumber": "394",
     "name": "Nelleke Aantjes",
     "city": "POLSBROEK",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "119",
-    "totalTime": "V40"
+    "totalTime": "01:08:21"
   },
   {
     "position": "271",
     "startNumber": "393",
     "name": "Marieke Aantjes",
     "city": "LOPIK",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "120",
-    "totalTime": "V20"
+    "totalTime": "01:08:21"
   },
   {
     "position": "272",
     "startNumber": "392",
     "name": "Lisette Spoelder",
     "city": "ABCOUDE",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "121",
-    "totalTime": "V60"
+    "totalTime": "01:08:23"
   },
   {
     "position": "273",
     "startNumber": "593",
     "name": "Mariska Albers",
     "city": "SCHAGEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "122",
-    "totalTime": "V40"
+    "totalTime": "01:08:24"
   },
   {
     "position": "274",
     "startNumber": "572",
     "name": "Linda Bleeker",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "123",
-    "totalTime": "V50"
+    "totalTime": "01:08:29"
   },
   {
     "position": "275",
     "startNumber": "573",
     "name": "Rob Romein",
     "city": "NIEUW VENNEP",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "152",
-    "totalTime": "M50"
+    "totalTime": "01:08:30"
   },
   {
     "position": "276",
     "startNumber": "138",
     "name": "Blanca Sanchez",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "124",
-    "totalTime": "V20"
+    "totalTime": "01:08:33"
   },
   {
     "position": "277",
     "startNumber": "459",
     "name": "Arthur Ramaker",
     "city": "HOUTEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "153",
-    "totalTime": "M20"
+    "totalTime": "01:08:34"
   },
   {
     "position": "278",
     "startNumber": "624",
     "name": "Ronald Corbee",
     "city": "HOUTEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "154",
-    "totalTime": "M40"
+    "totalTime": "01:08:38"
   },
   {
     "position": "279",
     "startNumber": "617",
     "name": "Rene Van Gerven",
     "city": "ROSMALEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "155",
-    "totalTime": "M40"
+    "totalTime": "01:08:39"
   },
   {
     "position": "280",
     "startNumber": "15",
     "name": "Daan Kooiman",
     "city": "AERDENHOUT",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "156",
-    "totalTime": "M40"
+    "totalTime": "01:08:40"
   },
   {
     "position": "281",
     "startNumber": "494",
     "name": "Christina Ullrich",
     "city": "ENSCHEDE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "125",
-    "totalTime": "V20"
+    "totalTime": "01:08:47"
   },
   {
     "position": "282",
     "startNumber": "376",
     "name": "Marieke van de Schepop",
     "city": "'S-GRAVELAND",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "126",
-    "totalTime": "V20"
+    "totalTime": "01:08:50"
   },
   {
     "position": "283",
     "startNumber": "375",
     "name": "Hester Schoonhoven",
     "city": "HILVERSUM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "127",
-    "totalTime": "V20"
+    "totalTime": "01:08:53"
   },
   {
     "position": "284",
     "startNumber": "154",
     "name": "Isabelle van Dongen",
     "city": "MAARN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "128",
-    "totalTime": "V20"
+    "totalTime": "01:08:54"
   },
   {
     "position": "285",
     "startNumber": "267",
     "name": "Wander van der Laan",
     "city": "NIEUW-VENNEP",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "157",
-    "totalTime": "M40"
+    "totalTime": "01:09:01"
   },
   {
     "position": "286",
     "startNumber": "18",
     "name": "Elliot Jorgensen",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "158",
-    "totalTime": "M40"
+    "totalTime": "01:09:01"
   },
   {
     "position": "287",
     "startNumber": "320",
     "name": "Dorothy Winters",
     "city": "WEESP",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "129",
-    "totalTime": "V50"
+    "totalTime": "01:09:01"
   },
   {
     "position": "288",
     "startNumber": "183",
     "name": "Noor Rijnberg",
     "city": "DEN HAAG",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "130",
-    "totalTime": "V20"
+    "totalTime": "01:09:03"
   },
   {
     "position": "289",
     "startNumber": "331",
     "name": "Anne-Marie Prins",
     "city": "ALMERE",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "131",
-    "totalTime": "V50"
+    "totalTime": "01:09:03"
   },
   {
     "position": "290",
     "startNumber": "289",
     "name": "Marcel Vermeulen",
     "city": "KORTENHOEF",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "159",
-    "totalTime": "M40"
+    "totalTime": "01:09:05"
   },
   {
     "position": "291",
     "startNumber": "411",
     "name": "Priscilla Van der Meer",
     "city": "WILNIS",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "132",
-    "totalTime": "V20"
+    "totalTime": "01:09:07"
   },
   {
     "position": "292",
     "startNumber": "543",
     "name": "Janneke van Wijngaarden",
     "city": "AMERSFOORT",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "133",
-    "totalTime": "V40"
+    "totalTime": "01:09:12"
   },
   {
     "position": "293",
     "startNumber": "355",
     "name": "Krista Reitsma",
     "city": "HAARLEM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "134",
-    "totalTime": "V50"
+    "totalTime": "01:09:17"
   },
   {
     "position": "294",
     "startNumber": "570",
     "name": "Linda Bel",
     "city": "LIMMEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "135",
-    "totalTime": "V20"
+    "totalTime": "01:09:18"
   },
   {
     "position": "295",
     "startNumber": "571",
     "name": "Roos Van tol",
     "city": "LIMMEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "136",
-    "totalTime": "V20"
+    "totalTime": "01:09:20"
   },
   {
     "position": "296",
     "startNumber": "342",
     "name": "Crissy Rudolphi",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "137",
-    "totalTime": "V20"
+    "totalTime": "01:09:20"
   },
   {
     "position": "297",
     "startNumber": "536",
     "name": "Jacques Krol",
     "city": "LEIDERDORP",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "160",
-    "totalTime": "M60"
+    "totalTime": "01:09:26"
   },
   {
     "position": "298",
     "startNumber": "652",
     "name": "Mirjam Hordijk",
     "city": "DEIL",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "138",
-    "totalTime": "V40"
+    "totalTime": "01:09:29"
   },
   {
     "position": "299",
     "startNumber": "588",
     "name": "Marielle van de Munt",
     "city": "MAARSSEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "139",
-    "totalTime": "V20"
+    "totalTime": "01:09:45"
   },
   {
     "position": "300",
     "startNumber": "594",
     "name": "Stefan Pipper",
     "city": "SCHAGEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "161",
-    "totalTime": "M40"
+    "totalTime": "01:09:49"
   },
   {
     "position": "301",
     "startNumber": "442",
     "name": "Rian Flikweert",
     "city": "MIDDELBURG",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "140",
-    "totalTime": "V60"
+    "totalTime": "01:09:49"
   },
   {
     "position": "302",
     "startNumber": "117",
     "name": "Jake Richards",
     "city": "APELDOORN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "162",
-    "totalTime": "M20"
+    "totalTime": "01:09:56"
   },
   {
     "position": "303",
     "startNumber": "361",
     "name": "Pie van der Wind",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "141",
-    "totalTime": "V20"
+    "totalTime": "01:10:02"
   },
   {
     "position": "304",
     "startNumber": "347",
     "name": "Daay Peters",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "163",
-    "totalTime": "M40"
+    "totalTime": "01:10:11"
   },
   {
     "position": "305",
     "startNumber": "348",
     "name": "Nicole Faithfull",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "142",
-    "totalTime": "V40"
+    "totalTime": "01:10:15"
   },
   {
     "position": "306",
     "startNumber": "382",
     "name": "Klaudia Horvath",
     "city": "DELFT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "143",
-    "totalTime": "V20"
+    "totalTime": "01:10:24"
   },
   {
     "position": "307",
     "startNumber": "533",
     "name": "Ilona Geerdink",
     "city": "DE LUTTE",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "144",
-    "totalTime": "V50"
+    "totalTime": "01:10:25"
   },
   {
     "position": "308",
     "startNumber": "298",
     "name": "Natascha van Walraven",
     "city": "ZWOLLE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "145",
-    "totalTime": "V20"
+    "totalTime": "01:10:26"
   },
   {
     "position": "309",
     "startNumber": "295",
     "name": "Guido Van Walraven",
     "city": "UITHOORN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "164",
-    "totalTime": "M40"
+    "totalTime": "01:10:28"
   },
   {
     "position": "310",
     "startNumber": "73",
     "name": "Remko de Raadt",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "165",
-    "totalTime": "M20"
+    "totalTime": "01:10:28"
   },
   {
     "position": "311",
     "startNumber": "484",
     "name": "Chantal Bonn",
     "city": "MEERLO",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "146",
-    "totalTime": "V40"
+    "totalTime": "01:10:35"
   },
   {
     "position": "312",
     "startNumber": "463",
     "name": "Barbara Westland",
     "city": "BOVENKARSPEL",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "147",
-    "totalTime": "V40"
+    "totalTime": "01:10:35"
   },
   {
     "position": "313",
     "startNumber": "294",
     "name": "Paul Van Duijnhoven",
     "city": "UITHOORN",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "166",
-    "totalTime": "M60"
+    "totalTime": "01:10:42"
   },
   {
     "position": "314",
     "startNumber": "638",
     "name": "Martijn Voerman",
     "city": "SOEST",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "167",
-    "totalTime": "M50"
+    "totalTime": "01:10:48"
   },
   {
     "position": "315",
     "startNumber": "530",
     "name": "Harry Boerma",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "168",
-    "totalTime": "M60"
+    "totalTime": "01:10:51"
   },
   {
     "position": "316",
     "startNumber": "135",
     "name": "Annemarie Rijnberg",
     "city": "OUDENHOORN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "148",
-    "totalTime": "V20"
+    "totalTime": "01:10:53"
   },
   {
     "position": "317",
     "startNumber": "657",
     "name": "Janneke Stolk",
     "city": "WIJK AAN ZEE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "149",
-    "totalTime": "V20"
+    "totalTime": "01:10:53"
   },
   {
     "position": "318",
     "startNumber": "659",
     "name": "Thomas Verhoog",
     "city": "LEIDEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "169",
-    "totalTime": "M20"
+    "totalTime": "01:10:53"
   },
   {
     "position": "319",
     "startNumber": "658",
     "name": "Ron Perdon",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "170",
-    "totalTime": "M20"
+    "totalTime": "01:10:53"
   },
   {
     "position": "320",
     "startNumber": "420",
     "name": "Saskia Stoopman",
     "city": "SOEST",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "150",
-    "totalTime": "V50"
+    "totalTime": "01:11:01"
   },
   {
     "position": "321",
     "startNumber": "479",
     "name": "Edith Ammeraal",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "151",
-    "totalTime": "V20"
+    "totalTime": "01:11:10"
   },
   {
     "position": "322",
     "startNumber": "473",
     "name": "Bernt Foppes",
     "city": "VOORBURG",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "171",
-    "totalTime": "M40"
+    "totalTime": "01:11:10"
   },
   {
     "position": "323",
     "startNumber": "334",
     "name": "Jollie Verhoeven",
     "city": "BREDA",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "152",
-    "totalTime": "V50"
+    "totalTime": "01:11:14"
   },
   {
     "position": "324",
     "startNumber": "592",
     "name": "Mariken Stegmann",
     "city": "WARFFUM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "153",
-    "totalTime": "V20"
+    "totalTime": "01:11:21"
   },
   {
     "position": "325",
     "startNumber": "341",
     "name": "Tim van Scheppingen",
     "city": "VINKEVEEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "172",
-    "totalTime": "M40"
+    "totalTime": "01:11:30"
   },
   {
     "position": "326",
     "startNumber": "166",
     "name": "Martine Ter Veld",
     "city": "OVERDINKEL",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "154",
-    "totalTime": "V40"
+    "totalTime": "01:11:31"
   },
   {
     "position": "327",
     "startNumber": "428",
     "name": "Anja Van ijsseldijk",
     "city": "OOSTWOUD",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "155",
-    "totalTime": "V50"
+    "totalTime": "01:11:32"
   },
   {
     "position": "328",
     "startNumber": "446",
     "name": "Mariëlle De Rijke",
     "city": "ZOUTELANDE",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "156",
-    "totalTime": "V40"
+    "totalTime": "01:11:34"
   },
   {
     "position": "329",
     "startNumber": "42",
     "name": "Jeroen Flinterman",
     "city": "MUIDEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "173",
-    "totalTime": "M20"
+    "totalTime": "01:11:41"
   },
   {
     "position": "330",
     "startNumber": "237",
     "name": "Esmée Kiffen",
     "city": "MEGEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "157",
-    "totalTime": "V20"
+    "totalTime": "01:11:41"
   },
   {
     "position": "331",
     "startNumber": "7",
     "name": "Bart Koopman",
     "city": "JULIANADORP",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "174",
-    "totalTime": "M40"
+    "totalTime": "01:11:45"
   },
   {
     "position": "332",
     "startNumber": "332",
     "name": "Babs Peters",
     "city": "BREDA",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "158",
-    "totalTime": "V40"
+    "totalTime": "01:11:55"
   },
   {
     "position": "333",
     "startNumber": "480",
     "name": "Caroline Heidema",
     "city": "HILLEGOM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "159",
-    "totalTime": "V50"
+    "totalTime": "01:12:01"
   },
   {
     "position": "334",
     "startNumber": "481",
     "name": "Rob Drommel",
     "city": "BENNEBROEK",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "175",
-    "totalTime": "M60"
+    "totalTime": "01:12:02"
   },
   {
     "position": "335",
     "startNumber": "174",
     "name": "Raquel Gual",
     "city": "ALMERE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "160",
-    "totalTime": "V20"
+    "totalTime": "01:12:04"
   },
   {
     "position": "336",
     "startNumber": "414",
     "name": "Rocio Diez",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "161",
-    "totalTime": "V40"
+    "totalTime": "01:12:04"
   },
   {
     "position": "337",
     "startNumber": "322",
     "name": "Marrit De Wolff",
     "city": "IJLST",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "162",
-    "totalTime": "V20"
+    "totalTime": "01:12:04"
   },
   {
     "position": "338",
     "startNumber": "415",
     "name": "Zimbo SRM Boudewijns",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "176",
-    "totalTime": "M40"
+    "totalTime": "01:12:05"
   },
   {
     "position": "339",
     "startNumber": "611",
     "name": "Monique Holleman",
     "city": "DOETINCHEM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "163",
-    "totalTime": "V40"
+    "totalTime": "01:12:15"
   },
   {
     "position": "340",
     "startNumber": "258",
     "name": "Hans Mohringer",
     "city": "TILBURG",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "177",
-    "totalTime": "M50"
+    "totalTime": "01:12:21"
   },
   {
     "position": "341",
     "startNumber": "626",
     "name": "Sander den Ouden",
     "city": "DE MEERN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "178",
-    "totalTime": "M40"
+    "totalTime": "01:12:28"
   },
   {
     "position": "342",
     "startNumber": "603",
     "name": "Willem Koenders",
     "city": "ARNHEM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "179",
-    "totalTime": "M20"
+    "totalTime": "01:12:35"
   },
   {
     "position": "343",
     "startNumber": "602",
     "name": "Martijn Bulsink",
     "city": "ELST",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "180",
-    "totalTime": "M40"
+    "totalTime": "01:12:37"
   },
   {
     "position": "344",
     "startNumber": "619",
     "name": "Renske Van pelt",
     "city": "SLIEDRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "164",
-    "totalTime": "V20"
+    "totalTime": "01:12:43"
   },
   {
     "position": "345",
     "startNumber": "367",
     "name": "Guido Onwezen",
     "city": "IJSSELSTEIN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "181",
-    "totalTime": "M40"
+    "totalTime": "01:12:53"
   },
   {
     "position": "346",
     "startNumber": "170",
     "name": "Olwen vd Voort vd Kleij",
     "city": "LEIDEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "165",
-    "totalTime": "V40"
+    "totalTime": "01:12:56"
   },
   {
     "position": "347",
     "startNumber": "353",
     "name": "Donatien de Graaff",
     "city": "WEESP",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "166",
-    "totalTime": "V40"
+    "totalTime": "01:13:00"
   },
   {
     "position": "348",
     "startNumber": "644",
     "name": "Alexandra Groot",
     "city": "AMSTELVEEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "167",
-    "totalTime": "V20"
+    "totalTime": "01:13:00"
   },
   {
     "position": "349",
     "startNumber": "389",
     "name": "Rutger Niemeijer",
     "city": "DE MEERN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "182",
-    "totalTime": "M20"
+    "totalTime": "01:13:10"
   },
   {
     "position": "350",
     "startNumber": "429",
     "name": "Ben Rijkenberg",
     "city": "PURMEREND",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "183",
-    "totalTime": "M60"
+    "totalTime": "01:13:12"
   },
   {
     "position": "351",
     "startNumber": "433",
     "name": "Astrid Jehle",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "168",
-    "totalTime": "V40"
+    "totalTime": "01:13:14"
   },
   {
     "position": "352",
     "startNumber": "503",
     "name": "Tineke van Diggelen",
     "city": "NIEUW-VENNEP",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "169",
-    "totalTime": "V60"
+    "totalTime": "01:13:28"
   },
   {
     "position": "353",
     "startNumber": "492",
     "name": "chris trigt",
     "city": "DELFT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "184",
-    "totalTime": "M20"
+    "totalTime": "01:13:38"
   },
   {
     "position": "354",
     "startNumber": "493",
     "name": "Renske Voerman",
     "city": "DELFT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "185",
-    "totalTime": "M20"
+    "totalTime": "01:13:39"
   },
   {
     "position": "355",
     "startNumber": "501",
     "name": "Wendy Jansen",
     "city": "ZEIST",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "170",
-    "totalTime": "V50"
+    "totalTime": "01:13:44"
   },
   {
     "position": "356",
     "startNumber": "157",
     "name": "Petra Stolk",
     "city": "SOEST",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "171",
-    "totalTime": "V50"
+    "totalTime": "01:14:01"
   },
   {
     "position": "357",
     "startNumber": "487",
     "name": "Dennis Tesselaar",
     "city": "HEERHUGOWAARD",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "186",
-    "totalTime": "M50"
+    "totalTime": "01:14:02"
   },
   {
     "position": "358",
     "startNumber": "395",
     "name": "Marieke Hessels",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "172",
-    "totalTime": "V40"
+    "totalTime": "01:14:05"
   },
   {
     "position": "359",
     "startNumber": "435",
     "name": "Jessica Tangelder",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "173",
-    "totalTime": "V40"
+    "totalTime": "01:14:06"
   },
   {
     "position": "360",
     "startNumber": "406",
     "name": "Bert Kok",
     "city": "PURMEREND",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "187",
-    "totalTime": "M50"
+    "totalTime": "01:14:14"
   },
   {
     "position": "361",
     "startNumber": "405",
     "name": "Myriam de Haan",
     "city": "PURMEREND",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "174",
-    "totalTime": "V40"
+    "totalTime": "01:14:14"
   },
   {
     "position": "362",
     "startNumber": "597",
     "name": "Rob Van bree",
     "city": "AMSTELVEEN",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "188",
-    "totalTime": "M60"
+    "totalTime": "01:14:16"
   },
   {
     "position": "363",
     "startNumber": "407",
     "name": "Petra Schulte",
     "city": "PURMEREND",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "175",
-    "totalTime": "V50"
+    "totalTime": "01:14:16"
   },
   {
     "position": "364",
     "startNumber": "412",
     "name": "Renata Busscher",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "176",
-    "totalTime": "V40"
+    "totalTime": "01:14:24"
   },
   {
     "position": "365",
     "startNumber": "556",
     "name": "Tanja van Dinteren",
     "city": "ARNHEM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "177",
-    "totalTime": "V50"
+    "totalTime": "01:14:37"
   },
   {
     "position": "366",
     "startNumber": "356",
     "name": "Miriam Snijder",
     "city": "HAARLEM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "178",
-    "totalTime": "V50"
+    "totalTime": "01:14:58"
   },
   {
     "position": "367",
     "startNumber": "452",
     "name": "Anja van Andel",
     "city": "BADHOEVEDORP",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "179",
-    "totalTime": "V40"
+    "totalTime": "01:15:06"
   },
   {
     "position": "368",
     "startNumber": "453",
     "name": "Tessa Van Charldorp",
     "city": "ERICHEM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "180",
-    "totalTime": "V40"
+    "totalTime": "01:15:08"
   },
   {
     "position": "369",
     "startNumber": "365",
     "name": "Ramon Haak",
     "city": "UITHOORN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "189",
-    "totalTime": "M40"
+    "totalTime": "01:15:09"
   },
   {
     "position": "370",
     "startNumber": "369",
     "name": "Twan Vijverberg",
     "city": "IJSSELSTEIN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "190",
-    "totalTime": "M20"
+    "totalTime": "01:15:14"
   },
   {
     "position": "371",
     "startNumber": "630",
     "name": "Suzanne Kluijt",
     "city": "ROTTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "181",
-    "totalTime": "V40"
+    "totalTime": "01:15:17"
   },
   {
     "position": "372",
     "startNumber": "139",
     "name": "Clare Toms",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "182",
-    "totalTime": "V50"
+    "totalTime": "01:15:27"
   },
   {
     "position": "373",
     "startNumber": "397",
     "name": "Marjolein Vermeul",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "183",
-    "totalTime": "V20"
+    "totalTime": "01:15:31"
   },
   {
     "position": "374",
     "startNumber": "22",
     "name": "Floris Niemeijer",
     "city": "DOORN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "191",
-    "totalTime": "M20"
+    "totalTime": "01:15:39"
   },
   {
     "position": "375",
     "startNumber": "378",
     "name": "Karel Veldkamp",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "192",
-    "totalTime": "M20"
+    "totalTime": "01:15:39"
   },
   {
     "position": "376",
     "startNumber": "155",
     "name": "Janneke Weening",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "184",
-    "totalTime": "V40"
+    "totalTime": "01:15:42"
   },
   {
     "position": "377",
     "startNumber": "364",
     "name": "Natasja Hes",
     "city": "UITHOORN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "185",
-    "totalTime": "V20"
+    "totalTime": "01:15:44"
   },
   {
     "position": "378",
     "startNumber": "505",
     "name": "Edward Nagel",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "193",
-    "totalTime": "M60"
+    "totalTime": "01:15:50"
   },
   {
     "position": "379",
     "startNumber": "436",
     "name": "Aafje Dijk",
     "city": "MAASSLUIS",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "186",
-    "totalTime": "V60"
+    "totalTime": "01:16:03"
   },
   {
     "position": "380",
     "startNumber": "33",
     "name": "Huibert van Weverwijk",
     "city": "NIEUWEGEIN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "194",
-    "totalTime": "M50"
+    "totalTime": "01:16:09"
   },
   {
     "position": "381",
     "startNumber": "512",
     "name": "Eric Wandel",
     "city": "BREDA",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "195",
-    "totalTime": "M60"
+    "totalTime": "01:16:32"
   },
   {
     "position": "382",
     "startNumber": "539",
     "name": "Shiva Zanoli",
     "city": "HILVERSUM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "187",
-    "totalTime": "V40"
+    "totalTime": "01:16:41"
   },
   {
     "position": "383",
     "startNumber": "385",
     "name": "Lisanne Sijlmans",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "188",
-    "totalTime": "V20"
+    "totalTime": "01:16:46"
   },
   {
     "position": "384",
     "startNumber": "336",
     "name": "Jan Jansen",
     "city": "BREDA",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "196",
-    "totalTime": "M60"
+    "totalTime": "01:17:11"
   },
   {
     "position": "385",
     "startNumber": "521",
     "name": "Frank Rehorst",
     "city": "DEVENTER",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "197",
-    "totalTime": "M40"
+    "totalTime": "01:17:15"
   },
   {
     "position": "386",
     "startNumber": "416",
     "name": "Roselinda van der Vlugt",
     "city": "LEERSUM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "189",
-    "totalTime": "V50"
+    "totalTime": "01:17:16"
   },
   {
     "position": "387",
     "startNumber": "256",
     "name": "Hanna Staats",
     "city": "ABCOUDE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "190",
-    "totalTime": "V20"
+    "totalTime": "01:17:21"
   },
   {
     "position": "388",
     "startNumber": "413",
     "name": "Rian Van Heur",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "191",
-    "totalTime": "V40"
+    "totalTime": "01:17:22"
   },
   {
     "position": "389",
     "startNumber": "541",
     "name": "Luciën van der Vlugt",
     "city": "VOORSCHOTEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "192",
-    "totalTime": "V20"
+    "totalTime": "01:17:23"
   },
   {
     "position": "390",
     "startNumber": "360",
     "name": "Eirlys Pijpers",
     "city": "UTRECHT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "193",
-    "totalTime": "V20"
+    "totalTime": "01:17:34"
   },
   {
     "position": "391",
     "startNumber": "381",
     "name": "Vera Zijl",
     "city": "IJMUIDEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "194",
-    "totalTime": "V20"
+    "totalTime": "01:17:37"
   },
   {
     "position": "392",
     "startNumber": "354",
     "name": "Eveline Jansveld",
     "city": "HAARLEM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "195",
-    "totalTime": "V50"
+    "totalTime": "01:17:44"
   },
   {
     "position": "393",
     "startNumber": "338",
     "name": "Casper Woortman",
     "city": "AMSTELVEEN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "198",
-    "totalTime": "M40"
+    "totalTime": "01:17:47"
   },
   {
     "position": "394",
     "startNumber": "339",
     "name": "Mette Reitsma",
     "city": "AMSTELVEEN",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "196",
-    "totalTime": "V40"
+    "totalTime": "01:17:48"
   },
   {
     "position": "395",
     "startNumber": "380",
     "name": "Kim Godschalk",
     "city": "HAARLEM",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "197",
-    "totalTime": "V40"
+    "totalTime": "01:17:49"
   },
   {
     "position": "396",
     "startNumber": "502",
     "name": "Dieuwke Swain",
     "city": "DEN HAAG",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "198",
-    "totalTime": "V50"
+    "totalTime": "01:18:03"
   },
   {
     "position": "397",
     "startNumber": "508",
     "name": "Melle Van Schaik",
     "city": "HOOGLAND",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "199",
-    "totalTime": "M40"
+    "totalTime": "01:18:08"
   },
   {
     "position": "398",
     "startNumber": "509",
     "name": "Fynn Van Schaik",
     "city": "HOOGLAND",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "200",
-    "totalTime": "M20"
+    "totalTime": "01:18:10"
   },
   {
     "position": "399",
     "startNumber": "574",
     "name": "Loeka van der Kooij",
     "city": "LEIDEN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "201",
-    "totalTime": "M20"
+    "totalTime": "01:18:10"
   },
   {
     "position": "400",
     "startNumber": "430",
     "name": "Sjoerd Arkenbout",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "202",
-    "totalTime": "M20"
+    "totalTime": "01:18:38"
   },
   {
     "position": "401",
     "startNumber": "440",
     "name": "Leo Kaland",
     "city": "KOUDEKERKE",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "203",
-    "totalTime": "M60"
+    "totalTime": "01:19:29"
   },
   {
     "position": "402",
     "startNumber": "517",
     "name": "Esther Devilee",
     "city": "LEIDEN",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "199",
-    "totalTime": "V50"
+    "totalTime": "01:21:13"
   },
   {
     "position": "403",
     "startNumber": "518",
     "name": "Frits Bovenberg",
     "city": "OEGSTGEEST",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "204",
-    "totalTime": "M50"
+    "totalTime": "01:21:15"
   },
   {
     "position": "404",
     "startNumber": "330",
     "name": "Anneke Anrochte",
     "city": "ALMERE",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "200",
-    "totalTime": "V60"
+    "totalTime": "01:21:53"
   },
   {
     "position": "405",
     "startNumber": "610",
     "name": "Monique van der Meer",
     "city": "VINKEVEEN",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "201",
-    "totalTime": "V50"
+    "totalTime": "01:22:08"
   },
   {
     "position": "406",
     "startNumber": "372",
     "name": "Floor van der Wind",
     "city": "OUDORP",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "205",
-    "totalTime": "M60"
+    "totalTime": "01:22:23"
   },
   {
     "position": "407",
     "startNumber": "434",
     "name": "Arjen Veenhuizen",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "206",
-    "totalTime": "M50"
+    "totalTime": "01:22:24"
   },
   {
     "position": "408",
     "startNumber": "333",
     "name": "Milou Verdeijen",
     "city": "BREDA",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "202",
-    "totalTime": "V50"
+    "totalTime": "01:22:37"
   },
   {
     "position": "409",
     "startNumber": "500",
     "name": "Dennis van Wel",
     "city": "WEESP",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "207",
-    "totalTime": "M50"
+    "totalTime": "01:22:52"
   },
   {
     "position": "410",
     "startNumber": "227",
     "name": "Amber Kroon",
     "city": "HILVERSUM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "203",
-    "totalTime": "V20"
+    "totalTime": "01:22:57"
   },
   {
     "position": "411",
     "startNumber": "328",
     "name": "Marlies Noijens",
     "city": "ZAANDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "204",
-    "totalTime": "V20"
+    "totalTime": "01:23:01"
   },
   {
     "position": "412",
     "startNumber": "386",
     "name": "Lotte Kok",
     "city": "DOORN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "205",
-    "totalTime": "V20"
+    "totalTime": "01:23:13"
   },
   {
     "position": "413",
     "startNumber": "377",
     "name": "Jolanda Hafkamp",
     "city": "AUSTERLITZ",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "206",
-    "totalTime": "V50"
+    "totalTime": "01:23:30"
   },
   {
     "position": "414",
     "startNumber": "396",
     "name": "Sander Huisman",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "208",
-    "totalTime": "M40"
+    "totalTime": "01:23:30"
   },
   {
     "position": "415",
     "startNumber": "373",
     "name": "Helene Kroon",
     "city": "VINKEVEEN",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "207",
-    "totalTime": "V50"
+    "totalTime": "01:23:38"
   },
   {
     "position": "416",
     "startNumber": "308",
     "name": "Tess Pardo-bouwman",
     "city": "VINKEVEEN",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "208",
-    "totalTime": "V20"
+    "totalTime": "01:24:05"
   },
   {
     "position": "417",
     "startNumber": "664",
     "name": "Ruben Van der Zwaan",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "209",
-    "totalTime": "M20"
+    "totalTime": "01:24:12"
   },
   {
     "position": "418",
     "startNumber": "663",
     "name": "Paul Brouwer",
     "city": "AMERSFOORT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "210",
-    "totalTime": "M20"
+    "totalTime": "01:24:16"
   },
   {
     "position": "419",
     "startNumber": "662",
     "name": "Annemarie Bakker",
     "city": "AMERSFOORT",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "209",
-    "totalTime": "V20"
+    "totalTime": "01:24:21"
   },
   {
     "position": "420",
     "startNumber": "661",
     "name": "Daniël Bosters",
     "city": "ARNHEM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "211",
-    "totalTime": "M20"
+    "totalTime": "01:24:23"
   },
   {
     "position": "421",
     "startNumber": "660",
     "name": "Stijn Rensen",
     "city": "UTRECHT",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "212",
-    "totalTime": "M20"
+    "totalTime": "01:24:23"
   },
   {
     "position": "422",
     "startNumber": "665",
     "name": "Marianne Purmer",
     "city": "RIJSWIJK",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "210",
-    "totalTime": "V20"
+    "totalTime": "01:24:23"
   },
   {
     "position": "423",
     "startNumber": "327",
     "name": "Babette Burggraaff",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "211",
-    "totalTime": "V20"
+    "totalTime": "01:24:37"
   },
   {
     "position": "424",
     "startNumber": "299",
     "name": "Renko Bosgraaf",
     "city": "UITHOORN",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "213",
-    "totalTime": "M40"
+    "totalTime": "01:24:38"
   },
   {
     "position": "425",
     "startNumber": "326",
     "name": "Jelle Kamsma",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "214",
-    "totalTime": "M20"
+    "totalTime": "01:25:19"
   },
   {
     "position": "426",
     "startNumber": "368",
     "name": "Mike Vink",
     "city": "IJSSELSTEIN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "215",
-    "totalTime": "M20"
+    "totalTime": "01:25:38"
   },
   {
     "position": "427",
     "startNumber": "366",
     "name": "Ken van Rooijen",
     "city": "IJSSELSTEIN",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "216",
-    "totalTime": "M20"
+    "totalTime": "01:25:38"
   },
   {
     "position": "428",
     "startNumber": "325",
     "name": "Ada Otten",
     "city": "ABCOUDE",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "212",
-    "totalTime": "V50"
+    "totalTime": "01:26:33"
   },
   {
     "position": "429",
     "startNumber": "323",
     "name": "Maaike Dijkstra",
     "city": "IJLST",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "213",
-    "totalTime": "V50"
+    "totalTime": "01:26:47"
   },
   {
     "position": "430",
     "startNumber": "598",
     "name": "Mea Nadorp",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "214",
-    "totalTime": "V20"
+    "totalTime": "01:27:50"
   },
   {
     "position": "431",
     "startNumber": "345",
     "name": "Ella Desmet",
     "city": "BOOM, BELGIE",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "215",
-    "totalTime": "V20"
+    "totalTime": "01:28:38"
   },
   {
     "position": "432",
     "startNumber": "476",
     "name": "Maarten van der Weijden",
     "city": "HEEMSTEDE",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "217",
-    "totalTime": "M60"
+    "totalTime": "01:28:57"
   },
   {
     "position": "433",
     "startNumber": "474",
     "name": "Bertine Charbon",
     "city": "HAARLEM",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "216",
-    "totalTime": "V60"
+    "totalTime": "01:29:29"
   },
   {
     "position": "434",
     "startNumber": "475",
     "name": "Marijke Overmars",
     "city": "HEEMSTEDE",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "217",
-    "totalTime": "V60"
+    "totalTime": "01:29:30"
   },
   {
     "position": "435",
     "startNumber": "402",
     "name": "Martien Lodder",
     "city": "CULEMBORG",
-    "category": "M",
+    "category": "M60",
     "categoryPosition": "218",
-    "totalTime": "M60"
+    "totalTime": "01:30:33"
   },
   {
     "position": "436",
     "startNumber": "522",
     "name": "Melanie Rehorst",
     "city": "DEVENTER",
-    "category": "V",
+    "category": "V40",
     "categoryPosition": "218",
-    "totalTime": "V40"
+    "totalTime": "01:31:33"
   },
   {
     "position": "437",
     "startNumber": "520",
     "name": "Feline Rehorst",
     "city": "DEVENTER",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "219",
-    "totalTime": "V20"
+    "totalTime": "01:31:35"
   },
   {
     "position": "438",
     "startNumber": "542",
     "name": "Jan Posthumus",
     "city": "DIEMEN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "219",
-    "totalTime": "M50"
+    "totalTime": "01:32:27"
   },
   {
     "position": "439",
     "startNumber": "203",
     "name": "Jusmir Jasarevic",
     "city": "WEESP",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "220",
-    "totalTime": "M20"
+    "totalTime": "01:32:44"
   },
   {
     "position": "440",
     "startNumber": "19",
     "name": "Erik Berkelaar",
     "city": "MIJDRECHT",
-    "category": "M",
+    "category": "M40",
     "categoryPosition": "221",
-    "totalTime": "M40"
+    "totalTime": "01:33:29"
   },
   {
     "position": "441",
     "startNumber": "391",
     "name": "Odette Polak",
     "city": "ABCOUDE",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "220",
-    "totalTime": "V50"
+    "totalTime": "01:34:51"
   },
   {
     "position": "442",
     "startNumber": "390",
     "name": "Margaretha Vergeer",
     "city": "ABCOUDE",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "221",
-    "totalTime": "V60"
+    "totalTime": "01:34:51"
   },
   {
     "position": "443",
     "startNumber": "596",
     "name": "Mark Bresser",
     "city": "AMSTELVEEN",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "222",
-    "totalTime": "M50"
+    "totalTime": "01:35:38"
   },
   {
     "position": "444",
     "startNumber": "58",
     "name": "Michel Huijskens",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "223",
-    "totalTime": "M50"
+    "totalTime": "01:39:55"
   },
   {
     "position": "445",
     "startNumber": "426",
     "name": "Jouri Banen",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "224",
-    "totalTime": "M20"
+    "totalTime": "01:41:42"
   },
   {
     "position": "446",
     "startNumber": "403",
     "name": "Mary Langerak",
     "city": "HILVERSUM",
-    "category": "V",
+    "category": "V60",
     "categoryPosition": "222",
-    "totalTime": "V60"
+    "totalTime": "01:42:25"
   },
   {
     "position": "447",
     "startNumber": "357",
     "name": "Ed van Dijk",
     "city": "NIEUW-VENNEP",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "225",
-    "totalTime": "M50"
+    "totalTime": "01:47:28"
   },
   {
     "position": "448",
     "startNumber": "358",
     "name": "Erik Bakker",
     "city": "AMSTERDAM",
-    "category": "M",
+    "category": "M50",
     "categoryPosition": "226",
-    "totalTime": "M50"
+    "totalTime": "01:47:30"
   },
   {
     "position": "449",
     "startNumber": "359",
     "name": "Ryan van Dijk",
     "city": "NIEUW-VENNEP",
-    "category": "M",
+    "category": "M20",
     "categoryPosition": "227",
-    "totalTime": "M20"
+    "totalTime": "01:47:57"
   },
   {
     "position": "450",
     "startNumber": "362",
     "name": "Ellen Stegers",
     "city": "AMSTERDAM",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "223",
-    "totalTime": "V50"
+    "totalTime": "01:48:36"
   },
   {
     "position": "451",
     "startNumber": "346",
     "name": "Yvonne Poelman",
     "city": "NIEUW-VENNEP",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "224",
-    "totalTime": "V20"
+    "totalTime": "01:48:36"
   },
   {
     "position": "452",
     "startNumber": "417",
     "name": "Sandra Hazewinkel",
     "city": "KAPELLEN",
-    "category": "V",
+    "category": "V50",
     "categoryPosition": "225",
-    "totalTime": "V50"
+    "totalTime": "01:49:32"
   },
   {
     "position": "453",
     "startNumber": "419",
     "name": "Kiki Vanhoenacker",
     "city": "MERKSEM",
-    "category": "V",
+    "category": "V20",
     "categoryPosition": "226",
-    "totalTime": "V20"
-  }
+    "totalTime": "01:49:35"
+  },
+  null,
+  null,
+  null
 ]
