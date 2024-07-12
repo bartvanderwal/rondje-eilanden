@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Nick van Ingen",
+        "city": "Dordrecht",
+        "time": "1:24:23",
+        "position": 1,
+        "gender": "M",
+        "age_group": "M20"
+    },
+    {
+        "id": 2,
+        "name": "Sam Kraaijeveld",
+        "city": "Sliedrecht",
+        "time": "1:25:20",
+        "position": 2,
+        "gender": "M",
+        "age_group": "M30"
+    },
+    {
+        "id": 3,
+        "name": "Sibrand Rinzema",
+        "city": "Hilversum",
+        "time": "1:26:45",
+        "position": 3,
+        "gender": "M",
+        "age_group": "M40"
+    },
+    {
+        "id": 4,
+        "name": "Deborah Wissink",
+        "city": "Diepenheim",
+        "time": "1:35:38",
+        "position": 1,
+        "gender": "F",
+        "age_group": "F20"
+    },
+    {
+        "id": 5,
+        "name": "Eva Jansen",
+        "city": "Hilversum",
+        "time": "1:36:00",
+        "position": 2,
+        "gender": "F",
+        "age_group": "F30"
+    }
+]
