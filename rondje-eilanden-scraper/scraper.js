@@ -4,12 +4,12 @@ const iconv = require('iconv-lite');
 const execSync = require('child_process').execSync;
 
 const verbose = true;
-const reallyVerbose = false;
-const startjaar = 2012;
+const reallyVerbose = true;
+const startjaar = 2023;
 const eindjaar = 2023;
 
 for (let jaar = startjaar; jaar <= eindjaar; jaar++) {
-  let inputFile = `./data/rondje-eilanden-${jaar}.html`;
+  let inputFile = `./input/rondje-eilanden-${jaar}.html`;
   let htmlBuffer;
   try {
     htmlBuffer = fs.readFileSync(inputFile);
@@ -34,10 +34,8 @@ function detectEncoding(filePath) {
 
 function parseFile(htmlBuffer, resultFilename, encoding) {
   let html;
-  if (encoding === 'utf-16le') {
-    html = iconv.decode(htmlBuffer, 'UTF-16LE');
-  } else if (encoding === 'iso-8859-1') {
-    html = iconv.decode(htmlBuffer, 'ISO-8859-1');
+  if (encoding === 'utf-16le' || encoding === 'iso-8859-1' || encoding === 'utf-8') {
+    html = iconv.decode(htmlBuffer, encoding.toUpperCase().replace('-', ''));
   } else {
     html = htmlBuffer.toString();
   }
@@ -55,6 +53,10 @@ function parseFile(htmlBuffer, resultFilename, encoding) {
 
   participants.each((rowNum, elem) => {
     const cols = $(elem).find('td');
+    if (reallyVerbose) {
+      console.log(`Cols length: ${cols.length}`);
+    }
+
     if (cols.length === 7) {
       const result = {
         position: $(cols[0]).text().trim(),
@@ -65,14 +67,25 @@ function parseFile(htmlBuffer, resultFilename, encoding) {
         categoryPosition: $(cols[5]).text().trim(),
         totalTime: $(cols[6]).text().trim(),
       };
+      if (cols.length === 9) {
+        const result = {
+          position: $(cols[0]).text().trim(),
+          startNumber: $(cols[1]).text().trim(),
+          name: $(cols[2]).text().trim(),
+          city: $(cols[3]).text().trim(),
+          category: $(cols[4]).text().trim(),
+          categoryPosition: $(cols[5]).text().trim(),
+          category: $(cols[6]).text().trim(),
+          totalTime: $(cols[7]).text().trim(),
+        };
       if (reallyVerbose) {
-        console.log(`Row ${rowNum}: ${result}`);
+        console.log(`Row ${rowNum}: ${JSON.stringify(result)}`);
       }
       results.push(result);
     }
   });
 
   // Schrijf de resultaten naar een JSON-bestand
-  fs.writeFileSync(`./data/${resultFilename}`, JSON.stringify(results, null, 2), 'utf8');
+  fs.writeFileSync(`./output/${resultFilename}`, JSON.stringify(results, null, 2), 'utf8');
   console.log(`Scraping completed and results saved to "${resultFilename}"`);
 }
