@@ -1,1 +1,4934 @@
-[]
+[
+  {
+    "position": "1",
+    "startNumber": "56",
+    "name": "Schroder, Erik",
+    "city": "GRONINGEN",
+    "category": "M",
+    "categoryPosition": "1",
+    "totalTime": "00:39:38"
+  },
+  {
+    "position": "2",
+    "startNumber": "1",
+    "name": "Reijnders, Jeffrey",
+    "city": "SITTARD",
+    "category": "M",
+    "categoryPosition": "2",
+    "totalTime": "00:40:56"
+  },
+  {
+    "position": "3",
+    "startNumber": "72",
+    "name": "Wachter, Jonas de",
+    "city": "WILLEBROEK",
+    "category": "M",
+    "categoryPosition": "3",
+    "totalTime": "00:41:56"
+  },
+  {
+    "position": "4",
+    "startNumber": "21",
+    "name": "Heijsteeg, Davy",
+    "city": "AALSMEER",
+    "category": "M",
+    "categoryPosition": "4",
+    "totalTime": "00:42:02"
+  },
+  {
+    "position": "5",
+    "startNumber": "7",
+    "name": "Schelvis, Alex",
+    "city": "NOORDWIJK",
+    "category": "M",
+    "categoryPosition": "5",
+    "totalTime": "00:42:24"
+  },
+  {
+    "position": "6",
+    "startNumber": "3",
+    "name": "Bohm, Vincent",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "6",
+    "totalTime": "00:42:39"
+  },
+  {
+    "position": "7",
+    "startNumber": "4",
+    "name": "Barel, Rob",
+    "city": "OVERBERG",
+    "category": "M",
+    "categoryPosition": "7",
+    "totalTime": "00:42:41"
+  },
+  {
+    "position": "8",
+    "startNumber": "2",
+    "name": "Veltman, Sjoerd",
+    "city": "EDE",
+    "category": "M",
+    "categoryPosition": "8",
+    "totalTime": "00:42:47"
+  },
+  {
+    "position": "9",
+    "startNumber": "52",
+    "name": "Oag, Bobby",
+    "city": "ORKNEY",
+    "category": "M",
+    "categoryPosition": "9",
+    "totalTime": "00:43:04"
+  },
+  {
+    "position": "10",
+    "startNumber": "74",
+    "name": "Dewilde, Michael",
+    "city": "EEKLO",
+    "category": "M",
+    "categoryPosition": "10",
+    "totalTime": "00:43:35"
+  },
+  {
+    "position": "11",
+    "startNumber": "19",
+    "name": "Vliet, Bjorn van",
+    "city": "HEINENOORD",
+    "category": "M",
+    "categoryPosition": "11",
+    "totalTime": "00:43:39"
+  },
+  {
+    "position": "12",
+    "startNumber": "6",
+    "name": "Dingenen, Sam van",
+    "city": "RUMST",
+    "category": "M",
+    "categoryPosition": "12",
+    "totalTime": "00:43:45"
+  },
+  {
+    "position": "13",
+    "startNumber": "81",
+    "name": "Huitema, Elianne",
+    "city": "ZWARTSLUIS",
+    "category": "V",
+    "categoryPosition": "1",
+    "totalTime": "00:44:07"
+  },
+  {
+    "position": "14",
+    "startNumber": "11",
+    "name": "Hutten, Jeroen",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "13",
+    "totalTime": "00:44:49"
+  },
+  {
+    "position": "15",
+    "startNumber": "12",
+    "name": "Oldeman, Ferdinand",
+    "city": "VOORBURG",
+    "category": "M",
+    "categoryPosition": "14",
+    "totalTime": "00:44:51"
+  },
+  {
+    "position": "16",
+    "startNumber": "37",
+    "name": "Binsbergen, Hanno van",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "15",
+    "totalTime": "00:45:17"
+  },
+  {
+    "position": "17",
+    "startNumber": "49",
+    "name": "Steenkamp, Vernon",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "16",
+    "totalTime": "00:45:42"
+  },
+  {
+    "position": "18",
+    "startNumber": "54",
+    "name": "Heteren, Frans van",
+    "city": "AALSMEER",
+    "category": "M",
+    "categoryPosition": "17",
+    "totalTime": "00:45:44"
+  },
+  {
+    "position": "19",
+    "startNumber": "8",
+    "name": "Koolhaas, Johan",
+    "city": "AMSTELVEEN",
+    "category": "M",
+    "categoryPosition": "18",
+    "totalTime": "00:45:53"
+  },
+  {
+    "position": "20",
+    "startNumber": "82",
+    "name": "Brusse, Cindy",
+    "city": "AALTEN",
+    "category": "V",
+    "categoryPosition": "2",
+    "totalTime": "00:46:15"
+  },
+  {
+    "position": "21",
+    "startNumber": "16",
+    "name": "Heteren, Jan van",
+    "city": "AALSMEER",
+    "category": "M",
+    "categoryPosition": "19",
+    "totalTime": "00:46:29"
+  },
+  {
+    "position": "22",
+    "startNumber": "109",
+    "name": "Zijgers, Rina",
+    "city": "APELDOORN",
+    "category": "V",
+    "categoryPosition": "3",
+    "totalTime": "00:46:58"
+  },
+  {
+    "position": "23",
+    "startNumber": "27",
+    "name": "Gang, Niels de",
+    "city": "HOFSTADE",
+    "category": "M",
+    "categoryPosition": "20",
+    "totalTime": "00:47:03"
+  },
+  {
+    "position": "24",
+    "startNumber": "73",
+    "name": "Molkens, Steven",
+    "city": "RUMST",
+    "category": "M",
+    "categoryPosition": "21",
+    "totalTime": "00:47:04"
+  },
+  {
+    "position": "25",
+    "startNumber": "169",
+    "name": "Alberts, Bart",
+    "city": "NIJMEGEN",
+    "category": "M",
+    "categoryPosition": "22",
+    "totalTime": "00:47:06"
+  },
+  {
+    "position": "26",
+    "startNumber": "622",
+    "name": "Kleinjans, Lennart",
+    "city": "BENNEKOM",
+    "category": "M",
+    "categoryPosition": "23",
+    "totalTime": "00:47:09"
+  },
+  {
+    "position": "27",
+    "startNumber": "15",
+    "name": "Peters, Micha",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "24",
+    "totalTime": "00:47:13"
+  },
+  {
+    "position": "28",
+    "startNumber": "62",
+    "name": "Schip, Jeffrey van 't",
+    "city": "MIJDRECHT",
+    "category": "M",
+    "categoryPosition": "25",
+    "totalTime": "00:47:22"
+  },
+  {
+    "position": "29",
+    "startNumber": "28",
+    "name": "Gang, Jochen de",
+    "city": "HOFSTADE",
+    "category": "M",
+    "categoryPosition": "26",
+    "totalTime": "00:47:53"
+  },
+  {
+    "position": "30",
+    "startNumber": "473",
+    "name": "Meuffels, Fiona",
+    "city": "ECHT",
+    "category": "V",
+    "categoryPosition": "4",
+    "totalTime": "00:47:58"
+  },
+  {
+    "position": "31",
+    "startNumber": "17",
+    "name": "Boer, Jelle de (Bo ter Ham)",
+    "city": "ZAANDAM",
+    "category": "M",
+    "categoryPosition": "27",
+    "totalTime": "00:48:06"
+  },
+  {
+    "position": "32",
+    "startNumber": "132",
+    "name": "Posthumus, Wibo",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "28",
+    "totalTime": "00:48:09"
+  },
+  {
+    "position": "33",
+    "startNumber": "83",
+    "name": "Heijnen, Germijn",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "5",
+    "totalTime": "00:48:10"
+  },
+  {
+    "position": "34",
+    "startNumber": "600",
+    "name": "Fangmann, Annika",
+    "city": "DE HOEF",
+    "category": "V",
+    "categoryPosition": "6",
+    "totalTime": "00:48:12"
+  },
+  {
+    "position": "35",
+    "startNumber": "18",
+    "name": "Nieuwenhuys, Sander",
+    "city": "MAARSSEN",
+    "category": "M",
+    "categoryPosition": "29",
+    "totalTime": "00:48:18"
+  },
+  {
+    "position": "36",
+    "startNumber": "138",
+    "name": "Smiers, Coen",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "30",
+    "totalTime": "00:48:22"
+  },
+  {
+    "position": "37",
+    "startNumber": "13",
+    "name": "Oosterbaan, Sjoerd",
+    "city": "ASSENDELFT",
+    "category": "M",
+    "categoryPosition": "31",
+    "totalTime": "00:48:25"
+  },
+  {
+    "position": "38",
+    "startNumber": "25",
+    "name": "Mosch, Marten",
+    "city": "KROMMENIE",
+    "category": "M",
+    "categoryPosition": "32",
+    "totalTime": "00:48:39"
+  },
+  {
+    "position": "39",
+    "startNumber": "91",
+    "name": "Meynen, Ninke",
+    "city": "MECHELEN",
+    "category": "V",
+    "categoryPosition": "7",
+    "totalTime": "00:48:44"
+  },
+  {
+    "position": "40",
+    "startNumber": "26",
+    "name": "Edelman, Ruud",
+    "city": "BODEGRAVEN",
+    "category": "M",
+    "categoryPosition": "33",
+    "totalTime": "00:48:53"
+  },
+  {
+    "position": "41",
+    "startNumber": "153",
+    "name": "Duren, Ruben van",
+    "city": "HILVERSUM",
+    "category": "M",
+    "categoryPosition": "34",
+    "totalTime": "00:48:58"
+  },
+  {
+    "position": "42",
+    "startNumber": "601",
+    "name": "Wal, Bart van der",
+    "city": "ZEIST",
+    "category": "M",
+    "categoryPosition": "35",
+    "totalTime": "00:49:10"
+  },
+  {
+    "position": "43",
+    "startNumber": "40",
+    "name": "Meijer, Jorrit",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "36",
+    "totalTime": "00:49:12"
+  },
+  {
+    "position": "44",
+    "startNumber": "22",
+    "name": "Besseling, Michel",
+    "city": "AMERSFOORT",
+    "category": "M",
+    "categoryPosition": "37",
+    "totalTime": "00:49:14"
+  },
+  {
+    "position": "45",
+    "startNumber": "32",
+    "name": "Duits, Sven",
+    "city": "HOLKERWEG",
+    "category": "M",
+    "categoryPosition": "38",
+    "totalTime": "00:49:24"
+  },
+  {
+    "position": "46",
+    "startNumber": "161",
+    "name": "Zinger, Jeroen de",
+    "city": "BAARN",
+    "category": "M",
+    "categoryPosition": "39",
+    "totalTime": "00:49:25"
+  },
+  {
+    "position": "47",
+    "startNumber": "87",
+    "name": "Casteleijn, Jorieke",
+    "city": "AMERSFOORT",
+    "category": "V",
+    "categoryPosition": "8",
+    "totalTime": "00:49:25"
+  },
+  {
+    "position": "48",
+    "startNumber": "71",
+    "name": "Breedam, Jonas van",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "40",
+    "totalTime": "00:49:35"
+  },
+  {
+    "position": "49",
+    "startNumber": "238",
+    "name": "Wilke, Olav",
+    "city": "LELYSTAD",
+    "category": "M",
+    "categoryPosition": "41",
+    "totalTime": "00:49:42"
+  },
+  {
+    "position": "50",
+    "startNumber": "119",
+    "name": "Meijden, Heleen van der",
+    "city": "HERWIJNEN",
+    "category": "V",
+    "categoryPosition": "9",
+    "totalTime": "00:49:44"
+  },
+  {
+    "position": "51",
+    "startNumber": "24",
+    "name": "Brink, Arthur van den",
+    "city": "ELST (GELDERLAND)",
+    "category": "M",
+    "categoryPosition": "42",
+    "totalTime": "00:49:45"
+  },
+  {
+    "position": "52",
+    "startNumber": "131",
+    "name": "Danckaarts, Roy",
+    "city": "MAARSSEN",
+    "category": "M",
+    "categoryPosition": "43",
+    "totalTime": "00:49:46"
+  },
+  {
+    "position": "53",
+    "startNumber": "121",
+    "name": "Kamminga, Sam",
+    "city": "GRONINGEN",
+    "category": "M",
+    "categoryPosition": "44",
+    "totalTime": "00:49:46"
+  },
+  {
+    "position": "54",
+    "startNumber": "64",
+    "name": "Schmidt, Allard",
+    "city": "AMERSFOORT",
+    "category": "M",
+    "categoryPosition": "45",
+    "totalTime": "00:49:47"
+  },
+  {
+    "position": "55",
+    "startNumber": "120",
+    "name": "Wolbers, Marco",
+    "city": "HARDERWIJK",
+    "category": "M",
+    "categoryPosition": "46",
+    "totalTime": "00:49:48"
+  },
+  {
+    "position": "56",
+    "startNumber": "94",
+    "name": "Molkens, Stephanie",
+    "city": "RUMST",
+    "category": "V",
+    "categoryPosition": "10",
+    "totalTime": "00:49:50"
+  },
+  {
+    "position": "57",
+    "startNumber": "200",
+    "name": "Leersum, Karin van",
+    "city": "ENSCHEDE",
+    "category": "V",
+    "categoryPosition": "11",
+    "totalTime": "00:49:51"
+  },
+  {
+    "position": "58",
+    "startNumber": "130",
+    "name": "Obst, Tommy",
+    "city": "HILVERSUM",
+    "category": "M",
+    "categoryPosition": "47",
+    "totalTime": "00:49:54"
+  },
+  {
+    "position": "59",
+    "startNumber": "88",
+    "name": "Plaatzer, Heleen",
+    "city": "NIJMEGEN",
+    "category": "V",
+    "categoryPosition": "12",
+    "totalTime": "00:49:58"
+  },
+  {
+    "position": "60",
+    "startNumber": "335",
+    "name": "Berge, Hanneke van den",
+    "city": "VEENENDAAL",
+    "category": "V",
+    "categoryPosition": "13",
+    "totalTime": "00:50:12"
+  },
+  {
+    "position": "61",
+    "startNumber": "92",
+    "name": "Kleinveld, Helen",
+    "city": "DEN HAAG",
+    "category": "V",
+    "categoryPosition": "14",
+    "totalTime": "00:50:32"
+  },
+  {
+    "position": "62",
+    "startNumber": "84",
+    "name": "Nieberg, Marloes",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "15",
+    "totalTime": "00:50:36"
+  },
+  {
+    "position": "63",
+    "startNumber": "44",
+    "name": "Kooman, Ingmar",
+    "city": "LEIDERDORP",
+    "category": "M",
+    "categoryPosition": "48",
+    "totalTime": "00:50:42"
+  },
+  {
+    "position": "64",
+    "startNumber": "77",
+    "name": "Franken, Simon",
+    "city": "AERDENHOUT",
+    "category": "M",
+    "categoryPosition": "49",
+    "totalTime": "00:50:43"
+  },
+  {
+    "position": "65",
+    "startNumber": "157",
+    "name": "Tongeren, Jorg van",
+    "city": "ANKEVEEN",
+    "category": "M",
+    "categoryPosition": "50",
+    "totalTime": "00:50:49"
+  },
+  {
+    "position": "66",
+    "startNumber": "627",
+    "name": "Fortuin, Pim",
+    "city": "MAASSLUIS",
+    "category": "M",
+    "categoryPosition": "51",
+    "totalTime": "00:51:05"
+  },
+  {
+    "position": "67",
+    "startNumber": "296",
+    "name": "Heijsteeg, John",
+    "city": "AALSMEER",
+    "category": "M",
+    "categoryPosition": "52",
+    "totalTime": "00:51:06"
+  },
+  {
+    "position": "68",
+    "startNumber": "125",
+    "name": "Zwan, Bert van der",
+    "city": "APELDOORN",
+    "category": "M",
+    "categoryPosition": "53",
+    "totalTime": "00:51:09"
+  },
+  {
+    "position": "69",
+    "startNumber": "158",
+    "name": "Meier, Martijn",
+    "city": "APPINGEDAM",
+    "category": "M",
+    "categoryPosition": "54",
+    "totalTime": "00:51:15"
+  },
+  {
+    "position": "70",
+    "startNumber": "522",
+    "name": "Bijlard, Douwe",
+    "city": "ZAANDAM",
+    "category": "M",
+    "categoryPosition": "55",
+    "totalTime": "00:51:21"
+  },
+  {
+    "position": "71",
+    "startNumber": "117",
+    "name": "Verbakel, Mandy",
+    "city": "WOERDEN",
+    "category": "V",
+    "categoryPosition": "16",
+    "totalTime": "00:51:22"
+  },
+  {
+    "position": "72",
+    "startNumber": "31",
+    "name": "Ravenzwaaij, Rene van",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "56",
+    "totalTime": "00:51:25"
+  },
+  {
+    "position": "73",
+    "startNumber": "403",
+    "name": "Groeneveld, Charlotte",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "17",
+    "totalTime": "00:51:27"
+  },
+  {
+    "position": "74",
+    "startNumber": "115",
+    "name": "Stellaard, Anne",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "18",
+    "totalTime": "00:51:28"
+  },
+  {
+    "position": "75",
+    "startNumber": "149",
+    "name": "Miltenburg, Rene",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "57",
+    "totalTime": "00:51:38"
+  },
+  {
+    "position": "76",
+    "startNumber": "5",
+    "name": "El Yousfi, Yassin",
+    "city": "AARTSELAAR",
+    "category": "M",
+    "categoryPosition": "58",
+    "totalTime": "00:51:42"
+  },
+  {
+    "position": "77",
+    "startNumber": "209",
+    "name": "Slot, Ruben",
+    "city": "DALFSEN",
+    "category": "M",
+    "categoryPosition": "59",
+    "totalTime": "00:51:47"
+  },
+  {
+    "position": "78",
+    "startNumber": "61",
+    "name": "Flikweert, Jaap",
+    "city": "TITCHMARSH, GROOT BRITTANNIE",
+    "category": "M",
+    "categoryPosition": "60",
+    "totalTime": "00:51:59"
+  },
+  {
+    "position": "79",
+    "startNumber": "23",
+    "name": "Coevert, Erik",
+    "city": "LAMBERTSCHAAG",
+    "category": "M",
+    "categoryPosition": "61",
+    "totalTime": "00:52:02"
+  },
+  {
+    "position": "80",
+    "startNumber": "101",
+    "name": "Meynen, Shari",
+    "city": "MECHELEN",
+    "category": "V",
+    "categoryPosition": "19",
+    "totalTime": "00:52:02"
+  },
+  {
+    "position": "81",
+    "startNumber": "129",
+    "name": "Wallet, Bert",
+    "city": "AMERSFOORT",
+    "category": "M",
+    "categoryPosition": "62",
+    "totalTime": "00:52:03"
+  },
+  {
+    "position": "82",
+    "startNumber": "413",
+    "name": "Kruk, Judith van der",
+    "city": "DEN HAAG",
+    "category": "V",
+    "categoryPosition": "20",
+    "totalTime": "00:52:04"
+  },
+  {
+    "position": "83",
+    "startNumber": "67",
+    "name": "Schram, Mark",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "63",
+    "totalTime": "00:52:10"
+  },
+  {
+    "position": "84",
+    "startNumber": "156",
+    "name": "Jansen, Mark",
+    "city": "PUTTERSHOEK",
+    "category": "M",
+    "categoryPosition": "64",
+    "totalTime": "00:52:11"
+  },
+  {
+    "position": "85",
+    "startNumber": "30",
+    "name": "Snel, Maarten",
+    "city": "KORTENHOEF",
+    "category": "M",
+    "categoryPosition": "65",
+    "totalTime": "00:52:15"
+  },
+  {
+    "position": "86",
+    "startNumber": "297",
+    "name": "Flietstra, Peter",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "66",
+    "totalTime": "00:52:25"
+  },
+  {
+    "position": "87",
+    "startNumber": "118",
+    "name": "Verdam, Hedda",
+    "city": "GOES",
+    "category": "V",
+    "categoryPosition": "21",
+    "totalTime": "00:52:27"
+  },
+  {
+    "position": "88",
+    "startNumber": "210",
+    "name": "Uem, Arjan van",
+    "city": "ENSCHEDE",
+    "category": "M",
+    "categoryPosition": "67",
+    "totalTime": "00:52:32"
+  },
+  {
+    "position": "89",
+    "startNumber": "143",
+    "name": "Hijstek, Jeroen",
+    "city": "NIEUW VENNEP",
+    "category": "M",
+    "categoryPosition": "68",
+    "totalTime": "00:52:35"
+  },
+  {
+    "position": "90",
+    "startNumber": "141",
+    "name": "Bult, Theo",
+    "city": "WAGENINGEN",
+    "category": "M",
+    "categoryPosition": "69",
+    "totalTime": "00:52:37"
+  },
+  {
+    "position": "91",
+    "startNumber": "111",
+    "name": "Prins, Henrieke",
+    "city": "AMERSFOORT",
+    "category": "V",
+    "categoryPosition": "22",
+    "totalTime": "00:52:38"
+  },
+  {
+    "position": "92",
+    "startNumber": "96",
+    "name": "Schuurkamp, Brenda",
+    "city": "DEN HAAG",
+    "category": "V",
+    "categoryPosition": "23",
+    "totalTime": "00:52:44"
+  },
+  {
+    "position": "93",
+    "startNumber": "478",
+    "name": "Wolbers, Michiel",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "70",
+    "totalTime": "00:52:45"
+  },
+  {
+    "position": "94",
+    "startNumber": "202",
+    "name": "Hanse, Abel",
+    "city": "ENSCHEDE",
+    "category": "M",
+    "categoryPosition": "71",
+    "totalTime": "00:53:00"
+  },
+  {
+    "position": "95",
+    "startNumber": "86",
+    "name": "Schmidt, Anne",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "24",
+    "totalTime": "00:53:01"
+  },
+  {
+    "position": "96",
+    "startNumber": "410",
+    "name": "Eitelberg, David",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "72",
+    "totalTime": "00:53:05"
+  },
+  {
+    "position": "97",
+    "startNumber": "163",
+    "name": "Klijn, Henri",
+    "city": "DRUNEN",
+    "category": "M",
+    "categoryPosition": "73",
+    "totalTime": "00:53:10"
+  },
+  {
+    "position": "98",
+    "startNumber": "166",
+    "name": "Hirtum, Michel van",
+    "city": "ENSCHEDE",
+    "category": "M",
+    "categoryPosition": "74",
+    "totalTime": "00:53:11"
+  },
+  {
+    "position": "99",
+    "startNumber": "582",
+    "name": "Koemans, Tom",
+    "city": "NIJMEGEN",
+    "category": "M",
+    "categoryPosition": "75",
+    "totalTime": "00:53:12"
+  },
+  {
+    "position": "100",
+    "startNumber": "159",
+    "name": "Heinis, Mark",
+    "city": "ASSENDELFT",
+    "category": "M",
+    "categoryPosition": "76",
+    "totalTime": "00:53:16"
+  },
+  {
+    "position": "101",
+    "startNumber": "579",
+    "name": "Krol, Cas",
+    "city": "OEGSTGEEST",
+    "category": "M",
+    "categoryPosition": "77",
+    "totalTime": "00:53:22"
+  },
+  {
+    "position": "102",
+    "startNumber": "281",
+    "name": "Berkhof, Tom van der",
+    "city": "NIEUWEGEIN",
+    "category": "M",
+    "categoryPosition": "78",
+    "totalTime": "00:53:23"
+  },
+  {
+    "position": "103",
+    "startNumber": "104",
+    "name": "Meindertsma, Welmoed",
+    "city": "HALLE",
+    "category": "V",
+    "categoryPosition": "25",
+    "totalTime": "00:53:26"
+  },
+  {
+    "position": "104",
+    "startNumber": "47",
+    "name": "Kamp, Ruud",
+    "city": "ZEIST",
+    "category": "M",
+    "categoryPosition": "79",
+    "totalTime": "00:53:28"
+  },
+  {
+    "position": "105",
+    "startNumber": "388",
+    "name": "Eisse, Jan",
+    "city": "ZWOLLE",
+    "category": "M",
+    "categoryPosition": "80",
+    "totalTime": "00:53:35"
+  },
+  {
+    "position": "106",
+    "startNumber": "167",
+    "name": "Freriks, Peter",
+    "city": "HOOFDDORP",
+    "category": "M",
+    "categoryPosition": "81",
+    "totalTime": "00:53:38"
+  },
+  {
+    "position": "107",
+    "startNumber": "211",
+    "name": "Baumgardt, Alex",
+    "city": "DUITSLAND",
+    "category": "M",
+    "categoryPosition": "82",
+    "totalTime": "00:53:39"
+  },
+  {
+    "position": "108",
+    "startNumber": "175",
+    "name": "Montfoort, Gertjan van",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "83",
+    "totalTime": "00:53:41"
+  },
+  {
+    "position": "109",
+    "startNumber": "362",
+    "name": "Kramer, Peter",
+    "city": "HOUTEN",
+    "category": "M",
+    "categoryPosition": "84",
+    "totalTime": "00:53:44"
+  },
+  {
+    "position": "110",
+    "startNumber": "179",
+    "name": "Schaefers, Francis",
+    "city": "ZETTEN",
+    "category": "M",
+    "categoryPosition": "85",
+    "totalTime": "00:53:46"
+  },
+  {
+    "position": "111",
+    "startNumber": "548",
+    "name": "Boer, Michel",
+    "city": "SASSENHEIM",
+    "category": "M",
+    "categoryPosition": "86",
+    "totalTime": "00:53:47"
+  },
+  {
+    "position": "112",
+    "startNumber": "496",
+    "name": "Breukelen, Job van",
+    "city": "NAARDEN",
+    "category": "M",
+    "categoryPosition": "87",
+    "totalTime": "00:53:49"
+  },
+  {
+    "position": "113",
+    "startNumber": "126",
+    "name": "Meulem, Robbert van",
+    "city": "OOSTWOUD",
+    "category": "M",
+    "categoryPosition": "88",
+    "totalTime": "00:53:51"
+  },
+  {
+    "position": "114",
+    "startNumber": "99",
+    "name": "Burgt, Julia van der",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "26",
+    "totalTime": "00:53:53"
+  },
+  {
+    "position": "115",
+    "startNumber": "69",
+    "name": "Docquir, Elias",
+    "city": "KAMPENHOUT",
+    "category": "M",
+    "categoryPosition": "89",
+    "totalTime": "00:54:02"
+  },
+  {
+    "position": "116",
+    "startNumber": "122",
+    "name": "Spek, Klaas-Jan",
+    "city": "ZALTBOMMEL",
+    "category": "M",
+    "categoryPosition": "90",
+    "totalTime": "00:54:06"
+  },
+  {
+    "position": "117",
+    "startNumber": "147",
+    "name": "Veen, Roland van",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "91",
+    "totalTime": "00:54:06"
+  },
+  {
+    "position": "118",
+    "startNumber": "191",
+    "name": "Meier, Ronald",
+    "city": "GRONINGEN",
+    "category": "M",
+    "categoryPosition": "92",
+    "totalTime": "00:54:09"
+  },
+  {
+    "position": "119",
+    "startNumber": "369",
+    "name": "Hagen, Alida",
+    "city": "EDE",
+    "category": "V",
+    "categoryPosition": "27",
+    "totalTime": "00:54:19"
+  },
+  {
+    "position": "120",
+    "startNumber": "345",
+    "name": "Schrauwers, Mark",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "93",
+    "totalTime": "00:54:20"
+  },
+  {
+    "position": "121",
+    "startNumber": "135",
+    "name": "Daems, Erik",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "94",
+    "totalTime": "00:54:23"
+  },
+  {
+    "position": "122",
+    "startNumber": "102",
+    "name": "Stoelhorst, Anne",
+    "city": "RENKUM",
+    "category": "V",
+    "categoryPosition": "28",
+    "totalTime": "00:54:24"
+  },
+  {
+    "position": "123",
+    "startNumber": "128",
+    "name": "Borst, Martijn",
+    "city": "ALMERE-HAVEN",
+    "category": "M",
+    "categoryPosition": "95",
+    "totalTime": "00:54:29"
+  },
+  {
+    "position": "124",
+    "startNumber": "586",
+    "name": "Gool, Zoe",
+    "city": "NOORDWIJK",
+    "category": "V",
+    "categoryPosition": "29",
+    "totalTime": "00:54:30"
+  },
+  {
+    "position": "125",
+    "startNumber": "50",
+    "name": "Jongh, Gerben de",
+    "city": "MEERKERK",
+    "category": "M",
+    "categoryPosition": "96",
+    "totalTime": "00:54:36"
+  },
+  {
+    "position": "126",
+    "startNumber": "68",
+    "name": "Knelange, Carl",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "97",
+    "totalTime": "00:54:40"
+  },
+  {
+    "position": "127",
+    "startNumber": "540",
+    "name": "Raad, Jaap de",
+    "city": "HAARLEM",
+    "category": "M",
+    "categoryPosition": "98",
+    "totalTime": "00:54:46"
+  },
+  {
+    "position": "128",
+    "startNumber": "544",
+    "name": "Kremers, Rianne",
+    "city": "GORINCHEM",
+    "category": "V",
+    "categoryPosition": "30",
+    "totalTime": "00:54:55"
+  },
+  {
+    "position": "129",
+    "startNumber": "174",
+    "name": "Mellema, Aaldert",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "99",
+    "totalTime": "00:55:01"
+  },
+  {
+    "position": "130",
+    "startNumber": "416",
+    "name": "Groot, Jannes de",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "100",
+    "totalTime": "00:55:05"
+  },
+  {
+    "position": "131",
+    "startNumber": "534",
+    "name": "Nys, Jana",
+    "city": "ZUTENDAAL",
+    "category": "V",
+    "categoryPosition": "31",
+    "totalTime": "00:55:08"
+  },
+  {
+    "position": "132",
+    "startNumber": "154",
+    "name": "Alphen, Belinda van",
+    "city": "ALPHEN AAN DEN RIJN",
+    "category": "V",
+    "categoryPosition": "32",
+    "totalTime": "00:55:10"
+  },
+  {
+    "position": "133",
+    "startNumber": "85",
+    "name": "Zwet, Marinka van der",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "33",
+    "totalTime": "00:55:20"
+  },
+  {
+    "position": "134",
+    "startNumber": "39",
+    "name": "Rippens, Michael",
+    "city": "ZWAAG",
+    "category": "M",
+    "categoryPosition": "101",
+    "totalTime": "00:55:21"
+  },
+  {
+    "position": "135",
+    "startNumber": "108",
+    "name": "Hoor, Alinda ten",
+    "city": "FOCHTELOO",
+    "category": "V",
+    "categoryPosition": "34",
+    "totalTime": "00:55:22"
+  },
+  {
+    "position": "136",
+    "startNumber": "20",
+    "name": "Veen, Maarten van der",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "102",
+    "totalTime": "00:55:31"
+  },
+  {
+    "position": "137",
+    "startNumber": "575",
+    "name": "Veen, Jelle van der",
+    "city": "LEIDERDORP",
+    "category": "M",
+    "categoryPosition": "103",
+    "totalTime": "00:55:32"
+  },
+  {
+    "position": "138",
+    "startNumber": "310",
+    "name": "Kort, Kajan",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "104",
+    "totalTime": "00:55:33"
+  },
+  {
+    "position": "139",
+    "startNumber": "164",
+    "name": "Haar, Peter van de",
+    "city": "EDE",
+    "category": "M",
+    "categoryPosition": "105",
+    "totalTime": "00:55:34"
+  },
+  {
+    "position": "140",
+    "startNumber": "452",
+    "name": "Zijl, Niek van",
+    "city": "ROTTERDAM",
+    "category": "M",
+    "categoryPosition": "106",
+    "totalTime": "00:55:35"
+  },
+  {
+    "position": "141",
+    "startNumber": "480",
+    "name": "Schwab, Silvia",
+    "city": "BLARICUM",
+    "category": "V",
+    "categoryPosition": "35",
+    "totalTime": "00:55:41"
+  },
+  {
+    "position": "142",
+    "startNumber": "387",
+    "name": "Weerd, Johan van de",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "107",
+    "totalTime": "00:55:43"
+  },
+  {
+    "position": "143",
+    "startNumber": "607",
+    "name": "Rijk, Wouter de",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "108",
+    "totalTime": "00:55:47"
+  },
+  {
+    "position": "144",
+    "startNumber": "155",
+    "name": "Plaatzer, Mieke",
+    "city": "DEN HAAG",
+    "category": "V",
+    "categoryPosition": "36",
+    "totalTime": "00:55:49"
+  },
+  {
+    "position": "145",
+    "startNumber": "145",
+    "name": "Hoff, Michiel",
+    "city": "KROMMENIE",
+    "category": "M",
+    "categoryPosition": "109",
+    "totalTime": "00:55:55"
+  },
+  {
+    "position": "146",
+    "startNumber": "356",
+    "name": "Nieborg, G.H.",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "110",
+    "totalTime": "00:55:59"
+  },
+  {
+    "position": "147",
+    "startNumber": "114",
+    "name": "Politiek, Klaziena",
+    "city": "GRONINGEN",
+    "category": "V",
+    "categoryPosition": "37",
+    "totalTime": "00:56:03"
+  },
+  {
+    "position": "148",
+    "startNumber": "511",
+    "name": "Heinis, Anne",
+    "city": "ZAANDAM",
+    "category": "V",
+    "categoryPosition": "38",
+    "totalTime": "00:56:07"
+  },
+  {
+    "position": "149",
+    "startNumber": "516",
+    "name": "Zanten, Philip van",
+    "city": "ZALTBOMMEL",
+    "category": "M",
+    "categoryPosition": "111",
+    "totalTime": "00:56:07"
+  },
+  {
+    "position": "150",
+    "startNumber": "228",
+    "name": "Walsem, Louis",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "112",
+    "totalTime": "00:56:12"
+  },
+  {
+    "position": "151",
+    "startNumber": "477",
+    "name": "Keyser, Robin de",
+    "city": "HEVER",
+    "category": "V",
+    "categoryPosition": "39",
+    "totalTime": "00:56:20"
+  },
+  {
+    "position": "152",
+    "startNumber": "274",
+    "name": "Broek, Joost van den",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "113",
+    "totalTime": "00:56:28"
+  },
+  {
+    "position": "153",
+    "startNumber": "318",
+    "name": "Roemburg, Erwin van",
+    "city": "LOENEN AAN DE VECHT",
+    "category": "M",
+    "categoryPosition": "114",
+    "totalTime": "00:56:29"
+  },
+  {
+    "position": "154",
+    "startNumber": "261",
+    "name": "Freytag, Sarah",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "40",
+    "totalTime": "00:56:30"
+  },
+  {
+    "position": "155",
+    "startNumber": "595",
+    "name": "Zaal, Ralf",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "115",
+    "totalTime": "00:56:30"
+  },
+  {
+    "position": "156",
+    "startNumber": "142",
+    "name": "Davelaar, Marco",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "116",
+    "totalTime": "00:56:31"
+  },
+  {
+    "position": "157",
+    "startNumber": "95",
+    "name": "Geerlings, Esther",
+    "city": "LEIDEN",
+    "category": "V",
+    "categoryPosition": "41",
+    "totalTime": "00:56:31"
+  },
+  {
+    "position": "158",
+    "startNumber": "404",
+    "name": "Evers, Adrienne",
+    "city": "AMERSFOORT",
+    "category": "V",
+    "categoryPosition": "42",
+    "totalTime": "00:56:33"
+  },
+  {
+    "position": "159",
+    "startNumber": "134",
+    "name": "Raymaekers, Peter",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "117",
+    "totalTime": "00:56:34"
+  },
+  {
+    "position": "160",
+    "startNumber": "176",
+    "name": "Peters, Mickey",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "118",
+    "totalTime": "00:56:35"
+  },
+  {
+    "position": "161",
+    "startNumber": "165",
+    "name": "Lohuis, Jasper",
+    "city": "ENSCHEDE",
+    "category": "M",
+    "categoryPosition": "119",
+    "totalTime": "00:56:35"
+  },
+  {
+    "position": "162",
+    "startNumber": "272",
+    "name": "Pots, Jessica",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "43",
+    "totalTime": "00:56:39"
+  },
+  {
+    "position": "163",
+    "startNumber": "351",
+    "name": "Hartman, Jakob",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "120",
+    "totalTime": "00:56:42"
+  },
+  {
+    "position": "164",
+    "startNumber": "170",
+    "name": "Quist, Pim",
+    "city": "DEN HAAG",
+    "category": "M",
+    "categoryPosition": "121",
+    "totalTime": "00:56:42"
+  },
+  {
+    "position": "165",
+    "startNumber": "539",
+    "name": "Laan, Wander van der",
+    "city": "NIEUW VENNEP",
+    "category": "M",
+    "categoryPosition": "122",
+    "totalTime": "00:56:50"
+  },
+  {
+    "position": "166",
+    "startNumber": "581",
+    "name": "Dam, Wendy van",
+    "city": "NIEUWKOOP",
+    "category": "V",
+    "categoryPosition": "44",
+    "totalTime": "00:56:53"
+  },
+  {
+    "position": "167",
+    "startNumber": "246",
+    "name": "Schmitz, Lieke",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "45",
+    "totalTime": "00:56:53"
+  },
+  {
+    "position": "168",
+    "startNumber": "562",
+    "name": "Kikstra, Nadieh",
+    "city": "LEEUWARDEN",
+    "category": "V",
+    "categoryPosition": "46",
+    "totalTime": "00:56:58"
+  },
+  {
+    "position": "169",
+    "startNumber": "33",
+    "name": "Rooijen, Joost van",
+    "city": "HUIZEN",
+    "category": "M",
+    "categoryPosition": "123",
+    "totalTime": "00:57:00"
+  },
+  {
+    "position": "170",
+    "startNumber": "546",
+    "name": "Donk, Denise van der",
+    "city": "GROENLO",
+    "category": "V",
+    "categoryPosition": "47",
+    "totalTime": "00:57:01"
+  },
+  {
+    "position": "171",
+    "startNumber": "593",
+    "name": "Verlaan, Coen",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "124",
+    "totalTime": "00:57:03"
+  },
+  {
+    "position": "172",
+    "startNumber": "218",
+    "name": "Gelderblom, Marcel",
+    "city": "EEMNES",
+    "category": "M",
+    "categoryPosition": "125",
+    "totalTime": "00:57:04"
+  },
+  {
+    "position": "173",
+    "startNumber": "610",
+    "name": "Boer, Freek de",
+    "city": "NIEUW-VENNEP",
+    "category": "M",
+    "categoryPosition": "126",
+    "totalTime": "00:57:05"
+  },
+  {
+    "position": "174",
+    "startNumber": "611",
+    "name": "Jongkind, Ruben",
+    "city": "VOLENDAM",
+    "category": "M",
+    "categoryPosition": "127",
+    "totalTime": "00:57:05"
+  },
+  {
+    "position": "175",
+    "startNumber": "162",
+    "name": "Gool, Bas van",
+    "city": "DORDRECHT",
+    "category": "M",
+    "categoryPosition": "128",
+    "totalTime": "00:57:07"
+  },
+  {
+    "position": "176",
+    "startNumber": "123",
+    "name": "Noort, Eelco",
+    "city": "KERKWIJK",
+    "category": "M",
+    "categoryPosition": "129",
+    "totalTime": "00:57:08"
+  },
+  {
+    "position": "177",
+    "startNumber": "559",
+    "name": "Lubbinge, Jorn",
+    "city": "LEEUWARDEN",
+    "category": "M",
+    "categoryPosition": "130",
+    "totalTime": "00:57:16"
+  },
+  {
+    "position": "178",
+    "startNumber": "451",
+    "name": "Lieshout, Moniek van",
+    "city": "DEN HAAG",
+    "category": "V",
+    "categoryPosition": "48",
+    "totalTime": "00:57:25"
+  },
+  {
+    "position": "179",
+    "startNumber": "229",
+    "name": "Bezooijen, Julius van",
+    "city": "ALMERE",
+    "category": "M",
+    "categoryPosition": "131",
+    "totalTime": "00:57:25"
+  },
+  {
+    "position": "180",
+    "startNumber": "223",
+    "name": "Perdon, Ron",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "132",
+    "totalTime": "00:57:26"
+  },
+  {
+    "position": "181",
+    "startNumber": "184",
+    "name": "Tersteeg, John",
+    "city": "DOORN",
+    "category": "M",
+    "categoryPosition": "133",
+    "totalTime": "00:57:26"
+  },
+  {
+    "position": "182",
+    "startNumber": "270",
+    "name": "Hooijdonk, Ralph van",
+    "city": "NIEUWEGEIN",
+    "category": "M",
+    "categoryPosition": "134",
+    "totalTime": "00:57:28"
+  },
+  {
+    "position": "183",
+    "startNumber": "484",
+    "name": "Merckx, Joachim",
+    "city": "HAACHT",
+    "category": "M",
+    "categoryPosition": "135",
+    "totalTime": "00:57:30"
+  },
+  {
+    "position": "184",
+    "startNumber": "561",
+    "name": "Chisholm, Jamie",
+    "city": "LEIDEN",
+    "category": "M",
+    "categoryPosition": "136",
+    "totalTime": "00:57:33"
+  },
+  {
+    "position": "185",
+    "startNumber": "367",
+    "name": "Hirschberg, Camiel",
+    "city": "TILBURG",
+    "category": "M",
+    "categoryPosition": "137",
+    "totalTime": "00:57:34"
+  },
+  {
+    "position": "186",
+    "startNumber": "396",
+    "name": "Zumberink, Michiel",
+    "city": "WOUDENBERG",
+    "category": "M",
+    "categoryPosition": "138",
+    "totalTime": "00:57:39"
+  },
+  {
+    "position": "187",
+    "startNumber": "445",
+    "name": "Bennekom, Jan van",
+    "city": "HEINENOORD",
+    "category": "M",
+    "categoryPosition": "139",
+    "totalTime": "00:57:40"
+  },
+  {
+    "position": "188",
+    "startNumber": "588",
+    "name": "Roovers, Marit",
+    "city": "NULAND",
+    "category": "V",
+    "categoryPosition": "49",
+    "totalTime": "00:57:45"
+  },
+  {
+    "position": "189",
+    "startNumber": "514",
+    "name": "Posthumus, Jan",
+    "city": "DIEMEN",
+    "category": "M",
+    "categoryPosition": "140",
+    "totalTime": "00:57:51"
+  },
+  {
+    "position": "190",
+    "startNumber": "257",
+    "name": "Nuland, Bob van",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "141",
+    "totalTime": "00:57:51"
+  },
+  {
+    "position": "191",
+    "startNumber": "206",
+    "name": "Slot, Paul",
+    "city": "DALFSEN",
+    "category": "M",
+    "categoryPosition": "142",
+    "totalTime": "00:57:54"
+  },
+  {
+    "position": "192",
+    "startNumber": "556",
+    "name": "Lubbers, Anneke",
+    "city": "LEEUWARDEN",
+    "category": "V",
+    "categoryPosition": "50",
+    "totalTime": "00:57:55"
+  },
+  {
+    "position": "193",
+    "startNumber": "177",
+    "name": "Velde, Robert van de",
+    "city": "WASSENAAR",
+    "category": "M",
+    "categoryPosition": "143",
+    "totalTime": "00:57:59"
+  },
+  {
+    "position": "194",
+    "startNumber": "151",
+    "name": "Oort, Hans van",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "144",
+    "totalTime": "00:58:00"
+  },
+  {
+    "position": "195",
+    "startNumber": "168",
+    "name": "Vos, Erik de",
+    "city": "KROMMENIE",
+    "category": "M",
+    "categoryPosition": "145",
+    "totalTime": "00:58:09"
+  },
+  {
+    "position": "196",
+    "startNumber": "221",
+    "name": "Bruns, Ivo",
+    "city": "BAAMBRUGGE",
+    "category": "M",
+    "categoryPosition": "146",
+    "totalTime": "00:58:12"
+  },
+  {
+    "position": "197",
+    "startNumber": "305",
+    "name": "Beerda, Jurrien",
+    "city": "WOERDEN",
+    "category": "M",
+    "categoryPosition": "147",
+    "totalTime": "00:58:14"
+  },
+  {
+    "position": "198",
+    "startNumber": "42",
+    "name": "Treskes, Roderick",
+    "city": "LEIDEN",
+    "category": "M",
+    "categoryPosition": "148",
+    "totalTime": "00:58:14"
+  },
+  {
+    "position": "199",
+    "startNumber": "243",
+    "name": "Soudant, Xander",
+    "city": "DE MEERN",
+    "category": "M",
+    "categoryPosition": "149",
+    "totalTime": "00:58:15"
+  },
+  {
+    "position": "200",
+    "startNumber": "150",
+    "name": "Rietveld, Youri",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "150",
+    "totalTime": "00:58:20"
+  },
+  {
+    "position": "201",
+    "startNumber": "133",
+    "name": "Raymaekers, Sofie",
+    "city": "MECHELEN",
+    "category": "V",
+    "categoryPosition": "51",
+    "totalTime": "00:58:21"
+  },
+  {
+    "position": "202",
+    "startNumber": "609",
+    "name": "Schoffelen, Titus",
+    "city": "DRIEBERGEN",
+    "category": "M",
+    "categoryPosition": "151",
+    "totalTime": "00:58:22"
+  },
+  {
+    "position": "203",
+    "startNumber": "278",
+    "name": "Kollenburg, Mieke van",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "52",
+    "totalTime": "00:58:24"
+  },
+  {
+    "position": "204",
+    "startNumber": "106",
+    "name": "Stiphout, Thirza",
+    "city": "VEENENDAAL",
+    "category": "V",
+    "categoryPosition": "53",
+    "totalTime": "00:58:27"
+  },
+  {
+    "position": "205",
+    "startNumber": "398",
+    "name": "Vlek, Bas",
+    "city": "AMSTELVEEN",
+    "category": "M",
+    "categoryPosition": "152",
+    "totalTime": "00:58:27"
+  },
+  {
+    "position": "206",
+    "startNumber": "279",
+    "name": "Lint, Annelore van der",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "54",
+    "totalTime": "00:58:28"
+  },
+  {
+    "position": "207",
+    "startNumber": "180",
+    "name": "Miltenburg, Theo",
+    "city": "ENSCHEDE",
+    "category": "M",
+    "categoryPosition": "153",
+    "totalTime": "00:58:29"
+  },
+  {
+    "position": "208",
+    "startNumber": "136",
+    "name": "Noorlander, Robert",
+    "city": "DEN HAAG",
+    "category": "M",
+    "categoryPosition": "154",
+    "totalTime": "00:58:33"
+  },
+  {
+    "position": "209",
+    "startNumber": "241",
+    "name": "Nagel, Bart Willem",
+    "city": "LELYSTAD",
+    "category": "M",
+    "categoryPosition": "155",
+    "totalTime": "00:58:33"
+  },
+  {
+    "position": "210",
+    "startNumber": "103",
+    "name": "Mulder, Cora",
+    "city": "OVERBERG",
+    "category": "V",
+    "categoryPosition": "55",
+    "totalTime": "00:58:35"
+  },
+  {
+    "position": "211",
+    "startNumber": "328",
+    "name": "Aalten, Frank",
+    "city": "SOEST",
+    "category": "M",
+    "categoryPosition": "156",
+    "totalTime": "00:58:39"
+  },
+  {
+    "position": "212",
+    "startNumber": "194",
+    "name": "Scheffers, Rob",
+    "city": "ARNHEM",
+    "category": "M",
+    "categoryPosition": "157",
+    "totalTime": "00:58:40"
+  },
+  {
+    "position": "213",
+    "startNumber": "222",
+    "name": "Oosterbroek, Ida",
+    "city": "MIJDRECHT",
+    "category": "V",
+    "categoryPosition": "56",
+    "totalTime": "00:58:42"
+  },
+  {
+    "position": "214",
+    "startNumber": "204",
+    "name": "Kooten, Janine van",
+    "city": "ANKEVEEN",
+    "category": "V",
+    "categoryPosition": "57",
+    "totalTime": "00:58:43"
+  },
+  {
+    "position": "215",
+    "startNumber": "433",
+    "name": "Smit, Oscar de",
+    "city": "ALPHEN AAN DEN RIJN",
+    "category": "M",
+    "categoryPosition": "158",
+    "totalTime": "00:58:43"
+  },
+  {
+    "position": "216",
+    "startNumber": "406",
+    "name": "Heymann, Sanne",
+    "city": "VEENENDAAL",
+    "category": "V",
+    "categoryPosition": "58",
+    "totalTime": "00:58:46"
+  },
+  {
+    "position": "217",
+    "startNumber": "301",
+    "name": "Bodinckhuijsen, Henri van",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "159",
+    "totalTime": "00:58:51"
+  },
+  {
+    "position": "218",
+    "startNumber": "181",
+    "name": "Schootemeijer, Frank",
+    "city": "",
+    "category": "M",
+    "categoryPosition": "160",
+    "totalTime": "00:58:51"
+  },
+  {
+    "position": "219",
+    "startNumber": "472",
+    "name": "Kiffen, Conny",
+    "city": "MEGEN",
+    "category": "V",
+    "categoryPosition": "59",
+    "totalTime": "00:58:51"
+  },
+  {
+    "position": "220",
+    "startNumber": "187",
+    "name": "Adams, Yvette",
+    "city": "POORTUGAAL",
+    "category": "V",
+    "categoryPosition": "60",
+    "totalTime": "00:59:00"
+  },
+  {
+    "position": "221",
+    "startNumber": "189",
+    "name": "Hobbelt, Anne",
+    "city": "GRONINGEN",
+    "category": "V",
+    "categoryPosition": "61",
+    "totalTime": "00:59:04"
+  },
+  {
+    "position": "222",
+    "startNumber": "615",
+    "name": "Vos, Roeland",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "161",
+    "totalTime": "00:59:04"
+  },
+  {
+    "position": "223",
+    "startNumber": "265",
+    "name": "Klinkien, Danny",
+    "city": "NIEUWEGEIN",
+    "category": "M",
+    "categoryPosition": "162",
+    "totalTime": "00:59:06"
+  },
+  {
+    "position": "224",
+    "startNumber": "589",
+    "name": "Wijk, Stefan van",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "163",
+    "totalTime": "00:59:07"
+  },
+  {
+    "position": "225",
+    "startNumber": "266",
+    "name": "Weduwe, Kees der",
+    "city": "COTHEN",
+    "category": "M",
+    "categoryPosition": "164",
+    "totalTime": "00:59:15"
+  },
+  {
+    "position": "226",
+    "startNumber": "244",
+    "name": "Vries, Ecoo de",
+    "city": "MAARSSEN",
+    "category": "M",
+    "categoryPosition": "165",
+    "totalTime": "00:59:15"
+  },
+  {
+    "position": "227",
+    "startNumber": "57",
+    "name": "Knevelbaard, Martijn",
+    "city": "GRONINGEN",
+    "category": "M",
+    "categoryPosition": "166",
+    "totalTime": "00:59:17"
+  },
+  {
+    "position": "228",
+    "startNumber": "481",
+    "name": "Eenoo, Peter van",
+    "city": "ONZE-LIEVE-VROUW-WAVER",
+    "category": "M",
+    "categoryPosition": "167",
+    "totalTime": "00:59:18"
+  },
+  {
+    "position": "229",
+    "startNumber": "411",
+    "name": "Lodewijk, Niels",
+    "city": "DEN HAAG",
+    "category": "M",
+    "categoryPosition": "168",
+    "totalTime": "00:59:18"
+  },
+  {
+    "position": "230",
+    "startNumber": "434",
+    "name": "Speksnijder, Carina",
+    "city": "STOLWIJK",
+    "category": "V",
+    "categoryPosition": "62",
+    "totalTime": "00:59:21"
+  },
+  {
+    "position": "231",
+    "startNumber": "190",
+    "name": "Spengen, Joyce van",
+    "city": "ABCOUDE",
+    "category": "V",
+    "categoryPosition": "63",
+    "totalTime": "00:59:21"
+  },
+  {
+    "position": "232",
+    "startNumber": "447",
+    "name": "Veen, Annet van der",
+    "city": "LEKKERKERK",
+    "category": "V",
+    "categoryPosition": "64",
+    "totalTime": "00:59:22"
+  },
+  {
+    "position": "233",
+    "startNumber": "572",
+    "name": "Spijker, Janneke van",
+    "city": "LEIDERDORP",
+    "category": "V",
+    "categoryPosition": "65",
+    "totalTime": "00:59:24"
+  },
+  {
+    "position": "234",
+    "startNumber": "172",
+    "name": "Klein, Maarten",
+    "city": "ROELOFARENDSVEEN",
+    "category": "M",
+    "categoryPosition": "169",
+    "totalTime": "00:59:28"
+  },
+  {
+    "position": "235",
+    "startNumber": "124",
+    "name": "Andringa, Wouter",
+    "city": "ENSCHEDE",
+    "category": "M",
+    "categoryPosition": "170",
+    "totalTime": "00:59:29"
+  },
+  {
+    "position": "236",
+    "startNumber": "467",
+    "name": "Vliet, Theo van",
+    "city": "MAASLAND",
+    "category": "M",
+    "categoryPosition": "171",
+    "totalTime": "00:59:30"
+  },
+  {
+    "position": "237",
+    "startNumber": "330",
+    "name": "Beving, Tom",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "172",
+    "totalTime": "00:59:32"
+  },
+  {
+    "position": "238",
+    "startNumber": "205",
+    "name": "Hanse, Izak",
+    "city": "ENSCHEDE",
+    "category": "M",
+    "categoryPosition": "173",
+    "totalTime": "00:59:33"
+  },
+  {
+    "position": "239",
+    "startNumber": "536",
+    "name": "Jaring, Claudia",
+    "city": "ZAANDAM",
+    "category": "V",
+    "categoryPosition": "66",
+    "totalTime": "00:59:38"
+  },
+  {
+    "position": "240",
+    "startNumber": "395",
+    "name": "Bulsink, Martijn",
+    "city": "ELST",
+    "category": "M",
+    "categoryPosition": "174",
+    "totalTime": "00:59:40"
+  },
+  {
+    "position": "241",
+    "startNumber": "498",
+    "name": "Weerdt, AndrÚ de",
+    "city": "ONZE-LIEVE-VROUW WAVER",
+    "category": "M",
+    "categoryPosition": "175",
+    "totalTime": "00:59:40"
+  },
+  {
+    "position": "242",
+    "startNumber": "553",
+    "name": "Hanse, Joris",
+    "city": "LEIDEN",
+    "category": "M",
+    "categoryPosition": "176",
+    "totalTime": "00:59:41"
+  },
+  {
+    "position": "243",
+    "startNumber": "236",
+    "name": "Kuiter, Maarten",
+    "city": "ALMERE",
+    "category": "M",
+    "categoryPosition": "177",
+    "totalTime": "00:59:42"
+  },
+  {
+    "position": "244",
+    "startNumber": "70",
+    "name": "Tijssen, Jean",
+    "city": "ARNHEM",
+    "category": "M",
+    "categoryPosition": "178",
+    "totalTime": "00:59:46"
+  },
+  {
+    "position": "245",
+    "startNumber": "239",
+    "name": "Westerlaken, Gerben",
+    "city": "ALMKERK",
+    "category": "M",
+    "categoryPosition": "179",
+    "totalTime": "00:59:46"
+  },
+  {
+    "position": "246",
+    "startNumber": "152",
+    "name": "Stapelkamp, Michiel",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "180",
+    "totalTime": "00:59:54"
+  },
+  {
+    "position": "247",
+    "startNumber": "255",
+    "name": "Kraan-Lakeman, Simone",
+    "city": "BOVENKARSPEL",
+    "category": "V",
+    "categoryPosition": "67",
+    "totalTime": "01:00:06"
+  },
+  {
+    "position": "248",
+    "startNumber": "590",
+    "name": "Veen, Olaf van",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "181",
+    "totalTime": "01:00:07"
+  },
+  {
+    "position": "249",
+    "startNumber": "277",
+    "name": "Berga, Chantal",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "68",
+    "totalTime": "01:00:11"
+  },
+  {
+    "position": "250",
+    "startNumber": "217",
+    "name": "Jacobs-Minneboo, Jolie",
+    "city": "APELDOORN",
+    "category": "V",
+    "categoryPosition": "69",
+    "totalTime": "01:00:12"
+  },
+  {
+    "position": "251",
+    "startNumber": "462",
+    "name": "Kok, Nancy de",
+    "city": "MAASLAND",
+    "category": "V",
+    "categoryPosition": "70",
+    "totalTime": "01:00:14"
+  },
+  {
+    "position": "252",
+    "startNumber": "245",
+    "name": "Hillen, Bart",
+    "city": "BARENDRECHT",
+    "category": "M",
+    "categoryPosition": "182",
+    "totalTime": "01:00:15"
+  },
+  {
+    "position": "253",
+    "startNumber": "242",
+    "name": "Nagel, Linda",
+    "city": "LELYSTAD",
+    "category": "V",
+    "categoryPosition": "71",
+    "totalTime": "01:00:21"
+  },
+  {
+    "position": "254",
+    "startNumber": "361",
+    "name": "Lodder, Tatiana",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "72",
+    "totalTime": "01:00:22"
+  },
+  {
+    "position": "255",
+    "startNumber": "475",
+    "name": "Veldhoen, Ron",
+    "city": "MAASLAND",
+    "category": "M",
+    "categoryPosition": "183",
+    "totalTime": "01:00:30"
+  },
+  {
+    "position": "256",
+    "startNumber": "45",
+    "name": "Haasteren, Jeffrey van",
+    "city": "SPIJKENISSE",
+    "category": "M",
+    "categoryPosition": "184",
+    "totalTime": "01:00:30"
+  },
+  {
+    "position": "257",
+    "startNumber": "350",
+    "name": "Baak, Vincent",
+    "city": "HILLEGOM",
+    "category": "M",
+    "categoryPosition": "185",
+    "totalTime": "01:00:31"
+  },
+  {
+    "position": "258",
+    "startNumber": "453",
+    "name": "Bloemendaal, Erik",
+    "city": "DEN HAAG",
+    "category": "M",
+    "categoryPosition": "186",
+    "totalTime": "01:00:34"
+  },
+  {
+    "position": "259",
+    "startNumber": "407",
+    "name": "Marrewijk, John van",
+    "city": "DE LIER",
+    "category": "M",
+    "categoryPosition": "187",
+    "totalTime": "01:00:37"
+  },
+  {
+    "position": "260",
+    "startNumber": "465",
+    "name": "Schoonhoven, Mark",
+    "city": "ROTTERDAM",
+    "category": "M",
+    "categoryPosition": "188",
+    "totalTime": "01:00:38"
+  },
+  {
+    "position": "261",
+    "startNumber": "258",
+    "name": "Curtis, Julian",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "189",
+    "totalTime": "01:00:39"
+  },
+  {
+    "position": "262",
+    "startNumber": "137",
+    "name": "Noorlander, Bas",
+    "city": "OEGSTGEEST",
+    "category": "M",
+    "categoryPosition": "190",
+    "totalTime": "01:00:49"
+  },
+  {
+    "position": "263",
+    "startNumber": "29",
+    "name": "Haastrecht, Dirk van",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "191",
+    "totalTime": "01:00:50"
+  },
+  {
+    "position": "264",
+    "startNumber": "256",
+    "name": "Spuij, Rob",
+    "city": "NIEUWEGEIN",
+    "category": "M",
+    "categoryPosition": "192",
+    "totalTime": "01:00:52"
+  },
+  {
+    "position": "265",
+    "startNumber": "254",
+    "name": "Timmermans, Ruud",
+    "city": "ARNHEM",
+    "category": "M",
+    "categoryPosition": "193",
+    "totalTime": "01:00:52"
+  },
+  {
+    "position": "266",
+    "startNumber": "307",
+    "name": "Bijl, Robert",
+    "city": "HILVERSUM",
+    "category": "M",
+    "categoryPosition": "194",
+    "totalTime": "01:00:52"
+  },
+  {
+    "position": "267",
+    "startNumber": "192",
+    "name": "Hendriks, Cindy",
+    "city": "VELP",
+    "category": "V",
+    "categoryPosition": "73",
+    "totalTime": "01:01:09"
+  },
+  {
+    "position": "268",
+    "startNumber": "512",
+    "name": "Slagmolen, Pieter",
+    "city": "KESSEL-LO",
+    "category": "M",
+    "categoryPosition": "195",
+    "totalTime": "01:01:10"
+  },
+  {
+    "position": "269",
+    "startNumber": "197",
+    "name": "Ekris, Evi van",
+    "city": "BENNEKOM",
+    "category": "V",
+    "categoryPosition": "74",
+    "totalTime": "01:01:11"
+  },
+  {
+    "position": "270",
+    "startNumber": "461",
+    "name": "Haak, Richard vd",
+    "city": "LISSE",
+    "category": "M",
+    "categoryPosition": "196",
+    "totalTime": "01:01:11"
+  },
+  {
+    "position": "271",
+    "startNumber": "520",
+    "name": "Koning, Edwin de",
+    "city": "MIJDRECHT",
+    "category": "M",
+    "categoryPosition": "197",
+    "totalTime": "01:01:13"
+  },
+  {
+    "position": "272",
+    "startNumber": "464",
+    "name": "Szydlo, Joanna",
+    "city": "LISSE",
+    "category": "V",
+    "categoryPosition": "75",
+    "totalTime": "01:01:13"
+  },
+  {
+    "position": "273",
+    "startNumber": "380",
+    "name": "Heije, Bernhard",
+    "city": "EDE",
+    "category": "M",
+    "categoryPosition": "198",
+    "totalTime": "01:01:14"
+  },
+  {
+    "position": "274",
+    "startNumber": "312",
+    "name": "Moes, Sipke",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "199",
+    "totalTime": "01:01:14"
+  },
+  {
+    "position": "275",
+    "startNumber": "463",
+    "name": "Arnold, Eric",
+    "city": "ROTTERDAM",
+    "category": "M",
+    "categoryPosition": "200",
+    "totalTime": "01:01:16"
+  },
+  {
+    "position": "276",
+    "startNumber": "443",
+    "name": "Merwe, Jolanda van de",
+    "city": "PUTTERSHOEK",
+    "category": "V",
+    "categoryPosition": "76",
+    "totalTime": "01:01:18"
+  },
+  {
+    "position": "277",
+    "startNumber": "338",
+    "name": "Shirbaz, Kamal",
+    "city": "WEESP",
+    "category": "M",
+    "categoryPosition": "201",
+    "totalTime": "01:01:18"
+  },
+  {
+    "position": "278",
+    "startNumber": "571",
+    "name": "Spijker, Henk van",
+    "city": "LEIDERDORP",
+    "category": "M",
+    "categoryPosition": "202",
+    "totalTime": "01:01:23"
+  },
+  {
+    "position": "279",
+    "startNumber": "273",
+    "name": "Stelt, Onno van der",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "203",
+    "totalTime": "01:01:26"
+  },
+  {
+    "position": "280",
+    "startNumber": "140",
+    "name": "Helsper, Lieke",
+    "city": "DE BILT",
+    "category": "V",
+    "categoryPosition": "77",
+    "totalTime": "01:01:30"
+  },
+  {
+    "position": "281",
+    "startNumber": "384",
+    "name": "Vrosch, Rene",
+    "city": "EDE",
+    "category": "M",
+    "categoryPosition": "204",
+    "totalTime": "01:01:31"
+  },
+  {
+    "position": "282",
+    "startNumber": "368",
+    "name": "Stam, Maarten Jan",
+    "city": "WIJK BIJ DUURSTEDE",
+    "category": "M",
+    "categoryPosition": "205",
+    "totalTime": "01:01:32"
+  },
+  {
+    "position": "283",
+    "startNumber": "282",
+    "name": "Veenendaal, Elmer van",
+    "city": "NIEUWEGEIN",
+    "category": "M",
+    "categoryPosition": "206",
+    "totalTime": "01:01:36"
+  },
+  {
+    "position": "284",
+    "startNumber": "390",
+    "name": "Bogaard, Rick",
+    "city": "LEERDAM",
+    "category": "M",
+    "categoryPosition": "207",
+    "totalTime": "01:01:40"
+  },
+  {
+    "position": "285",
+    "startNumber": "370",
+    "name": "Brouwer, Coos",
+    "city": "WILNIS",
+    "category": "M",
+    "categoryPosition": "208",
+    "totalTime": "01:01:41"
+  },
+  {
+    "position": "286",
+    "startNumber": "260",
+    "name": "Horst, Tim van der",
+    "city": "COTHEN",
+    "category": "M",
+    "categoryPosition": "209",
+    "totalTime": "01:01:43"
+  },
+  {
+    "position": "287",
+    "startNumber": "148",
+    "name": "Lammerts van Bueren, Ben",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "210",
+    "totalTime": "01:01:44"
+  },
+  {
+    "position": "288",
+    "startNumber": "98",
+    "name": "Eckhardt, Petra",
+    "city": "AMERSFOORT",
+    "category": "V",
+    "categoryPosition": "78",
+    "totalTime": "01:01:46"
+  },
+  {
+    "position": "289",
+    "startNumber": "251",
+    "name": "Reintjes, Jochem",
+    "city": "NIEUWEGEIN",
+    "category": "M",
+    "categoryPosition": "211",
+    "totalTime": "01:01:47"
+  },
+  {
+    "position": "290",
+    "startNumber": "379",
+    "name": "Zanten, Gert van",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "212",
+    "totalTime": "01:01:50"
+  },
+  {
+    "position": "291",
+    "startNumber": "354",
+    "name": "Sabel, Pieter",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "213",
+    "totalTime": "01:01:50"
+  },
+  {
+    "position": "292",
+    "startNumber": "486",
+    "name": "Meynen, Jef",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "214",
+    "totalTime": "01:01:51"
+  },
+  {
+    "position": "293",
+    "startNumber": "459",
+    "name": "Biesma, Sander",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "215",
+    "totalTime": "01:01:53"
+  },
+  {
+    "position": "294",
+    "startNumber": "440",
+    "name": "Jacquot, Ton",
+    "city": "EINDHOVEN",
+    "category": "M",
+    "categoryPosition": "216",
+    "totalTime": "01:01:53"
+  },
+  {
+    "position": "295",
+    "startNumber": "233",
+    "name": "Oudejans, Ans",
+    "city": "SANTPOORT-NOORD",
+    "category": "V",
+    "categoryPosition": "79",
+    "totalTime": "01:01:54"
+  },
+  {
+    "position": "296",
+    "startNumber": "554",
+    "name": "Lubbers, Frank",
+    "city": "LEEUWARDEN",
+    "category": "M",
+    "categoryPosition": "217",
+    "totalTime": "01:01:54"
+  },
+  {
+    "position": "297",
+    "startNumber": "542",
+    "name": "Schreuders, jannes",
+    "city": "HAARLEM",
+    "category": "M",
+    "categoryPosition": "218",
+    "totalTime": "01:01:57"
+  },
+  {
+    "position": "298",
+    "startNumber": "598",
+    "name": "Brugman, Jelmer",
+    "city": "VIANEN",
+    "category": "M",
+    "categoryPosition": "219",
+    "totalTime": "01:02:03"
+  },
+  {
+    "position": "299",
+    "startNumber": "375",
+    "name": "Jagers, Daan",
+    "city": "HOOFDDORP",
+    "category": "M",
+    "categoryPosition": "220",
+    "totalTime": "01:02:04"
+  },
+  {
+    "position": "300",
+    "startNumber": "247",
+    "name": "Lent, Hans van",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "221",
+    "totalTime": "01:02:04"
+  },
+  {
+    "position": "301",
+    "startNumber": "198",
+    "name": "Schaap, Bettine",
+    "city": "GRONINGEN",
+    "category": "V",
+    "categoryPosition": "80",
+    "totalTime": "01:02:11"
+  },
+  {
+    "position": "302",
+    "startNumber": "320",
+    "name": "Mooy, Matthijs",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "222",
+    "totalTime": "01:02:14"
+  },
+  {
+    "position": "303",
+    "startNumber": "304",
+    "name": "Mulder, Nikki",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "81",
+    "totalTime": "01:02:16"
+  },
+  {
+    "position": "304",
+    "startNumber": "517",
+    "name": "Vanheers, Brecht",
+    "city": "BERINGEN",
+    "category": "M",
+    "categoryPosition": "223",
+    "totalTime": "01:02:17"
+  },
+  {
+    "position": "305",
+    "startNumber": "584",
+    "name": "Klein, Marloes",
+    "city": "ROELOFARENDSVEEN",
+    "category": "V",
+    "categoryPosition": "82",
+    "totalTime": "01:02:18"
+  },
+  {
+    "position": "306",
+    "startNumber": "337",
+    "name": "Doorn, Helma van",
+    "city": "VEENENDAAL",
+    "category": "V",
+    "categoryPosition": "83",
+    "totalTime": "01:02:22"
+  },
+  {
+    "position": "307",
+    "startNumber": "38",
+    "name": "Oprins, Adriaan",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "224",
+    "totalTime": "01:02:24"
+  },
+  {
+    "position": "308",
+    "startNumber": "66",
+    "name": "Andrews, Conor",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "225",
+    "totalTime": "01:02:26"
+  },
+  {
+    "position": "309",
+    "startNumber": "352",
+    "name": "Go, Jennifer",
+    "city": "WEESP / WOERDEN",
+    "category": "V",
+    "categoryPosition": "84",
+    "totalTime": "01:02:33"
+  },
+  {
+    "position": "310",
+    "startNumber": "386",
+    "name": "Boersma, Erik",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "226",
+    "totalTime": "01:02:35"
+  },
+  {
+    "position": "311",
+    "startNumber": "503",
+    "name": "Blancquaert, Thomas",
+    "city": "DENDERMONDE",
+    "category": "M",
+    "categoryPosition": "227",
+    "totalTime": "01:02:36"
+  },
+  {
+    "position": "312",
+    "startNumber": "346",
+    "name": "Laan, Joep van der",
+    "city": "WEESP",
+    "category": "M",
+    "categoryPosition": "228",
+    "totalTime": "01:02:36"
+  },
+  {
+    "position": "313",
+    "startNumber": "409",
+    "name": "Loois, Gwendolyn",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "85",
+    "totalTime": "01:02:37"
+  },
+  {
+    "position": "314",
+    "startNumber": "342",
+    "name": "Haar, Jolanda van de",
+    "city": "VEENENDAAL",
+    "category": "V",
+    "categoryPosition": "86",
+    "totalTime": "01:02:40"
+  },
+  {
+    "position": "315",
+    "startNumber": "264",
+    "name": "Rouw, Maaike",
+    "city": "DE MEERN",
+    "category": "V",
+    "categoryPosition": "87",
+    "totalTime": "01:02:42"
+  },
+  {
+    "position": "316",
+    "startNumber": "482",
+    "name": "Vercauteren, Rik",
+    "city": "MUIZEN",
+    "category": "M",
+    "categoryPosition": "229",
+    "totalTime": "01:02:43"
+  },
+  {
+    "position": "317",
+    "startNumber": "295",
+    "name": "Graaf, Robert de",
+    "city": "WOERDEN",
+    "category": "M",
+    "categoryPosition": "230",
+    "totalTime": "01:02:44"
+  },
+  {
+    "position": "318",
+    "startNumber": "286",
+    "name": "Steen, Mathieu",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "231",
+    "totalTime": "01:02:46"
+  },
+  {
+    "position": "319",
+    "startNumber": "237",
+    "name": "Eilers, Renske",
+    "city": "AMERSFOORT",
+    "category": "V",
+    "categoryPosition": "88",
+    "totalTime": "01:02:49"
+  },
+  {
+    "position": "320",
+    "startNumber": "53",
+    "name": "Hoogland, Daan",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "232",
+    "totalTime": "01:02:52"
+  },
+  {
+    "position": "321",
+    "startNumber": "424",
+    "name": "Cok, Leo",
+    "city": "ZEGVELD",
+    "category": "M",
+    "categoryPosition": "233",
+    "totalTime": "01:02:54"
+  },
+  {
+    "position": "322",
+    "startNumber": "425",
+    "name": "Westdijk, Dennis",
+    "city": "ALPHEN AAN DEN RIJN",
+    "category": "M",
+    "categoryPosition": "234",
+    "totalTime": "01:02:57"
+  },
+  {
+    "position": "323",
+    "startNumber": "196",
+    "name": "Spoelder, Lisette",
+    "city": "ABCOUDE",
+    "category": "V",
+    "categoryPosition": "89",
+    "totalTime": "01:02:57"
+  },
+  {
+    "position": "324",
+    "startNumber": "127",
+    "name": "Verbree, Bas",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "235",
+    "totalTime": "01:03:00"
+  },
+  {
+    "position": "325",
+    "startNumber": "60",
+    "name": "Polman, Rob",
+    "city": "EINDHOVEN",
+    "category": "M",
+    "categoryPosition": "236",
+    "totalTime": "01:03:01"
+  },
+  {
+    "position": "326",
+    "startNumber": "348",
+    "name": "Prins, Marleen",
+    "city": "HOOFDDORP",
+    "category": "V",
+    "categoryPosition": "90",
+    "totalTime": "01:03:01"
+  },
+  {
+    "position": "327",
+    "startNumber": "199",
+    "name": "Verbree, Wouter",
+    "city": "ABCOUDE",
+    "category": "M",
+    "categoryPosition": "237",
+    "totalTime": "01:03:08"
+  },
+  {
+    "position": "328",
+    "startNumber": "43",
+    "name": "Berg, Ron van den",
+    "city": "MAASSLUIS",
+    "category": "M",
+    "categoryPosition": "238",
+    "totalTime": "01:03:12"
+  },
+  {
+    "position": "329",
+    "startNumber": "401",
+    "name": "Vermeer-van Hunen, Cora",
+    "city": "VEENENDAAL",
+    "category": "V",
+    "categoryPosition": "91",
+    "totalTime": "01:03:16"
+  },
+  {
+    "position": "330",
+    "startNumber": "271",
+    "name": "Rossen, Yvette van",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "92",
+    "totalTime": "01:03:16"
+  },
+  {
+    "position": "331",
+    "startNumber": "576",
+    "name": "Zwart, W van der",
+    "city": "LEIDERDORP",
+    "category": "V",
+    "categoryPosition": "93",
+    "totalTime": "01:03:17"
+  },
+  {
+    "position": "332",
+    "startNumber": "112",
+    "name": "Schaik, Lonneke van",
+    "city": "HAARLEM",
+    "category": "V",
+    "categoryPosition": "94",
+    "totalTime": "01:03:18"
+  },
+  {
+    "position": "333",
+    "startNumber": "315",
+    "name": "Cornelissen, Tim",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "239",
+    "totalTime": "01:03:20"
+  },
+  {
+    "position": "334",
+    "startNumber": "235",
+    "name": "Woude, Caja van der",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "95",
+    "totalTime": "01:03:20"
+  },
+  {
+    "position": "335",
+    "startNumber": "314",
+    "name": "Kraal, Antoinette",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "96",
+    "totalTime": "01:03:24"
+  },
+  {
+    "position": "336",
+    "startNumber": "552",
+    "name": "Bos, Jan Jacob",
+    "city": "WOUDENBERG",
+    "category": "M",
+    "categoryPosition": "240",
+    "totalTime": "01:03:26"
+  },
+  {
+    "position": "337",
+    "startNumber": "497",
+    "name": "Slagmolen, Jan",
+    "city": "SINT-KATELIJNE-WAVER",
+    "category": "M",
+    "categoryPosition": "241",
+    "totalTime": "01:03:28"
+  },
+  {
+    "position": "338",
+    "startNumber": "564",
+    "name": "Harmsma, Jeltsje",
+    "city": "LEEUWARDEN",
+    "category": "V",
+    "categoryPosition": "97",
+    "totalTime": "01:03:29"
+  },
+  {
+    "position": "339",
+    "startNumber": "537",
+    "name": "Muller, Patrick",
+    "city": "NAARDEN",
+    "category": "M",
+    "categoryPosition": "242",
+    "totalTime": "01:03:33"
+  },
+  {
+    "position": "340",
+    "startNumber": "400",
+    "name": "Verlaat, Selfa",
+    "city": "CASTRICUM",
+    "category": "V",
+    "categoryPosition": "98",
+    "totalTime": "01:03:34"
+  },
+  {
+    "position": "341",
+    "startNumber": "422",
+    "name": "Harms, Suus",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "99",
+    "totalTime": "01:03:35"
+  },
+  {
+    "position": "342",
+    "startNumber": "113",
+    "name": "Zilverentant, Jacoline",
+    "city": "BILTHOVEN",
+    "category": "V",
+    "categoryPosition": "100",
+    "totalTime": "01:03:35"
+  },
+  {
+    "position": "343",
+    "startNumber": "474",
+    "name": "Stam, Thijs",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "243",
+    "totalTime": "01:03:35"
+  },
+  {
+    "position": "344",
+    "startNumber": "252",
+    "name": "Klaassen, Marielle",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "101",
+    "totalTime": "01:03:36"
+  },
+  {
+    "position": "345",
+    "startNumber": "491",
+    "name": "Derycke, Ludovic",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "244",
+    "totalTime": "01:03:37"
+  },
+  {
+    "position": "346",
+    "startNumber": "597",
+    "name": "Bruin, Marjan de",
+    "city": "UITHOORN",
+    "category": "V",
+    "categoryPosition": "102",
+    "totalTime": "01:03:37"
+  },
+  {
+    "position": "347",
+    "startNumber": "550",
+    "name": "Lubbers, Luuk",
+    "city": "LEIDEN",
+    "category": "M",
+    "categoryPosition": "245",
+    "totalTime": "01:03:46"
+  },
+  {
+    "position": "348",
+    "startNumber": "383",
+    "name": "Boersma, Carolien",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "103",
+    "totalTime": "01:03:46"
+  },
+  {
+    "position": "349",
+    "startNumber": "248",
+    "name": "Veek, Jeanine van der",
+    "city": "BARNEVELD",
+    "category": "V",
+    "categoryPosition": "104",
+    "totalTime": "01:03:46"
+  },
+  {
+    "position": "350",
+    "startNumber": "567",
+    "name": "Carlotti, Francoise",
+    "city": "LEIDEN",
+    "category": "V",
+    "categoryPosition": "105",
+    "totalTime": "01:03:47"
+  },
+  {
+    "position": "351",
+    "startNumber": "249",
+    "name": "Seijsener, Annemieke",
+    "city": "LEIDEN",
+    "category": "V",
+    "categoryPosition": "106",
+    "totalTime": "01:03:47"
+  },
+  {
+    "position": "352",
+    "startNumber": "319",
+    "name": "Vermeulen, Maite",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "107",
+    "totalTime": "01:03:48"
+  },
+  {
+    "position": "353",
+    "startNumber": "308",
+    "name": "Seebus, Erik",
+    "city": "RENKUM",
+    "category": "M",
+    "categoryPosition": "246",
+    "totalTime": "01:03:52"
+  },
+  {
+    "position": "354",
+    "startNumber": "532",
+    "name": "Wittevrongel, Ine",
+    "city": "DIEST",
+    "category": "V",
+    "categoryPosition": "108",
+    "totalTime": "01:03:57"
+  },
+  {
+    "position": "355",
+    "startNumber": "294",
+    "name": "Zalen, Hans van",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "247",
+    "totalTime": "01:03:58"
+  },
+  {
+    "position": "356",
+    "startNumber": "613",
+    "name": "Rijling, Carla",
+    "city": "LEIDEN",
+    "category": "V",
+    "categoryPosition": "109",
+    "totalTime": "01:04:05"
+  },
+  {
+    "position": "357",
+    "startNumber": "207",
+    "name": "Telgen, Ineke",
+    "city": "APELDOORN",
+    "category": "V",
+    "categoryPosition": "110",
+    "totalTime": "01:04:14"
+  },
+  {
+    "position": "358",
+    "startNumber": "397",
+    "name": "Schievink, Harry",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "248",
+    "totalTime": "01:04:15"
+  },
+  {
+    "position": "359",
+    "startNumber": "280",
+    "name": "Jong, Wim de",
+    "city": "ABCOUDE",
+    "category": "M",
+    "categoryPosition": "249",
+    "totalTime": "01:04:19"
+  },
+  {
+    "position": "360",
+    "startNumber": "227",
+    "name": "Voorhout, Marloes",
+    "city": "HARMELEN",
+    "category": "V",
+    "categoryPosition": "111",
+    "totalTime": "01:04:20"
+  },
+  {
+    "position": "361",
+    "startNumber": "363",
+    "name": "Vleems, Hermien",
+    "city": "RHENEN",
+    "category": "V",
+    "categoryPosition": "112",
+    "totalTime": "01:04:26"
+  },
+  {
+    "position": "362",
+    "startNumber": "283",
+    "name": "Koers, Willeke",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "113",
+    "totalTime": "01:04:31"
+  },
+  {
+    "position": "363",
+    "startNumber": "303",
+    "name": "Bergers, Martijn",
+    "city": "ASSENDELFT",
+    "category": "M",
+    "categoryPosition": "250",
+    "totalTime": "01:04:41"
+  },
+  {
+    "position": "364",
+    "startNumber": "469",
+    "name": "Helmond, Petra",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "114",
+    "totalTime": "01:04:42"
+  },
+  {
+    "position": "365",
+    "startNumber": "415",
+    "name": "Duijvenbode, Eelco van",
+    "city": "RIDDERKERK",
+    "category": "M",
+    "categoryPosition": "251",
+    "totalTime": "01:04:43"
+  },
+  {
+    "position": "366",
+    "startNumber": "417",
+    "name": "Jamard, Karine",
+    "city": "RIDDERKERK",
+    "category": "V",
+    "categoryPosition": "115",
+    "totalTime": "01:04:43"
+  },
+  {
+    "position": "367",
+    "startNumber": "355",
+    "name": "Bou Chamach, Jamila",
+    "city": "HOORN",
+    "category": "V",
+    "categoryPosition": "116",
+    "totalTime": "01:04:43"
+  },
+  {
+    "position": "368",
+    "startNumber": "525",
+    "name": "Declercq, Koen",
+    "city": "LICHTERVELDE (BELGIE)",
+    "category": "M",
+    "categoryPosition": "252",
+    "totalTime": "01:04:52"
+  },
+  {
+    "position": "369",
+    "startNumber": "612",
+    "name": "Blommendaal, Bas",
+    "city": "WOERDEN",
+    "category": "M",
+    "categoryPosition": "253",
+    "totalTime": "01:04:58"
+  },
+  {
+    "position": "370",
+    "startNumber": "530",
+    "name": "Ebing, Matth",
+    "city": "OOSTERBEEK",
+    "category": "M",
+    "categoryPosition": "254",
+    "totalTime": "01:05:05"
+  },
+  {
+    "position": "371",
+    "startNumber": "41",
+    "name": "Veenstra, Bertus",
+    "city": "NIEUW VENNEP",
+    "category": "M",
+    "categoryPosition": "255",
+    "totalTime": "01:05:06"
+  },
+  {
+    "position": "372",
+    "startNumber": "583",
+    "name": "Pieters, Goke",
+    "city": "NIJMEGEN",
+    "category": "V",
+    "categoryPosition": "117",
+    "totalTime": "01:05:07"
+  },
+  {
+    "position": "373",
+    "startNumber": "234",
+    "name": "Aarsman, Bror",
+    "city": "ALMERE",
+    "category": "M",
+    "categoryPosition": "256",
+    "totalTime": "01:05:10"
+  },
+  {
+    "position": "374",
+    "startNumber": "203",
+    "name": "Pepping, Ruben",
+    "city": "ABCOUDE",
+    "category": "M",
+    "categoryPosition": "257",
+    "totalTime": "01:05:17"
+  },
+  {
+    "position": "375",
+    "startNumber": "287",
+    "name": "Ekris, Steven van",
+    "city": "WOERDEN",
+    "category": "M",
+    "categoryPosition": "258",
+    "totalTime": "01:05:25"
+  },
+  {
+    "position": "376",
+    "startNumber": "292",
+    "name": "Brak, Hilda",
+    "city": "ZEGVELD",
+    "category": "V",
+    "categoryPosition": "118",
+    "totalTime": "01:05:25"
+  },
+  {
+    "position": "377",
+    "startNumber": "505",
+    "name": "Radaelli, Marianela",
+    "city": "BAARN",
+    "category": "V",
+    "categoryPosition": "119",
+    "totalTime": "01:05:29"
+  },
+  {
+    "position": "378",
+    "startNumber": "311",
+    "name": "Elverding, Anja",
+    "city": "KEIJENBORG",
+    "category": "V",
+    "categoryPosition": "120",
+    "totalTime": "01:05:30"
+  },
+  {
+    "position": "379",
+    "startNumber": "527",
+    "name": "Velde, Annemiek van der",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "121",
+    "totalTime": "01:05:36"
+  },
+  {
+    "position": "380",
+    "startNumber": "515",
+    "name": "Stichele, Stijn vander",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "259",
+    "totalTime": "01:05:38"
+  },
+  {
+    "position": "381",
+    "startNumber": "449",
+    "name": "Heinsbroek, Hillie",
+    "city": "VLAARDINGEN",
+    "category": "V",
+    "categoryPosition": "122",
+    "totalTime": "01:05:39"
+  },
+  {
+    "position": "382",
+    "startNumber": "339",
+    "name": "Tijssens, Manja",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "123",
+    "totalTime": "01:05:59"
+  },
+  {
+    "position": "383",
+    "startNumber": "421",
+    "name": "Becker, Katinka",
+    "city": "AMERSFOORT",
+    "category": "V",
+    "categoryPosition": "124",
+    "totalTime": "01:06:01"
+  },
+  {
+    "position": "384",
+    "startNumber": "267",
+    "name": "Bois, Rutger de",
+    "city": "NIEUWEGEIN",
+    "category": "M",
+    "categoryPosition": "260",
+    "totalTime": "01:06:05"
+  },
+  {
+    "position": "385",
+    "startNumber": "293",
+    "name": "Hardeman, Robert",
+    "city": "AALSMEER",
+    "category": "M",
+    "categoryPosition": "261",
+    "totalTime": "01:06:05"
+  },
+  {
+    "position": "386",
+    "startNumber": "332",
+    "name": "Hoogenboom, Loes",
+    "city": "ROELOFARENDSVEEN",
+    "category": "V",
+    "categoryPosition": "125",
+    "totalTime": "01:06:06"
+  },
+  {
+    "position": "387",
+    "startNumber": "545",
+    "name": "Veenendaal, Almer",
+    "city": "HAARLEM",
+    "category": "M",
+    "categoryPosition": "262",
+    "totalTime": "01:06:13"
+  },
+  {
+    "position": "388",
+    "startNumber": "563",
+    "name": "Groen, Floremce de",
+    "city": "LEIDEN",
+    "category": "V",
+    "categoryPosition": "126",
+    "totalTime": "01:06:14"
+  },
+  {
+    "position": "389",
+    "startNumber": "570",
+    "name": "Verkade, Rene",
+    "city": "MAASSLUIS",
+    "category": "M",
+    "categoryPosition": "263",
+    "totalTime": "01:06:15"
+  },
+  {
+    "position": "390",
+    "startNumber": "499",
+    "name": "Merckx, Sebastiaan",
+    "city": "HAACHT",
+    "category": "M",
+    "categoryPosition": "264",
+    "totalTime": "01:06:19"
+  },
+  {
+    "position": "391",
+    "startNumber": "289",
+    "name": "Zelderen, Teus van",
+    "city": "WOERDEN",
+    "category": "M",
+    "categoryPosition": "265",
+    "totalTime": "01:06:20"
+  },
+  {
+    "position": "392",
+    "startNumber": "587",
+    "name": "Piersma, Femke",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "127",
+    "totalTime": "01:06:24"
+  },
+  {
+    "position": "393",
+    "startNumber": "426",
+    "name": "Maita, Cesar",
+    "city": "AMERSFOORT",
+    "category": "M",
+    "categoryPosition": "266",
+    "totalTime": "01:06:28"
+  },
+  {
+    "position": "394",
+    "startNumber": "275",
+    "name": "Timmermans, Mette",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "128",
+    "totalTime": "01:06:28"
+  },
+  {
+    "position": "395",
+    "startNumber": "521",
+    "name": "Claerhout, Helena",
+    "city": "MECHELEN",
+    "category": "V",
+    "categoryPosition": "129",
+    "totalTime": "01:06:43"
+  },
+  {
+    "position": "396",
+    "startNumber": "429",
+    "name": "Veerman, Laura",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "130",
+    "totalTime": "01:06:45"
+  },
+  {
+    "position": "397",
+    "startNumber": "423",
+    "name": "Crielaard, Jack",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "267",
+    "totalTime": "01:06:48"
+  },
+  {
+    "position": "398",
+    "startNumber": "557",
+    "name": "Vennik, Jannie",
+    "city": "TJALLEBERD",
+    "category": "V",
+    "categoryPosition": "131",
+    "totalTime": "01:06:50"
+  },
+  {
+    "position": "399",
+    "startNumber": "524",
+    "name": "Kiffen, Esmee-Carlijn",
+    "city": "MEGEN",
+    "category": "V",
+    "categoryPosition": "132",
+    "totalTime": "01:06:55"
+  },
+  {
+    "position": "400",
+    "startNumber": "186",
+    "name": "Beer, Denise de",
+    "city": "DOORN",
+    "category": "V",
+    "categoryPosition": "133",
+    "totalTime": "01:06:55"
+  },
+  {
+    "position": "401",
+    "startNumber": "391",
+    "name": "Raad, Henk de",
+    "city": "HOOFDDORP",
+    "category": "M",
+    "categoryPosition": "268",
+    "totalTime": "01:06:57"
+  },
+  {
+    "position": "402",
+    "startNumber": "183",
+    "name": "Baas, Stefan",
+    "city": "AALTEN",
+    "category": "M",
+    "categoryPosition": "269",
+    "totalTime": "01:06:59"
+  },
+  {
+    "position": "403",
+    "startNumber": "225",
+    "name": "Vos, Frida",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "134",
+    "totalTime": "01:07:08"
+  },
+  {
+    "position": "404",
+    "startNumber": "226",
+    "name": "Hoef, Carolien van de",
+    "city": "VLEUTEN",
+    "category": "V",
+    "categoryPosition": "135",
+    "totalTime": "01:07:09"
+  },
+  {
+    "position": "405",
+    "startNumber": "285",
+    "name": "Laan, Claudia van der",
+    "city": "WOERDEN",
+    "category": "V",
+    "categoryPosition": "136",
+    "totalTime": "01:07:12"
+  },
+  {
+    "position": "406",
+    "startNumber": "569",
+    "name": "Berg, Piet",
+    "city": "LEIDERDORP",
+    "category": "M",
+    "categoryPosition": "270",
+    "totalTime": "01:07:26"
+  },
+  {
+    "position": "407",
+    "startNumber": "470",
+    "name": "Dreu, Dies de",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "271",
+    "totalTime": "01:07:29"
+  },
+  {
+    "position": "408",
+    "startNumber": "377",
+    "name": "Lauffer, Peter",
+    "city": "WILNIS",
+    "category": "V",
+    "categoryPosition": "137",
+    "totalTime": "01:07:29"
+  },
+  {
+    "position": "409",
+    "startNumber": "420",
+    "name": "Cameron, Colin",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "272",
+    "totalTime": "01:07:32"
+  },
+  {
+    "position": "410",
+    "startNumber": "240",
+    "name": "Gribnau, Olav",
+    "city": "HEUKELUM",
+    "category": "M",
+    "categoryPosition": "273",
+    "totalTime": "01:07:33"
+  },
+  {
+    "position": "411",
+    "startNumber": "430",
+    "name": "Brinkbaumer, Mario",
+    "city": "AMERSFOORT",
+    "category": "M",
+    "categoryPosition": "274",
+    "totalTime": "01:07:37"
+  },
+  {
+    "position": "412",
+    "startNumber": "290",
+    "name": "Jong, Rolf de",
+    "city": "ABCOUDE",
+    "category": "M",
+    "categoryPosition": "275",
+    "totalTime": "01:07:39"
+  },
+  {
+    "position": "413",
+    "startNumber": "412",
+    "name": "Dijk, Harry van",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "276",
+    "totalTime": "01:07:49"
+  },
+  {
+    "position": "414",
+    "startNumber": "195",
+    "name": "Huisman, Mirte",
+    "city": "GRONINGEN",
+    "category": "V",
+    "categoryPosition": "138",
+    "totalTime": "01:07:54"
+  },
+  {
+    "position": "415",
+    "startNumber": "454",
+    "name": "Kroese, Vincent",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "277",
+    "totalTime": "01:07:55"
+  },
+  {
+    "position": "416",
+    "startNumber": "495",
+    "name": "Zande, Stefan van der",
+    "city": "LEUVEN",
+    "category": "M",
+    "categoryPosition": "278",
+    "totalTime": "01:07:56"
+  },
+  {
+    "position": "417",
+    "startNumber": "216",
+    "name": "Werner, Nils",
+    "city": "DUITSLAND",
+    "category": "M",
+    "categoryPosition": "279",
+    "totalTime": "01:07:58"
+  },
+  {
+    "position": "418",
+    "startNumber": "431",
+    "name": "Stevens, Alphons",
+    "city": "ALPHEN AAN DEN RIJN",
+    "category": "M",
+    "categoryPosition": "280",
+    "totalTime": "01:08:03"
+  },
+  {
+    "position": "419",
+    "startNumber": "551",
+    "name": "Vos, Celia de",
+    "city": "GELDERMALSEN",
+    "category": "V",
+    "categoryPosition": "139",
+    "totalTime": "01:08:04"
+  },
+  {
+    "position": "420",
+    "startNumber": "518",
+    "name": "Decime, Daisy",
+    "city": "MECHELEN",
+    "category": "V",
+    "categoryPosition": "140",
+    "totalTime": "01:08:11"
+  },
+  {
+    "position": "421",
+    "startNumber": "220",
+    "name": "Schalij, Ruut",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "281",
+    "totalTime": "01:08:12"
+  },
+  {
+    "position": "422",
+    "startNumber": "573",
+    "name": "Dijk, Aafje van",
+    "city": "MAASSLUIS",
+    "category": "V",
+    "categoryPosition": "141",
+    "totalTime": "01:08:13"
+  },
+  {
+    "position": "423",
+    "startNumber": "436",
+    "name": "Visser, Sylvia",
+    "city": "DEN HAAG",
+    "category": "V",
+    "categoryPosition": "142",
+    "totalTime": "01:08:15"
+  },
+  {
+    "position": "424",
+    "startNumber": "214",
+    "name": "Capel, Mia",
+    "city": "APELDOORN",
+    "category": "V",
+    "categoryPosition": "143",
+    "totalTime": "01:08:16"
+  },
+  {
+    "position": "425",
+    "startNumber": "51",
+    "name": "Oude Nijhuis, Albert",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "282",
+    "totalTime": "01:08:17"
+  },
+  {
+    "position": "426",
+    "startNumber": "385",
+    "name": "Rietveld, Hans",
+    "city": "KATWIJK  ZH",
+    "category": "M",
+    "categoryPosition": "283",
+    "totalTime": "01:08:22"
+  },
+  {
+    "position": "427",
+    "startNumber": "317",
+    "name": "Heerdt, Ilona",
+    "city": "BUSSUM",
+    "category": "V",
+    "categoryPosition": "144",
+    "totalTime": "01:08:22"
+  },
+  {
+    "position": "428",
+    "startNumber": "494",
+    "name": "Maas, Ellen",
+    "city": "LEUVEN",
+    "category": "V",
+    "categoryPosition": "145",
+    "totalTime": "01:08:23"
+  },
+  {
+    "position": "429",
+    "startNumber": "428",
+    "name": "Smit, Marleen",
+    "city": "ALPHEN AAN DEN RIJN",
+    "category": "V",
+    "categoryPosition": "146",
+    "totalTime": "01:08:35"
+  },
+  {
+    "position": "430",
+    "startNumber": "78",
+    "name": "Nagel, Ruben",
+    "city": "ABCOUDE",
+    "category": "M",
+    "categoryPosition": "284",
+    "totalTime": "01:08:40"
+  },
+  {
+    "position": "431",
+    "startNumber": "263",
+    "name": "Purmer, Marianne",
+    "city": "DELFT",
+    "category": "V",
+    "categoryPosition": "147",
+    "totalTime": "01:08:41"
+  },
+  {
+    "position": "432",
+    "startNumber": "450",
+    "name": "Lint, Carla van",
+    "city": "WIJK BIJ DUURSTEDE",
+    "category": "V",
+    "categoryPosition": "148",
+    "totalTime": "01:08:44"
+  },
+  {
+    "position": "433",
+    "startNumber": "215",
+    "name": "Abma, Marijke",
+    "city": "ENSCHEDE",
+    "category": "V",
+    "categoryPosition": "149",
+    "totalTime": "01:08:45"
+  },
+  {
+    "position": "434",
+    "startNumber": "79",
+    "name": "Daalhuizen, Gerard",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "285",
+    "totalTime": "01:08:50"
+  },
+  {
+    "position": "435",
+    "startNumber": "325",
+    "name": "Withagen, Richard",
+    "city": "LOOSDRECHT",
+    "category": "M",
+    "categoryPosition": "286",
+    "totalTime": "01:08:51"
+  },
+  {
+    "position": "436",
+    "startNumber": "327",
+    "name": "Mak, Irina",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "150",
+    "totalTime": "01:08:56"
+  },
+  {
+    "position": "437",
+    "startNumber": "224",
+    "name": "Hoop, Margriet de",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "151",
+    "totalTime": "01:08:58"
+  },
+  {
+    "position": "438",
+    "startNumber": "298",
+    "name": "Rossewij, Arjan",
+    "city": "WOERDEN",
+    "category": "M",
+    "categoryPosition": "287",
+    "totalTime": "01:09:06"
+  },
+  {
+    "position": "439",
+    "startNumber": "394",
+    "name": "Dee, Tessa van",
+    "city": "AMSTELVEEN",
+    "category": "V",
+    "categoryPosition": "152",
+    "totalTime": "01:09:12"
+  },
+  {
+    "position": "440",
+    "startNumber": "519",
+    "name": "Vos, Tessa",
+    "city": "ZALTBOMMEL",
+    "category": "V",
+    "categoryPosition": "153",
+    "totalTime": "01:09:23"
+  },
+  {
+    "position": "441",
+    "startNumber": "490",
+    "name": "Evenblij, Yolanda",
+    "city": "OEGSTGEEST",
+    "category": "V",
+    "categoryPosition": "154",
+    "totalTime": "01:09:24"
+  },
+  {
+    "position": "442",
+    "startNumber": "444",
+    "name": "Winters, Karlijn",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "155",
+    "totalTime": "01:09:29"
+  },
+  {
+    "position": "443",
+    "startNumber": "340",
+    "name": "Meeldijk, Alex",
+    "city": "BUNNIK",
+    "category": "M",
+    "categoryPosition": "288",
+    "totalTime": "01:09:29"
+  },
+  {
+    "position": "444",
+    "startNumber": "580",
+    "name": "Castelein, Steven",
+    "city": "NIJMEGEN",
+    "category": "M",
+    "categoryPosition": "289",
+    "totalTime": "01:09:31"
+  },
+  {
+    "position": "445",
+    "startNumber": "182",
+    "name": "Asselt, Bert van",
+    "city": "AALTEN",
+    "category": "M",
+    "categoryPosition": "290",
+    "totalTime": "01:09:32"
+  },
+  {
+    "position": "446",
+    "startNumber": "578",
+    "name": "Krol, Jacques",
+    "city": "OEGSTGEEST",
+    "category": "M",
+    "categoryPosition": "291",
+    "totalTime": "01:09:34"
+  },
+  {
+    "position": "447",
+    "startNumber": "483",
+    "name": "Velzen, Hans van",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "292",
+    "totalTime": "01:09:34"
+  },
+  {
+    "position": "448",
+    "startNumber": "489",
+    "name": "Vliet, Elly",
+    "city": "MAASLAND",
+    "category": "V",
+    "categoryPosition": "156",
+    "totalTime": "01:09:43"
+  },
+  {
+    "position": "449",
+    "startNumber": "435",
+    "name": "Gerritse, Youri",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "293",
+    "totalTime": "01:09:47"
+  },
+  {
+    "position": "450",
+    "startNumber": "509",
+    "name": "Dionys, Stijn",
+    "city": "GEEL",
+    "category": "M",
+    "categoryPosition": "294",
+    "totalTime": "01:09:47"
+  },
+  {
+    "position": "451",
+    "startNumber": "306",
+    "name": "Terwel, Loes",
+    "city": "KORTENHOEF",
+    "category": "V",
+    "categoryPosition": "157",
+    "totalTime": "01:09:56"
+  },
+  {
+    "position": "452",
+    "startNumber": "549",
+    "name": "Frans, Vincent",
+    "city": "WORMERVEER",
+    "category": "M",
+    "categoryPosition": "295",
+    "totalTime": "01:10:00"
+  },
+  {
+    "position": "453",
+    "startNumber": "418",
+    "name": "Konijn, Maaike",
+    "city": "WADDINXVEEN",
+    "category": "V",
+    "categoryPosition": "158",
+    "totalTime": "01:10:04"
+  },
+  {
+    "position": "454",
+    "startNumber": "605",
+    "name": "Kamp, Wouter",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "296",
+    "totalTime": "01:10:07"
+  },
+  {
+    "position": "455",
+    "startNumber": "160",
+    "name": "Juffermans, Eva",
+    "city": "ENSCHEDE",
+    "category": "V",
+    "categoryPosition": "159",
+    "totalTime": "01:10:12"
+  },
+  {
+    "position": "456",
+    "startNumber": "349",
+    "name": "Allaart, Janneke",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "160",
+    "totalTime": "01:10:14"
+  },
+  {
+    "position": "457",
+    "startNumber": "513",
+    "name": "Latruwe, Sem",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "297",
+    "totalTime": "01:10:18"
+  },
+  {
+    "position": "458",
+    "startNumber": "300",
+    "name": "Baumeister, Caro",
+    "city": "HILVERSUM",
+    "category": "V",
+    "categoryPosition": "161",
+    "totalTime": "01:10:24"
+  },
+  {
+    "position": "459",
+    "startNumber": "566",
+    "name": "Spieksma, Cindy",
+    "city": "LEEUWARDEN",
+    "category": "V",
+    "categoryPosition": "162",
+    "totalTime": "01:10:43"
+  },
+  {
+    "position": "460",
+    "startNumber": "373",
+    "name": "Ruiter, Paul de",
+    "city": "AMSTELVEEN",
+    "category": "M",
+    "categoryPosition": "298",
+    "totalTime": "01:10:59"
+  },
+  {
+    "position": "461",
+    "startNumber": "414",
+    "name": "Kruger, Lisa Johanna",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "163",
+    "totalTime": "01:11:01"
+  },
+  {
+    "position": "462",
+    "startNumber": "347",
+    "name": "Legemaate, Kees",
+    "city": "BURGH HAAMSTEDE",
+    "category": "M",
+    "categoryPosition": "299",
+    "totalTime": "01:11:10"
+  },
+  {
+    "position": "463",
+    "startNumber": "250",
+    "name": "Luxemburg, Jorden van",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "300",
+    "totalTime": "01:11:13"
+  },
+  {
+    "position": "464",
+    "startNumber": "476",
+    "name": "Korsmit, Frank",
+    "city": "RAAMSDONKSVER",
+    "category": "M",
+    "categoryPosition": "301",
+    "totalTime": "01:11:16"
+  },
+  {
+    "position": "465",
+    "startNumber": "59",
+    "name": "Bolt,  Klaas",
+    "city": "VINKEVEEN",
+    "category": "M",
+    "categoryPosition": "302",
+    "totalTime": "01:11:30"
+  },
+  {
+    "position": "466",
+    "startNumber": "341",
+    "name": "Spaander, Johan",
+    "city": "HILVERSUMSE MEENT",
+    "category": "M",
+    "categoryPosition": "303",
+    "totalTime": "01:11:36"
+  },
+  {
+    "position": "467",
+    "startNumber": "359",
+    "name": "Tiemens, Vincent",
+    "city": "HOOFDDORP",
+    "category": "V",
+    "categoryPosition": "164",
+    "totalTime": "01:11:36"
+  },
+  {
+    "position": "468",
+    "startNumber": "620",
+    "name": "Bekkum, Jesse van",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "304",
+    "totalTime": "01:11:38"
+  },
+  {
+    "position": "469",
+    "startNumber": "360",
+    "name": "Zaat, Esther",
+    "city": "TILBURG",
+    "category": "V",
+    "categoryPosition": "165",
+    "totalTime": "01:12:07"
+  },
+  {
+    "position": "470",
+    "startNumber": "201",
+    "name": "Poser, Kathrin",
+    "city": "BENNEKOM",
+    "category": "V",
+    "categoryPosition": "166",
+    "totalTime": "01:12:08"
+  },
+  {
+    "position": "471",
+    "startNumber": "565",
+    "name": "Lugt, Eric van der",
+    "city": "BERKEL EN RODENRIJS",
+    "category": "M",
+    "categoryPosition": "305",
+    "totalTime": "01:12:26"
+  },
+  {
+    "position": "472",
+    "startNumber": "466",
+    "name": "Verbeek, Eva",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "167",
+    "totalTime": "01:12:30"
+  },
+  {
+    "position": "473",
+    "startNumber": "523",
+    "name": "Herymans, Lieve",
+    "city": "HAACHT",
+    "category": "V",
+    "categoryPosition": "168",
+    "totalTime": "01:12:39"
+  },
+  {
+    "position": "474",
+    "startNumber": "614",
+    "name": "Rhoon, Claudia van",
+    "city": "ROELOFARENDSVEEN",
+    "category": "V",
+    "categoryPosition": "169",
+    "totalTime": "01:12:42"
+  },
+  {
+    "position": "475",
+    "startNumber": "526",
+    "name": "Merckx, Mattia",
+    "city": "HAACHT",
+    "category": "V",
+    "categoryPosition": "170",
+    "totalTime": "01:12:49"
+  },
+  {
+    "position": "476",
+    "startNumber": "541",
+    "name": "Striegel, Conor",
+    "city": "HAARLEM",
+    "category": "M",
+    "categoryPosition": "306",
+    "totalTime": "01:12:50"
+  },
+  {
+    "position": "477",
+    "startNumber": "568",
+    "name": "Freeke, Ruud",
+    "city": "LEIDEN",
+    "category": "M",
+    "categoryPosition": "307",
+    "totalTime": "01:12:54"
+  },
+  {
+    "position": "478",
+    "startNumber": "344",
+    "name": "Rijke, Peter de",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "308",
+    "totalTime": "01:13:05"
+  },
+  {
+    "position": "479",
+    "startNumber": "438",
+    "name": "Dijk, Tanja van",
+    "city": "DEN HAAG",
+    "category": "V",
+    "categoryPosition": "171",
+    "totalTime": "01:13:12"
+  },
+  {
+    "position": "480",
+    "startNumber": "441",
+    "name": "Kempen, Madelon",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "172",
+    "totalTime": "01:13:16"
+  },
+  {
+    "position": "481",
+    "startNumber": "585",
+    "name": "Wortman, Laura",
+    "city": "ZOETERMEER",
+    "category": "V",
+    "categoryPosition": "173",
+    "totalTime": "01:13:18"
+  },
+  {
+    "position": "482",
+    "startNumber": "208",
+    "name": "Klomp, Wouter",
+    "city": "ALKMAAR",
+    "category": "M",
+    "categoryPosition": "309",
+    "totalTime": "01:13:29"
+  },
+  {
+    "position": "483",
+    "startNumber": "508",
+    "name": "Bos, Klaas",
+    "city": "HEEMSTEDE",
+    "category": "M",
+    "categoryPosition": "310",
+    "totalTime": "01:13:42"
+  },
+  {
+    "position": "484",
+    "startNumber": "382",
+    "name": "Hoek, Mara van",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "174",
+    "totalTime": "01:14:03"
+  },
+  {
+    "position": "485",
+    "startNumber": "107",
+    "name": "Casteleijn, Vera",
+    "city": "ZEEWOLDE",
+    "category": "V",
+    "categoryPosition": "175",
+    "totalTime": "01:14:08"
+  },
+  {
+    "position": "486",
+    "startNumber": "213",
+    "name": "Zwan, Patricia van der",
+    "city": "APELDOORN",
+    "category": "V",
+    "categoryPosition": "176",
+    "totalTime": "01:14:14"
+  },
+  {
+    "position": "487",
+    "startNumber": "458",
+    "name": "Hijdra, Yvonne",
+    "city": "SPIJKENISSE",
+    "category": "V",
+    "categoryPosition": "177",
+    "totalTime": "01:14:21"
+  },
+  {
+    "position": "488",
+    "startNumber": "405",
+    "name": "Haaften, Christina van",
+    "city": "KERKWIJK",
+    "category": "V",
+    "categoryPosition": "178",
+    "totalTime": "01:14:23"
+  },
+  {
+    "position": "489",
+    "startNumber": "606",
+    "name": "Boer, Zimri van de",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "311",
+    "totalTime": "01:14:36"
+  },
+  {
+    "position": "490",
+    "startNumber": "577",
+    "name": "Molen, Pia van der",
+    "city": "NIEUWESCHOOT",
+    "category": "V",
+    "categoryPosition": "179",
+    "totalTime": "01:14:56"
+  },
+  {
+    "position": "491",
+    "startNumber": "500",
+    "name": "Peters, Ingrid",
+    "city": "DEN HAAG",
+    "category": "V",
+    "categoryPosition": "180",
+    "totalTime": "01:15:02"
+  },
+  {
+    "position": "492",
+    "startNumber": "316",
+    "name": "Hogenelst, Martijn",
+    "city": "HILVERSUM",
+    "category": "M",
+    "categoryPosition": "312",
+    "totalTime": "01:15:06"
+  },
+  {
+    "position": "493",
+    "startNumber": "230",
+    "name": "Faber, Stefanie",
+    "city": "DE MEERN",
+    "category": "V",
+    "categoryPosition": "181",
+    "totalTime": "01:15:08"
+  },
+  {
+    "position": "494",
+    "startNumber": "432",
+    "name": "Groeneveld, Marleen",
+    "city": "VEENENDAAL",
+    "category": "V",
+    "categoryPosition": "182",
+    "totalTime": "01:15:10"
+  },
+  {
+    "position": "495",
+    "startNumber": "528",
+    "name": "Slagmolen, Karolien",
+    "city": "GEEL",
+    "category": "V",
+    "categoryPosition": "183",
+    "totalTime": "01:15:10"
+  },
+  {
+    "position": "496",
+    "startNumber": "353",
+    "name": "Diekmann, Sandra",
+    "city": "AMSTELVEEN",
+    "category": "V",
+    "categoryPosition": "184",
+    "totalTime": "01:15:12"
+  },
+  {
+    "position": "497",
+    "startNumber": "617",
+    "name": "Nio, Denise",
+    "city": "VINKEVEEN",
+    "category": "V",
+    "categoryPosition": "185",
+    "totalTime": "01:15:31"
+  },
+  {
+    "position": "498",
+    "startNumber": "616",
+    "name": "Vergouwen, Saskia",
+    "city": "BUSSUM",
+    "category": "V",
+    "categoryPosition": "186",
+    "totalTime": "01:15:31"
+  },
+  {
+    "position": "499",
+    "startNumber": "231",
+    "name": "Kaaij, Els van der",
+    "city": "ALMERE",
+    "category": "V",
+    "categoryPosition": "187",
+    "totalTime": "01:15:39"
+  },
+  {
+    "position": "500",
+    "startNumber": "313",
+    "name": "Varga Morillo, Aroa",
+    "city": "KEIJENBORG",
+    "category": "V",
+    "categoryPosition": "188",
+    "totalTime": "01:15:46"
+  },
+  {
+    "position": "501",
+    "startNumber": "291",
+    "name": "Ouden, Jaap den",
+    "city": "WOERDEN",
+    "category": "M",
+    "categoryPosition": "313",
+    "totalTime": "01:15:46"
+  },
+  {
+    "position": "502",
+    "startNumber": "592",
+    "name": "Leeflang, Richard",
+    "city": "WAVERVEEN",
+    "category": "M",
+    "categoryPosition": "314",
+    "totalTime": "01:16:01"
+  },
+  {
+    "position": "503",
+    "startNumber": "378",
+    "name": "Klinkenberg, Mirjam",
+    "city": "ISTANBOEL",
+    "category": "V",
+    "categoryPosition": "189",
+    "totalTime": "01:16:08"
+  },
+  {
+    "position": "504",
+    "startNumber": "269",
+    "name": "Boer, Arnout",
+    "city": "NIEUWEGEIN",
+    "category": "M",
+    "categoryPosition": "315",
+    "totalTime": "01:16:10"
+  },
+  {
+    "position": "505",
+    "startNumber": "502",
+    "name": "Gies, Paul",
+    "city": "LANGBROEK",
+    "category": "M",
+    "categoryPosition": "316",
+    "totalTime": "01:16:14"
+  },
+  {
+    "position": "506",
+    "startNumber": "365",
+    "name": "Ruiter, Helga de",
+    "city": "AMSTELVEEN",
+    "category": "V",
+    "categoryPosition": "190",
+    "totalTime": "01:16:15"
+  },
+  {
+    "position": "507",
+    "startNumber": "105",
+    "name": "Beekman, Esther",
+    "city": "ZEEWOLDE",
+    "category": "V",
+    "categoryPosition": "191",
+    "totalTime": "01:16:18"
+  },
+  {
+    "position": "508",
+    "startNumber": "543",
+    "name": "Bulthuis, Zora",
+    "city": "HAARLEM",
+    "category": "V",
+    "categoryPosition": "192",
+    "totalTime": "01:16:19"
+  },
+  {
+    "position": "509",
+    "startNumber": "603",
+    "name": "Bloois, Irene de",
+    "city": "MAASSLUIS",
+    "category": "V",
+    "categoryPosition": "193",
+    "totalTime": "01:16:22"
+  },
+  {
+    "position": "510",
+    "startNumber": "535",
+    "name": "Merckx, Ingrid",
+    "city": "HEVERLEE",
+    "category": "V",
+    "categoryPosition": "194",
+    "totalTime": "01:16:27"
+  },
+  {
+    "position": "511",
+    "startNumber": "596",
+    "name": "Willems, Remi",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "317",
+    "totalTime": "01:16:32"
+  },
+  {
+    "position": "512",
+    "startNumber": "488",
+    "name": "Merckx, Marc",
+    "city": "HAACHT",
+    "category": "M",
+    "categoryPosition": "318",
+    "totalTime": "01:17:05"
+  },
+  {
+    "position": "513",
+    "startNumber": "366",
+    "name": "Tiel, Petra",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "195",
+    "totalTime": "01:17:07"
+  },
+  {
+    "position": "514",
+    "startNumber": "479",
+    "name": "Vermeer, Helma",
+    "city": "MAASLAND",
+    "category": "V",
+    "categoryPosition": "196",
+    "totalTime": "01:17:12"
+  },
+  {
+    "position": "515",
+    "startNumber": "621",
+    "name": "Driel, Pieter van",
+    "city": "HAARLEM",
+    "category": "M",
+    "categoryPosition": "319",
+    "totalTime": "01:17:34"
+  },
+  {
+    "position": "516",
+    "startNumber": "437",
+    "name": "Kerbof, Henk",
+    "city": "VEENENDAAL",
+    "category": "M",
+    "categoryPosition": "320",
+    "totalTime": "01:17:47"
+  },
+  {
+    "position": "517",
+    "startNumber": "309",
+    "name": "Rooij, Roelof de",
+    "city": "HILVERSUM",
+    "category": "M",
+    "categoryPosition": "321",
+    "totalTime": "01:18:09"
+  },
+  {
+    "position": "518",
+    "startNumber": "371",
+    "name": "Roy, Klaas de",
+    "city": "ABCOUDE",
+    "category": "M",
+    "categoryPosition": "322",
+    "totalTime": "01:18:10"
+  },
+  {
+    "position": "519",
+    "startNumber": "485",
+    "name": "Leijendekkers, Joyce",
+    "city": "MAASLAND",
+    "category": "V",
+    "categoryPosition": "197",
+    "totalTime": "01:18:13"
+  },
+  {
+    "position": "520",
+    "startNumber": "555",
+    "name": "Lodder, Martien",
+    "city": "CULEMBORG",
+    "category": "M",
+    "categoryPosition": "323",
+    "totalTime": "01:18:35"
+  },
+  {
+    "position": "521",
+    "startNumber": "219",
+    "name": "Tondeur, Sandra",
+    "city": "BAAMBRUGGE",
+    "category": "V",
+    "categoryPosition": "198",
+    "totalTime": "01:18:52"
+  },
+  {
+    "position": "522",
+    "startNumber": "493",
+    "name": "Werf, Walter van de",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "324",
+    "totalTime": "01:19:23"
+  },
+  {
+    "position": "523",
+    "startNumber": "334",
+    "name": "Blokland, Rini van",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "199",
+    "totalTime": "01:19:50"
+  },
+  {
+    "position": "524",
+    "startNumber": "487",
+    "name": "Mustafic, Demir",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "325",
+    "totalTime": "01:20:00"
+  },
+  {
+    "position": "525",
+    "startNumber": "331",
+    "name": "Piets, Cliff",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "326",
+    "totalTime": "01:20:05"
+  },
+  {
+    "position": "526",
+    "startNumber": "188",
+    "name": "Paul, Hanni",
+    "city": "ABCOUDE",
+    "category": "V",
+    "categoryPosition": "200",
+    "totalTime": "01:20:21"
+  },
+  {
+    "position": "527",
+    "startNumber": "185",
+    "name": "Paul, Jacomine",
+    "city": "ABCOUDE",
+    "category": "V",
+    "categoryPosition": "201",
+    "totalTime": "01:20:31"
+  },
+  {
+    "position": "528",
+    "startNumber": "471",
+    "name": "Sluijter, Petra",
+    "city": "MAASLAND",
+    "category": "V",
+    "categoryPosition": "202",
+    "totalTime": "01:20:32"
+  },
+  {
+    "position": "529",
+    "startNumber": "538",
+    "name": "Heinis, Marjola",
+    "city": "ZAANDAM",
+    "category": "V",
+    "categoryPosition": "203",
+    "totalTime": "01:21:18"
+  },
+  {
+    "position": "530",
+    "startNumber": "501",
+    "name": "Gies, Els",
+    "city": "LANGBROEK",
+    "category": "V",
+    "categoryPosition": "204",
+    "totalTime": "01:21:30"
+  },
+  {
+    "position": "531",
+    "startNumber": "374",
+    "name": "bakker, erik",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "327",
+    "totalTime": "01:21:31"
+  },
+  {
+    "position": "532",
+    "startNumber": "288",
+    "name": "Smid, Rolf",
+    "city": "AMSTERDAM",
+    "category": "M",
+    "categoryPosition": "328",
+    "totalTime": "01:22:41"
+  },
+  {
+    "position": "533",
+    "startNumber": "604",
+    "name": "Vermeer, Fred",
+    "city": "MAASSLUIS",
+    "category": "M",
+    "categoryPosition": "329",
+    "totalTime": "01:24:28"
+  },
+  {
+    "position": "534",
+    "startNumber": "507",
+    "name": "Blekxtoon, Anneloes",
+    "city": "BAARN",
+    "category": "V",
+    "categoryPosition": "205",
+    "totalTime": "01:24:31"
+  },
+  {
+    "position": "535",
+    "startNumber": "323",
+    "name": "Schut, Frederique",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "206",
+    "totalTime": "01:24:57"
+  },
+  {
+    "position": "536",
+    "startNumber": "460",
+    "name": "Kroes, Maureen",
+    "city": "LISSE",
+    "category": "V",
+    "categoryPosition": "207",
+    "totalTime": "01:25:42"
+  },
+  {
+    "position": "537",
+    "startNumber": "76",
+    "name": "Kroes, Hans",
+    "city": "LISSE",
+    "category": "M",
+    "categoryPosition": "330",
+    "totalTime": "01:25:42"
+  },
+  {
+    "position": "538",
+    "startNumber": "602",
+    "name": "Schreurs, Sylvia",
+    "city": "VINKEVEEN",
+    "category": "V",
+    "categoryPosition": "208",
+    "totalTime": "01:26:09"
+  },
+  {
+    "position": "539",
+    "startNumber": "333",
+    "name": "Hurk, Stijn van den",
+    "city": "UTRECHT",
+    "category": "M",
+    "categoryPosition": "331",
+    "totalTime": "01:26:24"
+  },
+  {
+    "position": "540",
+    "startNumber": "448",
+    "name": "Leeuwen, Sigrid van",
+    "city": "UTRECHT",
+    "category": "V",
+    "categoryPosition": "209",
+    "totalTime": "01:26:46"
+  },
+  {
+    "position": "541",
+    "startNumber": "492",
+    "name": "Blancquaert, Pascal",
+    "city": "MECHELEN",
+    "category": "M",
+    "categoryPosition": "332",
+    "totalTime": "01:28:14"
+  },
+  {
+    "position": "542",
+    "startNumber": "324",
+    "name": "Langerak, Mary",
+    "city": "HILVERSUM",
+    "category": "V",
+    "categoryPosition": "210",
+    "totalTime": "01:28:23"
+  },
+  {
+    "position": "543",
+    "startNumber": "594",
+    "name": "Linden, Karin van der",
+    "city": "VINKEVEEN",
+    "category": "V",
+    "categoryPosition": "211",
+    "totalTime": "01:30:04"
+  },
+  {
+    "position": "544",
+    "startNumber": "510",
+    "name": "Genderen, Hester van",
+    "city": "WAVERVEEN",
+    "category": "V",
+    "categoryPosition": "212",
+    "totalTime": "01:30:11"
+  },
+  {
+    "position": "545",
+    "startNumber": "358",
+    "name": "Smid, Emma",
+    "city": "AMSTERDAM",
+    "category": "V",
+    "categoryPosition": "213",
+    "totalTime": "01:32:08"
+  },
+  {
+    "position": "546",
+    "startNumber": "371",
+    "name": "Roy, Klaas de",
+    "city": "ABCOUDE",
+    "category": "M",
+    "categoryPosition": "333",
+    "totalTime": "01:36:40"
+  },
+  {
+    "position": "547",
+    "startNumber": "619",
+    "name": "Snoodijk, Pieter",
+    "city": "GOES",
+    "category": "M",
+    "categoryPosition": "334",
+    "totalTime": "01:41:24"
+  },
+  {
+    "position": "548",
+    "startNumber": "618",
+    "name": "Krooshof, Ruth",
+    "city": "HILVERSUM",
+    "category": "M",
+    "categoryPosition": "335",
+    "totalTime": "01:41:24"
+  }
+]

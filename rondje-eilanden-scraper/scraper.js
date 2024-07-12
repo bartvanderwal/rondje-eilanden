@@ -1,23 +1,23 @@
 const fs = require('fs');
 const cheerio = require('cheerio');
 const iconv = require('iconv-lite');
+const execSync = require('child_process').execSync;
 
 const verbose = true;
-const startjaar = 2015;
-const eindjaar = 2015;
+const reallyVerbose = false;
+const startjaar = 2012;
+const eindjaar = 2023;
 
-// Laad het HTML-bestand.
-for(let jaar=startjaar; jaar<=eindjaar; jaar++ ) {
+for (let jaar = startjaar; jaar <= eindjaar; jaar++) {
   let inputFile = `./data/rondje-eilanden-${jaar}.html`;
   let htmlBuffer;
   try {
-    htmlBuffer = fs.readFileSync(inputFile, 'utf8');
+    htmlBuffer = fs.readFileSync(inputFile);
+    let encoding = detectEncoding(inputFile);
     let resultFilename = `results-${jaar}.json`;
 
-    // Tussen variabele voor tabel rijen
-    // Debug: Log het aantal rijen en de eerste paar rijen om de structuur te inspecteren
-    console.log(`Start met scrapen ${inputFile} naar ${resultFilename}.`);
-      parseFile(htmlBuffer, resultFilename)
+    console.log(`Start met scrapen ${inputFile} naar ${resultFilename} met encoding ${encoding}.`);
+    parseFile(htmlBuffer, resultFilename, encoding);
   } catch (error) {
     console.log(`Fout voor jaar ${jaar}, waarschijnlijk Corona jaar ofzo, ik skip ${inputFile}`);
     if (verbose) {
@@ -26,13 +26,26 @@ for(let jaar=startjaar; jaar<=eindjaar; jaar++ ) {
   }
 }
 
-function parseFile(htmlBuffer, resultFilename) {
-  let html = iconv.decode(htmlBuffer, 'UTF-16LE');
+function detectEncoding(filePath) {
+  let output = execSync(`file -I ${filePath}`).toString();
+  let match = output.match(/charset=(\S+)/);
+  return match ? match[1] : 'unknown';
+}
+
+function parseFile(htmlBuffer, resultFilename, encoding) {
+  let html;
+  if (encoding === 'utf-16le') {
+    html = iconv.decode(htmlBuffer, 'UTF-16LE');
+  } else if (encoding === 'iso-8859-1') {
+    html = iconv.decode(htmlBuffer, 'ISO-8859-1');
+  } else {
+    html = htmlBuffer.toString();
+  }
 
   const $ = cheerio.load(html);
 
   // Debug: Log de volledige HTML om te zien of deze correct is geladen
-  console.log(`HTML Content: ${$('html').html()}`);
+  console.log(`HTML Content (begin): ${$('html').html().slice(0, 200)}`);
 
   // Tussen variabele voor tabel rijen
   let participants = $('table tr');
@@ -52,13 +65,14 @@ function parseFile(htmlBuffer, resultFilename) {
         categoryPosition: $(cols[5]).text().trim(),
         totalTime: $(cols[6]).text().trim(),
       };
-      if (verbose) {
+      if (reallyVerbose) {
         console.log(`Row ${rowNum}: ${result}`);
       }
       results.push(result);
     }
   });
 
-  // Schrijf de resultaten naar een JSON-bestand.
+  // Schrijf de resultaten naar een JSON-bestand
   fs.writeFileSync(`./data/${resultFilename}`, JSON.stringify(results, null, 2), 'utf8');
+  console.log(`Scraping completed and results saved to "${resultFilename}"`);
 }
